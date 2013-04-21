@@ -29,6 +29,7 @@ div.content a {
 }
 
 div.content > .me {
+    position: relative;
     width: 180px;
     height: 180px;
     margin: 0 auto 18px auto;
@@ -44,12 +45,30 @@ div.content > .me {
 	   -moz-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	     -o-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 	        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-    -webkit-transition: background 0.2s linear;
-       -moz-transition: background 0.2s linear;
-         -o-transition: background 0.2s linear;
-            transition: background 0.2s linear;
 }
 
-div.content > .me:hover {
-    background-image: url(../img/rocket.png);
+div.content > .me > .josh {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 180px;
+    height: 180px;
+    opacity: 1;
+    -webkit-transition: opacity 0.2s ease-in-out;
+       -moz-transition: opacity 0.2s ease-in-out;
+         -o-transition: opacity 0.2s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
+}
+
+div.content > .me > .rocket {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 180px;
+    height: 180px;
+    opacity: 1;
+}
+
+div.content > .me > .josh:hover {
+    opacity: 0;
 }
