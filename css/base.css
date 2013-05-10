@@ -10,30 +10,52 @@ body {
     color: #2b2b2b;
 }
 
-div.content {
+div.container {
+    width: 1200px;
     margin: 0 auto;
-    padding-top: 100px;
-    width: 240px;
-    text-align: center;
     line-height: 20px;
 }
 
-div.content > p {
+div.wrapper {
+    margin: 0 auto;
+    padding-top: 100px;
+    width: 240px;
+}
+
+div.content {
+    border-left: 1px solid #999;
+}
+
+div.container p {
     margin-bottom: 18px;
 }
 
-div.content a {
+div.container a {
     color: #08C;
     border-bottom: 1px dashed #999;
     text-decoration: none;
 }
 
-div.content > .me {
+div.side {
+    width: 220px;
+    float: left;
+    padding: 40px 10px 0 10px;
+    text-align: right;
+}
+
+div.wrapper {
+    width: 940px;
+    float: left;
+    padding: 40px 10px 0 10px;
+}
+
+div.side > .me {
+    float: right;
     position: relative;
     width: 180px;
     height: 180px;
-    margin: 0 auto 18px auto;
     padding: 4px;
+    margin-bottom: 18px;
     background-image: url(../img/me.png);
     background-position: 4px 4px;
     background-size: 180px;
@@ -47,7 +69,7 @@ div.content > .me {
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
-div.content > .me > .josh {
+div.side > .me > .josh {
     position: absolute;
     top: 4px;
     left: 4px;
@@ -60,7 +82,7 @@ div.content > .me > .josh {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.content > .me > .rocket {
+div.side > .me > .rocket {
     position: absolute;
     top: 4px;
     left: 4px;
@@ -73,10 +95,14 @@ div.content > .me > .rocket {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.content > .me:hover > .rocket{
+div.side > .me:hover > .rocket{
     opacity: 1;
 }
 
-div.content > .me > .josh:hover {
+div.side > .me > .josh:hover {
     opacity: 0;
+}
+
+div.side p {
+    clear: both;
 }
