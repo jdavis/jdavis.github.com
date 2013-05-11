@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Beginning of a Beautiful Blogship
 ---
 
