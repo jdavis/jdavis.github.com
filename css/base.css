@@ -6,6 +6,7 @@ ul { list-style: none; }
 body {
     font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #505050;
+    line-height: 22px;
 }
 
 ul.pretty {
@@ -113,7 +114,6 @@ div.wrap {
     min-height: 100%;
     width: 1000px;
     float: left;
-    line-height: 20px;
     border-left: 1px solid #dededc;
     margin: 0 9px 0 10px;
 }
@@ -122,9 +122,12 @@ div.content {
     padding: 30px 40px;
 }
 
-div.content h2 {
+div.content h1, div.content h2, div.content h3, div.content h4, div.content h5 {
     margin-bottom: 18px;
     padding-bottom: 6px;
+}
+
+div.content h2 {
     border-bottom: 1px solid #dededc;
 }
 
