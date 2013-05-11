@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: The Beginning of a Beautiful Blogship
 ---
 
@@ -42,7 +42,7 @@ started to link all of my profiles together. I started with GitHub but
 eventually started adding other profiles like Goodreads, Strava, Facebook, and
 so on.
 
-In January I decided to dedicate more time to using Twitter. I started tweeting
+In January, I decided to dedicate more time to using Twitter. I started tweeting
 regularly and started following some of the people pretty involved in the
 programming community. I quickly realized that Twitter was a great source for
 new and emerging technology as well as just general news.
@@ -79,11 +79,13 @@ Final Thoughts
 --------------
 
 I was very clearly wrong in thinking that social networks were a waste of time
-and that they couldn't help one professionally. I'd encourage everyone to start
-making an online presence as soon as possible even if you aren't in the tech
-industry. If you are in the tech industry, there is nothing better that you can
-do with your time than invest in creating a blog/website. Like Nathan says, the
-return on investment is one of the highest things you can do.
+and that they couldn't help one professionally.
+
+I'd encourage everyone to start making an online presence as soon as possible
+even if you aren't in the tech industry. If you are in the tech industry, there
+is nothing better that you can do with your time than invest in creating a
+blog/website. Like Nathan says, the return on investment is one of the highest
+things you can do.
 
 
 
