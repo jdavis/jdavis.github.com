@@ -61,7 +61,7 @@ things. One of his most cherished habits was in creating amazing articles
 written in a fountain pen on a subject that interested him. He decided to start
 doing this because he suffered from writer's block for over a year and
 discovered that if he writes just for himself, his writing just flowed.  The
-Uniersity of Texas has since published over 1300 EWDs in a [online
+University of Texas has since published over 1300 EWDs in a [online
 archive][ewds].
 
 I've thought about Dijkstra a lot. I really liked his idea of writing just for
