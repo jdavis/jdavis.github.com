@@ -8,6 +8,31 @@ body {
     color: #505050;
 }
 
+ul.pretty {
+    list-style: disc;
+    margin: 4px 0 18px 40px;
+}
+
+ul.layer {
+    float: left;
+}
+
+ul.layer li {
+    float: left;
+    width: 180px;
+    margin: 4px 0;
+}
+
+ul.layer:before, ul.layer:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+ul.layer:after {
+    clear:both;
+}
+
 div.container {
     width: 1200px;
     min-height: 100%;
@@ -15,14 +40,14 @@ div.container {
     margin: 0 auto;
 }
 
-div.container:after {
-    clear: both;
-}
-
-div.container:before, div.container:after {
+.clear:before, div.clear:after {
     display: table;
     line-height: 0;
     content: "";
+}
+
+.clear:after {
+    clear: both;
 }
 
 div.container p {
@@ -50,12 +75,17 @@ div.side h2 {
 }
 
 div.side ul {
-    border-top: 1px solid #dededc;
+    border-bottom: 1px solid #dededc;
+    margin-bottom: 18px;
 }
 
 div.side ul li {
     padding: 6px;
-    border-bottom: 1px solid #dededc;
+    border-top: 1px solid #dededc;
+}
+
+div.side ul li:first-child {
+    border-top: none;
 }
 
 div.side ul li a {
@@ -74,7 +104,7 @@ div.side .profiles {
 }
 
 div.side .profiles a {
-    font-size: 1.4em;
+    font-size: 1.6em;
     border-bottom: none;
 }
 
@@ -108,7 +138,7 @@ div.me {
             border-radius: 10px;
 }
 
-div.me > .josh {
+div.me .josh {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -124,7 +154,7 @@ div.me > .josh {
             border-radius: 10px;
 }
 
-div.me > .rocket {
+div.me .rocket {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -140,14 +170,10 @@ div.me > .rocket {
             border-radius: 10px;
 }
 
-div.me:hover > .rocket{
+div.me:hover .rocket{
     opacity: 1;
 }
 
-div.me > .josh:hover {
+div.me .josh:hover {
     opacity: 0;
-}
-
-div.side p {
-    clear: both;
 }
