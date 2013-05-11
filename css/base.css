@@ -49,6 +49,35 @@ div.side h2 {
     text-align: center;
 }
 
+div.side ul {
+    border-top: 1px solid #dededc;
+}
+
+div.side ul li {
+    padding: 6px;
+    border-bottom: 1px solid #dededc;
+}
+
+div.side ul li a {
+    font-weight: bold;
+    display: block;
+    border-bottom: none;
+}
+
+div.side ul li a:hover {
+    display: block;
+    color: #505050;
+}
+
+div.side .profiles {
+    margin: 8px 0;
+}
+
+div.side .profiles a {
+    font-size: 1.4em;
+    border-bottom: none;
+}
+
 div.wrap {
     height: 100%;
     min-height: 100%;
