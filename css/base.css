@@ -112,10 +112,21 @@ div.side .profiles a {
 div.wrap {
     height: 100%;
     min-height: 100%;
+    height: auto !important;
     width: 1000px;
     float: left;
     border-left: 1px solid #dededc;
     margin: 0 9px 0 10px;
+}
+
+div.wrap:before, div.wrap:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+div.wrap:after {
+    clear:both;
 }
 
 div.content {
