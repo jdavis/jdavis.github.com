@@ -3,5 +3,9 @@ layout: default
 title: Home
 ---
 
+{% assign post = site.posts.first %}
 <h1>Latest Post <i class="icon-double-angle-right"></i></h1>
 
+<h4>{{ post.date | date: "%d %B %Y" }}</h4>
+
+{{ post.content }}
