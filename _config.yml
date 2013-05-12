@@ -3,4 +3,4 @@ pygments: true
 auto: true
 url: http://joshldavis.com
 permalink: pretty
-markdown: maruku
+markdown: rdiscount
