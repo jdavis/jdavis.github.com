@@ -17,8 +17,8 @@ maruku:
   use_tex:    false
   use_divs:   false
   png_engine: blahtex
-  png_dir:    img/latex
-  png_url:    /img/latex
+  png_dir:    img/
+  png_url:    /img/
 
 rdiscount:
   extensions: []
