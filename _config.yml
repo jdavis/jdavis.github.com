@@ -1,7 +1,3 @@
-destination: ./_site
-auto:        true
-lsi:         false
-server_port: 4000
-pygments:    true
-markdown:    rdiscount
-permalink:   date
+pygments: true
+auto: true
+url: http://joshldavis.com
