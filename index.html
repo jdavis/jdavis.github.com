@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
-<h2>Latest Post <i class="icon-double-angle-right"></i></h2>
+{% assign post = site.posts.first %}
+<h1>Latest Post <i class="icon-double-angle-right"></i></h1>
 
 
+{{ post.content }}
