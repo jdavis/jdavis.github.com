@@ -100,4 +100,4 @@ things you can do.
 [ewds]: http://www.cs.utexas.edu/users/EWD/
 [ira]: http://vimeo.com/24715531
 [dijkstra]: http://en.wikipedia.org/wiki/Edsger_W._Dijkstra
-[about]: about/
+[about]: /about/
