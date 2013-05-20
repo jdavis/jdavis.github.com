@@ -10,12 +10,19 @@ My handwriting used to be terrible. I think I got to a point in fourth grade
 where it just stopped getting better unlike most people. It didn't bother me
 either. It was still semi-legible to others and perfectly readable to myself.
 
-{% gallery 2 %}
+<div class="gallery two">
 
-{% img /img/handwriting/bad1.png "One of my to do lists from sophomore year." %}
-{% img /img/handwriting/bad2.png "Part of my solution to a Project Euler problem." %}
+<a href="/img/handwriting/bad1.png">
+<img src="/img/handwriting/bad1.png">
+<span>One of my to do lists from sophomore year.</span>
+</a>
 
-{% endgallery %}
+<a href="/img/handwriting/bad2.png">
+<img src="/img/handwriting/bad2.png">
+<span>Part of my solution to a Project Euler problem.</span>
+</a>
+
+</div>
 
 My letters lacked consistency. Things weren't spaced very well and it just
 looked *messy*. I have no idea how my professors put up with it.
@@ -27,11 +34,14 @@ and really liked his handwriting. Here's a sample of what his handwriting looked
 like. This was taken from his EWD called [On the Cruelty of Really Teaching
 Computing Science][ewd]:
 
-{% gallery %}
+<div class="gallery one">
 
-{% img /img/handwriting/dijkstras.png "Sample of Dijkstra's handwriting." %}
+<a href="/img/handwriting/dijkstras.png">
+<img src="/img/handwriting/dijkstras.png">
+<span>Sample of Dijkstra's handwriting.</span>
+</a>
 
-{% endgallery %}
+</div>
 
 [before]: {% post_url 2013-05-11-beginning-of-a-beautiful-blogship %}
 [ewd]: http://www.cs.utexas.edu/~EWD/ewd10xx/EWD1036.PDF
@@ -70,12 +80,12 @@ that helped with consistency and spacing. I did some Googling and came across [a
 site][handwriting] that had a few exercises.
 
 
-{% gallery %}
+<div class="gallery one">
 
-{% img /img/handwriting/loopies.gif %}
-{% img /img/handwriting/slashes.gif %}
+<a href="/img/handwriting/loopies.gif"><img src="/img/handwriting/loopies.gif"></a>
+<a href="/img/handwriting/slashes.gif"><img src="/img/handwriting/slashes.gif"></a>
 
-{% endgallery %}
+</div>
 
 The basic idea is to repeat the exercises over and over until the marks start to
 look really, really good. I went through pages and pages in a notebook repeating
@@ -91,11 +101,13 @@ then used that to base my handwriting off of.
 
 [font]: http://www.fonts101.com/fonts/view/Uncategorized/34398/Dijkstra
 
-{% gallery %}
+<div class="gallery one">
 
-{% img /img/handwriting/dijkstra-alphabet.png %}
+<a href="/img/handwriting/dijkstra-alphabet.png">
+<img src="/img/handwriting/dijkstra-alphabet.png">
+</a>
 
-{% endgallery %}
+</div>
 
 The next step was to write out the alphabet over and over again for a similar
 reason as the above exercises. If you do it long enough, eventually your letters
@@ -104,12 +116,19 @@ will become more consistent over time and look a lot nicer.
 Once again, I used up a ton of paper for this and did it whenever I wasn't busy.
 Here are a couple pictures of a scrap of paper I was able to find.
 
-{% gallery 2 %}
+<div class="gallery two">
 
-{% img /img/handwriting/progress1.png "Lowercase practice." %}
-{% img /img/handwriting/progress2.png "Practice with lower and upper case" %}
+<a href="/img/handwriting/progress1.png">
+<img src="/img/handwriting/progress1.png">
+<span>Lowercase practice.</span>
+</a>
 
-{% endgallery %}
+<a href="/img/handwriting/progress2.png">
+<img src="/img/handwriting/progress2.png">
+<span>Practice with lower and upper case</span>
+</a>
+
+</div>
 
 Obviously it isn't perfect and I never want it to be. I only wanted to use it as
 a base and customize it from there. I tried to incorporate a few of my own
@@ -120,11 +139,14 @@ differences over time.
 After three months and a few notebooks later, I had a pretty nice and new handwriting. Curiously
 enough, it looked like a hybrid between my mom's handwriting and Dijkstra's.
 
-{% gallery %}
+<div class="gallery one">
 
-{% img /img/handwriting/final.png "The final result in pen (top) and pencil (bottom)." %}
+<a href="/img/handwriting/final.png">
+<img src="/img/handwriting/final.png">
+<span>The final result in pen (top) and pencil (bottom).</span>
+</a>
 
-{% endgallery %}
+</div>
 
 The thing that I learned is that often someone's handwriting isn't exactly
 "bad", usually the person just doesn't take the time to slow down and write
