@@ -1,6 +1,5 @@
-safe: false
+safe: true
 pygments: true
 url: http://joshldavis.com
 permalink: pretty
 markdown: rdiscount
-plugins: _plugins/
