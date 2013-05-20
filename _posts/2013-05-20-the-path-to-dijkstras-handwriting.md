@@ -149,6 +149,9 @@ enough, it looked like a hybrid between my mom's handwriting and Dijkstra's.
 
 </div>
 
+Like I said, it isn't perfect and I can still tidy it up a bit but it certainly
+is better than where I started.
+
 The thing that I learned is that often someone's handwriting isn't exactly
 "bad", usually the person just doesn't take the time to slow down and write
 things nicely. There are still sometimes when my handwriting becomes a bit
