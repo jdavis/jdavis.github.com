@@ -105,6 +105,7 @@ then used that to base my handwriting off of.
 
 <a href="/img/handwriting/dijkstra-alphabet.png">
 <img src="/img/handwriting/dijkstra-alphabet.png">
+<span>The alphabet formed from Dijkstra's handwriting</span>
 </a>
 
 </div>
