@@ -32,7 +32,7 @@ looked *messy*. I have no idea how my professors put up with it.
 I've mentioned why I've admired Dijkstra [before][before], but I've read some of his EWDs
 and really liked his handwriting. Here's a sample of what his handwriting looked
 like. This was taken from his EWD called [On the Cruelty of Really Teaching
-Computing Science][ewd]:
+Computing Science (pdf)][ewd]:
 
 <div class="gallery one">
 
