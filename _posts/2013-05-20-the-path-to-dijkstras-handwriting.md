@@ -121,7 +121,7 @@ Here are a couple pictures of a scrap of paper I was able to find.
 
 <a href="/img/handwriting/progress1.png">
 <img src="/img/handwriting/progress1.png">
-<span>Lowercase practice.</span>
+<span>Lower case practice.</span>
 </a>
 
 <a href="/img/handwriting/progress2.png">
