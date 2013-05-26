@@ -1,4 +1,18 @@
-.highlight code,.codehilite pre{color:#fdce93;background-color:#3f3f3f}
+.highlight {
+    padding: 8px;
+    color:#fdce93;
+    background-color:#3f3f3f;
+    border-radius: 10px;
+}
+
+.highlight:hover .lineno {
+    display: none;
+}
+
+.highlight .lineno {
+    position: absolute;
+}
+
 .highlight .hll{background-color:#222}
 .highlight .c{color:#7f9f7f}
 .highlight .err{color:#e37170;background-color:#3d3535}
