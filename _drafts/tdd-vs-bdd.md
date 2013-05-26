@@ -1,10 +1,8 @@
 ---
 layout: post
 title: TDD vs BDD
-css: |
-    <link rel="stylesheet" href="/css/code.css" type="text/css" media="all" />
-js: |
-    <h1>Hi there</h1>
+css:
+    - /css/code.css
 ---
 
 {{ page.title }}
