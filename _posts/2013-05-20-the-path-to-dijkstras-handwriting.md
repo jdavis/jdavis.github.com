@@ -1,11 +1,11 @@
 ---
 layout: post
 title: The Path to Dijkstra's Handwriting
-css: |
-    <link rel="stylesheet" href="/lib/lightbox/css/lightbox.css" type="text/css" media="all" />
-js: |
-     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-     <script src="/lib/lightbox/js/lightbox.js" type="text/javascript"></script>
+css:
+    - /lib/lightbox/css/lightbox.css
+js:
+    - //ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
+    - /lib/lightbox/js/lightbox.js
 ---
 
 {{ page.title }}
