@@ -212,9 +212,7 @@ div.me {
     position: relative;
     width: 150px;
     height: 150px;
-    -webkit-border-radius: 10px;
-       -moz-border-radius: 10px;
-            border-radius: 10px;
+    border-radius: 10px;
 }
 
 div.me .josh {
@@ -223,14 +221,12 @@ div.me .josh {
     left: 0px;
     width: 150px;
     height: 150px;
+    border-radius: 10px;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
        -moz-transition: opacity 0.2s ease-in-out;
          -o-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
-    -webkit-border-radius: 10px;
-       -moz-border-radius: 10px;
-            border-radius: 10px;
 }
 
 div.me .rocket {
@@ -239,14 +235,12 @@ div.me .rocket {
     left: 0px;
     width: 150px;
     height: 150px;
+    border-radius: 10px;
     opacity: 0;
     -webkit-transition: opacity 0.2s ease-in-out;
        -moz-transition: opacity 0.2s ease-in-out;
          -o-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
-    -webkit-border-radius: 10px;
-       -moz-border-radius: 10px;
-            border-radius: 10px;
 }
 
 div.me:hover .rocket{
