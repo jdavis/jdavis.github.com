@@ -9,9 +9,12 @@ css:
 ================
 
 If you keep up-to-date with the latest software development practices, odds are
-you have heard of Test-driven development (TDD) and Behavior-driven development
-(BDD). This post is meant to explain what each practice means, provide examples,
-and then contrast the two. Let's dig in and see what we learn.
+you have heard of [Test-driven development (TDD)][tdd] and [Behavior-driven
+development (BDD)][bdd]. This post is meant to explain what each practice means,
+provide examples, and then contrast the two. Let's dig in and see what we learn.
+
+[tdd]: http://en.wikipedia.org/wiki/Test-driven_development
+[bdd]: http://en.wikipedia.org/wiki/Behavior-driven_development
 
 ## Test-Driven Development
 
