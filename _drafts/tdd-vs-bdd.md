@@ -165,5 +165,6 @@ code. If you don't test your code, you probably should.
 I'm not an expert on TDD or BDD by any means. I just didn't know the difference
 myself so I investigated it a bit and this is what I came up with.
 
-If you have suggestions or error corrections for this article, feel free to
-[contact me](/about#contact). Thanks for reading! ^_^
+If you have suggestions and/or error corrections for this article, or even if
+you just plain out disagree, I'd love to hear it all! Feel free to [contact
+me](/about#contact). Thanks for reading! ^_^
