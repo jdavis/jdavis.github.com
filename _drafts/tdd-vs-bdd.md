@@ -36,10 +36,10 @@ The cycle can just continue as long as the developer has more features to add. A
 flowchart is given below of this cycle:
 
 <div class="gallery one">
-    <a href="/img/tdd-vs-bdd/tdd-flowchart.png" title="Test-driven development flowchart.">
+    <figure>
         <img src="/img/tdd-vs-bdd/tdd-flowchart.png">
-        <span>Test-driven development flowchart.</span>
-    </a>
+        <figcaption>Test-driven development flowchart.</figcaption>
+    </figure>
 </div>
 
 ### Example
