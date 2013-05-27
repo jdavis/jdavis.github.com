@@ -12,11 +12,11 @@
     {% endfor %}
     {% if page.id == 'home' %}
         {% for css in site.posts.first.css %}
-            <link href="{{ css }}" rel="stylesheet" type="text/css">
+        <link href="{{ css }}" rel="stylesheet" type="text/css">
         {% endfor %}
     {% else %}
         {% for css in page.css %}
-            <link href="{{ css }}" rel="stylesheet" type="text/css">
+        <link href="{{ css }}" rel="stylesheet" type="text/css">
         {% endfor %}
     {% endif %}
     </head>
