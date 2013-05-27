@@ -158,14 +158,18 @@ describe('Test', function (){
 
 {% endhighlight %}
 
-At first they might look pretty similar but there are some key differences. The
-first difference is just the wording. BDD uses a more verbose style so that it
-can be read almost like a sentence.
+The main difference is just the wording. BDD uses a more verbose style so that
+it can be read almost like a sentence.
 
 This is what I meant by saying that BDD eliminates issues that TDD might cause.
 The ability to read your tests like a sentence is a cognitive shift in how you
 will think about your tests. The argument is that if you can read your tests
 fluidly, you will *naturally* write better and more comprehensive tests.
+
+Although this example is very simple and doesn't illustrate it, BDD tests should
+be more focused on the features, not the actual results. Often you'll hear that
+BDD is to help **design** the software, not test it like what TDD is meant to
+do.
 
 ## TDD vs BDD
 
@@ -176,19 +180,20 @@ coworkers are comfortable with, and sometimes other factors.
 Some argue that BDD is always better than TDD because it has the possibility of
 eliminating issues that might arise when using TDD.
 
-Now, this may seem like BDD is always superior to TDD. This certainly isn't the
-case. The key to BDD is that it **might** prevent issues; it isn't guaranteed
-to. Issues like poor code organization, bad design practices, etc. will still
+The key to BDD is that it **might** prevent issues; it isn't guaranteed to.
+Issues like poor code organization, bad design practices, etc. will still
 persist. You'll just have a lower likely hood of writing bad tests and thus have
 more robust features.
 
 ## Conclusion
 
-Neither style is better than the other, it really depends on the person. If you
-find yourself writing incomplete unit tests using TDD, give BDD a shot. If you
-are new to both TDD and BDD, I'd recommend you learn and use TDD first. The most
-important part of these two styles is that it forces you to write tests for your
-code. If you don't test your code, you probably should.
+Neither style is better than the other, it really depends on the person. A
+person that knows how to write great TDD tests can have just as few bugs as
+someone that knows how to write great BDD tests. If you find yourself writing
+incomplete tests using TDD and want to design better software? Then give BDD a
+shot. If you are new to both TDD and BDD, I'd recommend you learn and use TDD
+first. The most important part of these two styles is that it forces you to
+write tests for your code. If you don't test your code, you need to.
 
 I'm not an expert on TDD or BDD by any means. I just didn't know the difference
 myself so I investigated it a bit and this is what I came up with.
