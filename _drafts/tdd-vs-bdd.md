@@ -46,9 +46,10 @@ flowchart is given below of this cycle:
 
 Let's see an example of how a developer would do this.
 
-Let's say a developer wants to write a function that does `this`. The normal
-approach that TDD dictates is to use the function and then assert that the
-result satisfies a certain value.
+Let's say a developer wants to write a function that does something simple, like
+calculate a factorial (obviously a rather contrived example but it will show us
+the difference between TDD and BDD). The normal approach that TDD dictates is to
+use the function and then assert that the result satisfies a certain value.
 
 In this example, we're going to use a JavaScript testing framework called
 [Mocha](http://visionmedia.github.io/mocha/). The tests might look something
@@ -56,19 +57,30 @@ like this:
 
 {% highlight javascript %}
 
-suite('Test', function(){
+var assert = require('assert'),
+    factorial = require('../index');
+
+suite('Test', function (){
     setup(function (){
-        // ...
+        // Create any objects that we might need
     });
 
-    suite('#f()', function (){
-        test('equals -1 when not present', function (){
-            assert.equal(-1, [1,2,3].indexOf(4));
+    suite('#factorial()', function (){
+        test('equals 1 for sets of zero length', function (){
+            assert.equal(1, factorial(0));
         });
-    });
 
-    tearDown(function () {
-        // ...
+        test('equals 1 for sets of length one', function (){
+            assert.equal(1, factorial(1));
+        });
+
+        test('equals 2 for sets of length two', function (){
+            assert.equal(2, factorial(2));
+        });
+
+        test('equals 6 for sets of length three', function (){
+            assert.equal(6, factorial(3));
+        });
     });
 });
 
@@ -80,16 +92,17 @@ this:
 
 {% highlight javascript %}
 
-module.exports = function () {
-    
+module.exports = function (n) {
+    if (n < 0) return NaN;
+    if (n === 0) return 1;
+
+    return n * factorial(n - 1);
 };
 
 {% endhighlight %}
 
-Now when we run the tests, everything passes! We're ready to move onto our next
-feature, right? **Nope.**
-
-Before we explain what the issue is, let's look at what BDD is.
+Now if we run the tests, we can see that all of them pass! This is how TDD
+works. Now let's take a look at BDD to see how it is different.
 
 ## Behavior-Driven Development
 
@@ -101,31 +114,45 @@ developing.
 Whatever the actual definition is, it doesn't matter that much. The main thing
 to know is that **BDD is meant to eliminate issues that TDD might cause.**
 
-In contrast to TDD, BDD is when we write *behavior* that then drives our
-software development. Behavior might seem awfully similar to tests but the
-difference is very subtle and important.
+In contrast to TDD, BDD is when we write *behavior &amp; specification* that
+then drives our software development. Behavior &amp; specification might seem
+awfully similar to tests but the difference is very subtle and important.
 
 ### Example
 
-Let's take a look at our previous example of writing a function to do
-`this`. When we wrote our tests using the TDD style, they had a flaw. Now let's
-use BDD to see how our tests come out:
+Let's take a look at our previous example of writing a function to calculate the
+factorial for a number.
 
 {% highlight javascript %}
 
+var assert = require('assert'),
+    factorial = require('../index');
+
 describe('Test', function (){
     before(function(){
-        // ...
+        // Stuff to do before the tests, like imports, what not
     });
 
-    describe('#f()', function (){
-        it('should return -1 when not present', function (){
-            [1,2,3].indexOf(4).should.equal(-1);
+    describe('#factorial()', function (){
+        it('should return 1 when given 0', function (){
+            factorial(0).should.equal(1);
+        });
+
+        it('should return 1 when given 1', function (){
+            factorial(1).should.equal(1);
+        });
+
+        it('should return 2 when given 2', function (){
+            factorial(2).should.equal(2);
+        });
+
+        it('should return 6 when given 3', function (){
+            factorial(3).should.equal(6);
         });
     });
 
     after(function () {
-        // ...
+        // Anything after the tests have finished
     });
 });
 
@@ -136,23 +163,24 @@ first difference is just the wording. BDD uses a more verbose style so that it
 can be read almost like a sentence.
 
 This is what I meant by saying that BDD eliminates issues that TDD might cause.
-The ability to read your tests like a sentence is a shift in how you will think
-about your tests. The argument is that if you can read your tests fluidly, you
-will *naturally* write better and more comprehensive tests.
+The ability to read your tests like a sentence is a cognitive shift in how you
+will think about your tests. The argument is that if you can read your tests
+fluidly, you will *naturally* write better and more comprehensive tests.
 
 ## TDD vs BDD
 
-As I mentioned in our TDD example, there was an issue in our test. The issue was
-`this`.
+The choice between TDD and BDD is a complicated one. It depends on if there is
+an appropriate testing framework for your given target language, what your
+coworkers are comfortable with, and sometimes other factors.
 
-We didn't have that issue when we wrote our BDD tests because of how natural
-writing the BDD tests was. The fluidness helped our tests to be more
-comprehensive and with less errors.
+Some argue that BDD is always better than TDD because it has the possibility of
+eliminating issues that might arise when using TDD.
 
 Now, this may seem like BDD is always superior to TDD. This certainly isn't the
 case. The key to BDD is that it **might** prevent issues; it isn't guaranteed
-to. Issues like poor organization, bad practices, etc. will still persist.
-You'll just have a lower likely hood of writing bad tests.
+to. Issues like poor code organization, bad design practices, etc. will still
+persist. You'll just have a lower likely hood of writing bad tests and thus have
+more robust features.
 
 ## Conclusion
 
