@@ -44,7 +44,9 @@ flowchart is given below of this cycle:
 
 ### Example
 
-Let's see an example of how a developer would do this.
+Let's see an example of how a developer would do this. The complete source code
+for this article is located in this repository: [tdd-vs-bdd][repo]. Feel free to
+clone it and run it yourself by issuing the commands `npm install && grunt`.
 
 Let's say a developer wants to write a function that does something simple, like
 calculate a factorial (obviously a rather contrived example but it will show us
@@ -196,8 +198,12 @@ first. The most important part of these two styles is that it forces you to
 write tests for your code. If you don't test your code, you need to.
 
 I'm not an expert on TDD or BDD by any means. I just didn't know the difference
-myself so I investigated it a bit and this is what I came up with.
+myself so I investigated it a bit and this is what I came up with. Once again,
+the code for the example in this post is located in this repository:
+[tdd-vs-bdd][repo].
 
 If you have suggestions and/or error corrections for this article, or even if
 you just plain out disagree, I'd love to hear it all! Feel free to [contact
-me](/about#contact). Thanks for reading! ^_^
+me](/about#contact). Thanks for reading! ^\_^
+
+[repo]: https://github.com/jdavis/tdd-vs-bdd
