@@ -9,6 +9,9 @@ description: Personal web page for Josh L. Davis
 url: http://joshldavis.com
 feed: /atom.xml
 
+author: Josh Davis
+contact: hello@joshldavis.com
+
 css:
     - /css/base.css
     - /lib/font-awesome/css/font-awesome.min.css
