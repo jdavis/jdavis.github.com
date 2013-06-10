@@ -54,7 +54,7 @@ Ultimate][models].
 ## The Review
 
 I have only had it a few days but I really, *really* enjoy typing on it. It's very easy to
-tell that the Cherry Blue MX switches are of top notch quality. They are very
+tell that the Cherry MX Blue switches are of top notch quality. They are very
 responsive and seem to be incredibly durable.
 
 The keys sound completely awesome while typing on them as well. My girlfriend
