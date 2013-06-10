@@ -67,7 +67,7 @@ haha.
 So far I'm very happy that I bought a nice keyboard that will last for a long
 time. I am also very glad I went with a Das keyboard.
 
-The fellow interns that I worked with last summer have carried the tradition to
+The fellow interns that I worked with last summer have carried the legacy to
 various companies. The intern with the Model M will be starting at Microsoft on
 July 1st. The intern that had the Das Keyboard is starting a career at Google
 soon. I'm at Amazon and there's no telling where the other very smart interns
