@@ -197,7 +197,7 @@ Taking our Dragon example from earlier, if we left off the implementation for
 the `roar` method in our `FireBreatingDragon`, then it would just output "Roar!"
 again because it inherits the `roar` method from `Dragon`.
 
-## A OOP Paradigm Shift
+## An Object-Oriented Paradigm Shift
 
 The Gang of Four book starts off in Chapter One by defining each of the terms I
 have listed above. As I read it, I figured it would all be review, yet I was
