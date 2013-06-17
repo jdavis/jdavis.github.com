@@ -9,8 +9,8 @@ css:
 ================
 
 Since I've been to Seattle, I've had a lot of time to catch up on reading. One
-of the books that I've been reading has been a classic since it was first
-released in 1994.
+of the books that I've been reading has been well regarded since it was released
+in 1994.
 
 [Design Patterns: Elements of Reusable Object-Oriented Software][gof] (also
 called the Gang of Four book) is considered to be one of the best books when it
