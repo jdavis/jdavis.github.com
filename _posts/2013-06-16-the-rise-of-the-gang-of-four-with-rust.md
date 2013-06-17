@@ -207,7 +207,7 @@ forever changed.
 <div class="gallery one">
     <figure>
         <img src="/img/mind-blown.gif">
-        <figcaption>A slight overexaggeration of what happened as I read GoF.</figcaption>
+        <figcaption>This really did happen to my brain.</figcaption>
     </figure>
 </div>
 
