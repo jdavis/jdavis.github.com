@@ -117,7 +117,7 @@ The signature in Java looks different than the one in Ruby because the types
 need to be declared. The first type we see is that the method called `gcd`
 returns an `int` and takes two `ints` as arguments.
 
-## Interface
+### Interface
 
 An **interface** is a set of signatures that an object must respond to when
 implementing it. This is a way of guaranteeing that an object has a method
@@ -142,7 +142,7 @@ public interface Sloth {
 Now any object that implements the `Sloth` interface is guaranteed to respond to
 the two methods: `climb` and `eat`.
 
-## Polymorphism
+### Polymorphism
 
 Polymorphism is considered to be one of the tenets of OOP. **Polymorphism** is
 when an object can take on multiple forms. This sounds strange but you've
@@ -187,7 +187,7 @@ about `FireBreatingDragon`, it only has to know about the class `Dragon`. What
 happens is that since `FireBreatingDragon` extends `Dragon`, it just gets casted
 to it during the `train` method and calls the appropriate method.
 
-## Inheritance
+### Inheritance
 
 **Inheritance** is almost exactly what it sounds like, if one has an object that
 extends from another, it will now have all of the same signatures and instance
