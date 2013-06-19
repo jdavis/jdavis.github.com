@@ -156,20 +156,32 @@ div.content .gallery {
     margin-bottom: 18px;
 }
 
-div.content .gallery.one {
-    width: 380px;
+div.content .gallery.xxsmall {
+    width: 160px;
 }
 
-div.content .gallery.one img {
-    width: 380px;
+div.content .gallery.xsmall {
+    width: 320px;
 }
 
-div.content .gallery.two {
+div.content .gallery.small {
+    width: 480px;
+}
+
+div.content .gallery.medium {
+    width: 640px;
+}
+
+div.content .gallery.large {
     width: 800px;
 }
 
-div.content .gallery.two img {
-    width: 380px;
+div.content .gallery.xlarge {
+    width: 960px;
+}
+
+div.content .gallery.xxlarge {
+    width: 1120px;
 }
 
 div.content .gallery:before, div.content .gallery:after {
@@ -186,7 +198,6 @@ div.content .gallery a, div.content .gallery figure {
     margin-left: 10px;
     float: left;
     display: block;
-    width: 380px;
     padding: 4px;
     background-color: #fff;
     background-repeat: no-repeat;
