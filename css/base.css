@@ -195,6 +195,7 @@ div.content .gallery:after {
 }
 
 div.content .gallery a, div.content .gallery figure {
+    text-align: center;
     margin-left: 10px;
     float: left;
     display: block;
@@ -210,6 +211,7 @@ div.content .gallery a, div.content .gallery figure {
 }
 
 div.content .gallery a > span, div.content .gallery figure > figcaption {
+    text-align: left;
     color: #505050;
     padding: 4px;
     background-color: #f0f0f0;

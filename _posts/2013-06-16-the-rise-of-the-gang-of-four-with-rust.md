@@ -204,7 +204,7 @@ have listed above. As I read it, I figured it would all be review, yet I was
 getting very confused by the definitions. I re-read the chapter and my mind was
 forever changed.
 
-<div class="gallery one">
+<div class="gallery xsmall">
     <figure>
         <img src="/img/mind-blown.gif">
         <figcaption>This really did happen to my brain.</figcaption>
