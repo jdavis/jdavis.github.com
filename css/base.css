@@ -224,15 +224,16 @@ div.content blockquote {
     border-left: 5px solid #eeeeee;
 }
 
-div.me {
+div.logo {
     margin: 0 auto;
     position: relative;
     width: 150px;
     height: 150px;
     border-radius: 10px;
+    text-align: center;
 }
 
-div.me .josh {
+div.logo .josh {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -246,7 +247,7 @@ div.me .josh {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.me .rocket {
+div.logo .rocket {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -260,10 +261,10 @@ div.me .rocket {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.me:hover .rocket{
+div.logo:hover .rocket{
     opacity: 1;
 }
 
-div.me .josh:hover {
+div.logo .josh:hover {
     opacity: 0;
 }
