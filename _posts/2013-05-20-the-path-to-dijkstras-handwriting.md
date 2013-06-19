@@ -15,15 +15,15 @@ My handwriting used to be terrible. I think I got to a point in fourth grade
 where it just stopped getting better unlike most people. It didn't bother me
 either. It was still semi-legible to others and perfectly readable to myself.
 
-<div class="gallery two">
+<div class="gallery medium">
     <a href="/img/handwriting/bad1.png" rel="lightbox[bad]" title="One of my to do lists from sophomore year.">
-        <img src="/img/handwriting/bad1.png">
-        <span>One of my to do lists from sophomore year.</span>
+        <img src="/img/handwriting/bad1.png" width="290">
+        <span>A to do list from sophomore year</span>
     </a>
 
     <a href="/img/handwriting/bad2.png" rel="lightbox[bad]" title="Part of my solution to a Project Euler problem.">
-        <img src="/img/handwriting/bad2.png">
-        <span>Part of my solution to a Project Euler problem.</span>
+        <img src="/img/handwriting/bad2.png" width="290">
+        <span>Part of a solution to Project Euler</span>
     </a>
 </div>
 
@@ -37,9 +37,9 @@ and really liked his handwriting. Here's a sample of what his handwriting looked
 like. This was taken from his EWD called [On the Cruelty of Really Teaching
 Computing Science (pdf)][ewd]:
 
-<div class="gallery one">
+<div class="gallery medium">
     <a href="/img/handwriting/dijkstras.png" rel="lightbox" title="Sample of Dijkstra's handwriting.">
-        <img src="/img/handwriting/dijkstras.png">
+        <img src="/img/handwriting/dijkstras.png" width="620">
         <span>Sample of Dijkstra's handwriting.</span>
     </a>
 </div>
@@ -81,12 +81,12 @@ that helped with consistency and spacing. I did some Googling and came across [a
 site][handwriting] that had a few exercises.
 
 
-<div class="gallery one">
+<div class="gallery xsmall">
     <a href="/img/handwriting/loopies.gif" rel="lightbox">
-        <img src="/img/handwriting/loopies.gif">
+        <img src="/img/handwriting/loopies.gif" width="220">
     </a>
     <a href="/img/handwriting/slashes.gif" rel="lightbox">
-        <img src="/img/handwriting/slashes.gif">
+        <img src="/img/handwriting/slashes.gif" width="220">
     </a>
 </div>
 
@@ -104,9 +104,9 @@ then used that to base my handwriting off of.
 
 [font]: http://www.fonts101.com/fonts/view/Uncategorized/34398/Dijkstra
 
-<div class="gallery one">
+<div class="gallery small">
     <a href="/img/handwriting/dijkstra-alphabet.png" rel="lightbox" title="The alphabet formed from Dijkstra's handwriting.">
-        <img src="/img/handwriting/dijkstra-alphabet.png">
+        <img src="/img/handwriting/dijkstra-alphabet.png" width="470">
         <span>The alphabet formed from Dijkstra's handwriting.</span>
     </a>
 </div>
@@ -118,13 +118,13 @@ will become more consistent over time and look a lot nicer.
 Once again, I used up a ton of paper for this and did it whenever I wasn't busy.
 Here are a couple pictures of a scrap of paper I was able to find.
 
-<div class="gallery two">
+<div class="gallery medium">
     <a href="/img/handwriting/progress1.png" rel="lightbox[pratice]" title="Lower case practice.">
-        <img src="/img/handwriting/progress1.png">
+        <img src="/img/handwriting/progress1.png" width="300">
         <span>Lower case practice.</span>
     </a>
     <a href="/img/handwriting/progress2.png" rel="lightbox[pratice]" title="Practice with lower and upper case.">
-        <img src="/img/handwriting/progress2.png">
+        <img src="/img/handwriting/progress2.png" width="300">
         <span>Practice with lower and upper case.</span>
     </a>
 </div>
@@ -138,9 +138,9 @@ differences over time.
 After three months and a few notebooks later, I had a pretty nice and new handwriting. Curiously
 enough, it looked like a hybrid between my mom's handwriting and Dijkstra's.
 
-<div class="gallery one">
+<div class="gallery small">
     <a href="/img/handwriting/final.png" rel="lightbox" title="The final result in pen (top) and pencil (bottom).">
-        <img src="/img/handwriting/final.png">
+        <img src="/img/handwriting/final.png" width="460">
         <span>The final result in pen (top) and pencil (bottom).</span>
     </a>
 </div>

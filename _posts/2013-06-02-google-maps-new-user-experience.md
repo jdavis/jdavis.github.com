@@ -27,9 +27,9 @@ I think most of us are familiar with the past UX (user experience) and UI (user
 interface) on the old Google Maps. The top 10 search results show up on the
 left, and then the map with those markers are on the right:
 
-<div class="gallery one">
+<div class="gallery medium">
     <a href="/img/maps/old-google-maps-search.png" rel="lightbox[maps1]" title="The old interface for Google Maps search results.">
-        <img src="/img/maps/old-google-maps-search.png">
+        <img src="/img/maps/old-google-maps-search.png" width="620">
         <span>The old interface for Google Maps search results.</span>
     </a>
 </div>
@@ -50,9 +50,9 @@ I was pretty let down after I first tried it. I (mistakenly) didn't do the tour
 and assumed that I would be able to figure it out and that it would be
 intuitive.
 
-<div class="gallery one">
+<div class="gallery medium">
     <a href="/img/maps/new-google-maps-search.png" rel="lightbox[maps2]" title="The new interface for Google Maps search results.">
-        <img src="/img/maps/new-google-maps-search.png">
+        <img src="/img/maps/new-google-maps-search.png" width="620">
         <span>The new interface for Google Maps search results.</span>
     </a>
 </div>
