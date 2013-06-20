@@ -16,6 +16,7 @@ ul.pretty {
 
 ul.layer {
     float: left;
+    clear: both;
 }
 
 ul.layer li {
