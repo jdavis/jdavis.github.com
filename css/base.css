@@ -14,24 +14,19 @@ ul.pretty {
     margin: 4px 0 18px 40px;
 }
 
-ul.layer {
-    float: left;
-    clear: both;
-}
-
-ul.layer li {
+ul.pretty li {
     float: left;
     width: 180px;
     margin: 4px 0;
 }
 
-ul.layer:before, ul.layer:after {
+ul.pretty:before, ul.pretty:after {
     display: table;
     line-height: 0;
     content: "";
 }
 
-ul.layer:after {
+ul.pretty:after {
     clear:both;
 }
 
