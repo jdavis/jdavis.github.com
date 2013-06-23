@@ -17,7 +17,11 @@ commonly known as PGP. PGP was created by [Phil Zimmerman][zimm] in 1991 and tur
 strong cryptographic practices into something everyone could use.
 
 In the book it has a quotation from Zimmerman from an interview with a radio
-show, [High Tech Today][radio], recorded in February 1996, over 17 years ago:
+show, [High Tech Today][radio], recorded in February 1996, over 17 years ago.
+Although it is slightly different in the book, I hunted down the original. The
+interview can still be read in [its entirety][interview].
+
+Here's the quote:
 
 > Today we live in the information age. Everyone has computers. All the
 > trappings of the information age are part of our lives. Paper mail is being
@@ -41,3 +45,4 @@ show, [High Tech Today][radio], recorded in February 1996, over 17 years ago:
 [pgp]: http://en.wikipedia.org/wiki/Pretty_Good_Privacy
 [zimm]: http://www.philzimmermann.com/EN/background/index.html
 [radio]: http://www.animatedsoftware.com/hightech/hightech.htm
+[interview]: http://www.animatedsoftware.com/hightech/philspgp.htm
