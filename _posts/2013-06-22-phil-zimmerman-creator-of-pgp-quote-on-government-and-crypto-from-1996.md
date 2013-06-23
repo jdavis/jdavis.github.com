@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Zimmerman, Creator of PGP, Quote on Government & Crypto from 1996
+title: Phil Zimmermann, Creator of PGP, Quote on Government & Crypto from 1996
 css:
     - /css/code.css
 ---
@@ -13,10 +13,10 @@ history of cryptography from millenniums ago until the recent advances with
 quantum cryptography.
 
 In it there is a chapter dedicated to [Pretty Good Privacy][pgp] or more
-commonly known as PGP. PGP was created by [Phil Zimmerman][zimm] in 1991 and turned
+commonly known as PGP. PGP was created by [Phil Zimmermann][zimm] in 1991 and turned
 strong cryptographic practices into something everyone could use.
 
-In the book it has a quotation from Zimmerman from an interview with a radio
+In the book it has a quotation from Zimmermann from an interview with a radio
 show, [High Tech Today][radio], recorded in February 1996, over 17 years ago.
 Although it is slightly different in the book, I hunted down the original. The
 interview can still be read in [its entirety][interview].
