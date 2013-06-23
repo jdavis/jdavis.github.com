@@ -268,3 +268,7 @@ div.logo:hover .rocket{
 div.logo .josh:hover {
     opacity: 0;
 }
+
+div.end {
+    margin: 54px 0;
+}
