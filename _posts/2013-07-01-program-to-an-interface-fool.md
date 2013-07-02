@@ -113,7 +113,7 @@ fn main() {
         author: @"Fyodor Dostoevsky",
     };
 
-    // Burn the oak log!
+    // Let's try to burn the book...
     start_fire(book);
 }
 
