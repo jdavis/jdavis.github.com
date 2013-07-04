@@ -235,8 +235,8 @@ and makes working with your code a lot easier.
 ## Edit
 
 The response to this post was awesome. I was really pleased that it made it to
-the front page of [/r/programming][http://www.redit.com/r/programming], the
-front page of [/r/rust][http://www.reddit.com/r/rust], and some cool people
+the front page of [/r/programming][rprog], the
+front page of [/r/rust][rrust], and some cool people
 tweeted it. In particular I loved the [feedback some Rust developers
 gave][feedback]. I was able to fix my mistake of naming the trait as well as
 learn a bit about owned pointers. This is certainly why I try to contribute back
@@ -248,4 +248,6 @@ to the community =]
 [rdp]: http://joshldavis.com/rust-design-patterns/
 [gof]: http://amzn.com/0201633612
 [451]: http://en.wikipedia.org/wiki/Fahrenheit_451
+[rprog]: http://www.reddit.com/r/programming/
+[rrust]: http://www.reddit.com/r/rust/
 [feedback]: http://www.reddit.com/r/rust/comments/1hj03k/program_to_an_interface_fool/cauz6ff
