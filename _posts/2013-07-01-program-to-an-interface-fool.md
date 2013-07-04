@@ -232,9 +232,20 @@ It might not always be possible to program to an interface, but often it makes
 writing reusable and elegant code easier. It provides a very nice abstraction
 and makes working with your code a lot easier.
 
+## Edit
+
+The response to this post was awesome. I was really pleased that it made it to
+the front page of [/r/programming][http://www.redit.com/r/programming], the
+front page of [/r/rust][http://www.reddit.com/r/rust], and some cool people
+tweeted it. In particular I loved the [feedback some Rust developers
+gave][feedback]. I was able to fix my mistake of naming the trait as well as
+learn a bit about owned pointers. This is certainly why I try to contribute back
+to the community =]
+
 [rust]: http://www.rust-lang.org/
 [go]: http://golang.org/
 [rise]: http://joshldavis.com/2013/06/16/the-rise-of-the-gang-of-four-with-rust/
 [rdp]: http://joshldavis.com/rust-design-patterns/
 [gof]: http://amzn.com/0201633612
 [451]: http://en.wikipedia.org/wiki/Fahrenheit_451
+[feedback]: http://www.reddit.com/r/rust/comments/1hj03k/program_to_an_interface_fool/cauz6ff
