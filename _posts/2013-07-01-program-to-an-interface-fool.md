@@ -91,7 +91,6 @@ fn start_fire(lg: Log) {
 fn main() {
     let lg = Log {
         wood_type: ~"Oak",
-        length: 1,
     };
 
     // Burn the oak log!
