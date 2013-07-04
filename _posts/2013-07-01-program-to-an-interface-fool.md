@@ -148,25 +148,25 @@ struct Log {
     wood_type: @str,
 }
 
-trait Burnable {
+trait Burns {
     fn burn(&self);
 }
 
 {% endhighlight %}
 
-Now in addition to the two structs, we also have an interface called `Burnable`.
+Now in addition to the two structs, we also have an interface called `Burns`.
 This defines just a single method called `burn()`. Let's implement the interface
 for each struct now:
 
 {% highlight rust %}
 
-impl Burnable for Log {
+impl Burns for Log {
     fn burn(&self) {
         println(fmt!("The %s log is burning!", self.wood_type));
     }
 }
 
-impl Burnable for Book {
+impl Burns for Book {
     fn burn(&self) {
         println(fmt!("The book \"%s\" by %s is burning!", self.title, self.author));
     }
@@ -179,14 +179,14 @@ programming to an interface comes in:
 
 {% highlight rust %}
 
-fn start_fire<T: Burnable>(item: T) {
+fn start_fire<T: Burns>(item: T) {
     item.burn();
 }
 
 {% endhighlight %}
 
 Rather than expecting a Book object or a Log object, we just take in any object
-with any type (we call the type `T`) that implements the `Burnable` interface.
+with any type (we call the type `T`) that implements the `Burns` interface.
 This leaves us with the following main function:
 
 {% highlight rust %}
@@ -222,7 +222,7 @@ Which is exactly as we wanted.
 
 By following the principle behind "programming to an 'interface'", we were able
 to write a function once that is now completely reusable across any object that
-implements the `Burnable` interface. Since a lot of programmers are paid by the
+implements the `Burns` interface. Since a lot of programmers are paid by the
 hour, the more time we spend writing reusable code and the less time we spend
 maintaining old code, the better.
 
