@@ -48,12 +48,12 @@ to see how it turns out without "programming to an 'interface'":
 {% highlight rust %}
 
 struct Book {
-    title: @str,
-    author: @str,
+    title: ~str,
+    author: ~str,
 }
 
 struct Log {
-    wood_type: @str,
+    wood_type: ~str,
 }
 
 {% endhighlight %}
@@ -90,7 +90,7 @@ fn start_fire(lg: Log) {
 
 fn main() {
     let lg = Log {
-        wood_type: @"Oak",
+        wood_type: ~"Oak",
         length: 1,
     };
 
@@ -109,8 +109,8 @@ as well since they both have `burn()` methods? Let's try:
 
 fn main() {
     let book = Book {
-        title: @"The Brothers Karamazov",
-        author: @"Fyodor Dostoevsky",
+        title: ~"The Brothers Karamazov",
+        author: ~"Fyodor Dostoevsky",
     };
 
     // Let's try to burn the book...
@@ -140,12 +140,12 @@ interface. In Rust, interfaces are called **traits**:
 {% highlight rust %}
 
 struct Book {
-    title: @str,
-    author: @str,
+    title: ~str,
+    author: ~str,
 }
 
 struct Log {
-    wood_type: @str,
+    wood_type: ~str,
 }
 
 trait Burns {
@@ -193,12 +193,12 @@ This leaves us with the following main function:
 
 fn main() {
     let lg = Log {
-        wood_type: @"Oak",
+        wood_type: ~"Oak",
     };
 
     let book = Book {
-        title: @"The Brothers Karamazov",
-        author: @"Fyodor Dostoevsky",
+        title: ~"The Brothers Karamazov",
+        author: ~"Fyodor Dostoevsky",
     };
 
     // Burn the oak log!
