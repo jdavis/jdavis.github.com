@@ -31,7 +31,7 @@ Here's the quote (emphasis mine):
 > forth.
 
 The idea that struck me was that the implications of the `P` vs `NP` problem
-go beyond mathematics into fields such as art and engineering.
+goes beyond mathematics into fields such as art and engineering.
 
 There's no way I could even count the number of times I've seen a great user
 interface that works intuitively and well (verification) and have struggled to
