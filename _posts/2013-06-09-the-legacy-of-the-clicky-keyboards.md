@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Legacy of the Clicky Keyboards
+description: How I started to love clicky keyboards and ended up buying one of my own.
 ---
 
 {{ page.title }}
@@ -53,9 +54,9 @@ Ultimate][models].
 
 ## The Review
 
-I have only had it a few days but I really, *really* enjoy typing on it. It's very easy to
-tell that the Cherry MX Blue switches are of top notch quality. They are very
-responsive and seem to be incredibly durable.
+I have only had it a few days but I really, *really* enjoy typing on it. It's
+very easy to tell that the Cherry MX Blue switches are of top notch quality.
+They are very responsive and seem to be incredibly durable.
 
 The keys sound completely awesome while typing on them as well. My girlfriend
 isn't the biggest fan of how loud it is over Google Hangouts and I have a

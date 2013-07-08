@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Phil Zimmermann, Creator of PGP, Quote on Government & Crypto from 1996
+description: Phil Zimmermann, the creator of PGP, successfully predicted an incident similar to the one happening right now with PRISM and the NSA over 17 years ago.
 css:
     - /css/code.css
 ---

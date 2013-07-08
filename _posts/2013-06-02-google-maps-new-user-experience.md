@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The New Google Map's User Experience
+description: Some thoughts and musings about the new Google Maps interface.
 css:
     - /lib/lightbox/css/lightbox.css
 js:
