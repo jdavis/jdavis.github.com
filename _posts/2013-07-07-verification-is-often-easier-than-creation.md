@@ -16,8 +16,8 @@ the Theory of Computation][sipser]. I ended up absolutely loving the class so I
 asked my professor for a recommendation for further reading on the subject. He
 recommended [Computational Complexity: A Modern Approach][ccbook] by Sanjeev
 Arora and Boaz Barak. I've finally found a chance to dig into it this summer and
-I came across a quote that I struck me because it was a notion that I hadn't
-given much thought to.
+I came across a quote that struck me because it was a notion that I hadn't given
+much thought to.
 
 Here's the quote (emphasis mine):
 
