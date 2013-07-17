@@ -14,3 +14,4 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Phil Zimmermann, Creator of PGP, Quote on Government & Crypto from 1996](http://joshldavis.com/2013/06/22/phil-zimmerman-creator-of-pgp-quote-on-government-and-crypto-from-1996/)
 - [Program to an Interface, Fool](http://joshldavis.com/2013/07/01/program-to-an-interface-fool/)
 - [Verification is Often Easier than Creation](http://joshldavis.com/2013/07/07/verification-is-often-easier-than-creation/)
+- [Where Do I Sign Up to Change the World?](http://joshldavis.com/2013/07/17/where-do-i-sign-up-to-change-the-world/)
