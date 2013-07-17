@@ -40,10 +40,11 @@ cynically pessimistic.
 
 I've come across another quote that is just a question that perfectly sums up
 how I am feeling as I wonder about what I want to do after I graduate. This time
-the quote is from [Elon Musk][musk]. If you don't know who Elon Musk is, you
-need to find out now. Go to [YouTube][yt] and find some of his interviews. I've
-said it before, but I have a feeling that a hundred years from now, he will be
-considered a modern prophet.
+the quote is from [Elon Musk][musk].
+
+If you don't know who Elon Musk is, you need to find out now. Go to
+[YouTube][yt] and find some of his interviews. I've said it before, but I have a
+feeling that a hundred years from now, he will be considered a modern prophet.
 
 The quote is from his [TED Talk][ted] that he gave. He was asked what caused him
 to start an all-electric car company. Here's what he said:
