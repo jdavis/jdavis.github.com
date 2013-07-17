@@ -17,8 +17,9 @@ The only thing that I'm certain of at this point is that I want to leave this
 world having made it a better place than when I came into it.
 
 You might think that it sounds incredibly cheesy, but I agree. Though the thing that
-I've come to realize over the last year was described the best by Google's
-current CEO, Larry Page, during this year's Google IO. Here's the clip:
+I've come to realize over the last year was described the best by
+[Google's][google] current CEO, [Larry Page][page], during this year's Google
+IO. Here's the clip:
 
 <div class="gallery medium">
     <iframe width="640" height="360" src="http://www.youtube.com/embed/h4CFhT4Mrcg?rel=0&start=432&end=&autoplay=0" frameborder="0" allowfullscreen></iframe>
@@ -74,3 +75,5 @@ preparation and an opportunity will come along to make some luck.
 [ted]: http://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity.html
 [musk]: http://en.wikipedia.org/wiki/Elon_Musk
 [yt]: http://www.youtube.com
+[google]: http://www.google.com
+[page]: http://en.wikipedia.org/wiki/Larry_Page
