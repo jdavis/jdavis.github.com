@@ -9,6 +9,10 @@ body {
     line-height: 22px;
 }
 
+ul {
+    margin: 4px 0 18px 0;
+}
+
 ul.pretty {
     list-style: disc;
     margin: 4px 0 18px 40px;
