@@ -7,7 +7,11 @@ description: The personal website for Josh Davis, contains about info, contact l
 
 <h2>Latest Post <i class="icon-double-angle-right"></i></h2>
 
-<h4>{{ site.posts.first.date | date: "%d %B %Y" }}</h4>
+<h4>
+    <a href="{{ site.posts.first.url }}">
+        {{ site.posts.first.date | date: "%d %B %Y" }}
+    </a>
+</h4>
 
 {{ site.posts.first.content }}
 
