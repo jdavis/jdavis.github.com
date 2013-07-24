@@ -81,7 +81,7 @@ of the following:
 {% highlight c %}
 
 int a[] = {0, 1, 2, 3, 4};
-int \*p;
+int *p;
 
 p = a;
 
