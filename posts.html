@@ -5,8 +5,11 @@ description: A list of posts written by Josh Davis.
 ---
 
 <h2 id="posts">Posts <i class="icon-double-angle-right"></i></h2>
-<ul class="posts">
+<div class="posts">
 {% for post in site.posts %}
-    <li><span>{{ post.date | date: "%d %B %Y" }}</span> &mdash; <a href="{{ post.url }}">{{ post.title }}</a></li>
+   <span>{{ post.date | date: "%d %B %Y" }}</span> &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+    <p>
+       {{ post.description }}
+    </p>
 {% endfor %}
 </ul>
