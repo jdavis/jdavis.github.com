@@ -48,8 +48,11 @@ only riding on their natural ability.
 
 This whole idea, I think, is best shown in the movie [Gattaca][gattaca]. It is
 without a doubt my favorite movie. If you haven't Googled it by now, my favorite
-tag line: "I never save anything for the swim back" is from Gattaca. One of my
-next view posts will explain why it is my favorite movie.
+tag line: "I never save anything for the swim back" is from Gattaca.
+
+The next post that I will write in the next week or so will talk about why I
+love Gattaca so much. It is a long overdue post but I think it'll be a good one.
+Stay tuned.
 
 [elon]: http://en.wikipedia.org/wiki/Elon_Musk
 [feynman]: http://en.wikipedia.org/wiki/Richard_Feynman
