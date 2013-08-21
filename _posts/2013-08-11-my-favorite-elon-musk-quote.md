@@ -29,7 +29,7 @@ like always.
     <iframe width="560" height="315" src="//www.youtube.com/embed/1sumVEEAZ_w?rel=0&start=3131&end=&autoplay=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-I figured he would mention something about building a business or possible a
+I figured he would mention something about building a business or possibly a
 financial situation, but he didn't. It was actually straight from Elon's heart
 which is why I really enjoyed it.
 
@@ -37,9 +37,10 @@ It took him awhile to come up with an answer for it but here is what he
 answered:
 
 > The biggest mistake, in general, that I've made and I'm trying to correct for
-> that is to put too much of a weighting on somebody's talent and not their
-> personality... It actually matters whether someone has a good heart, it really
-> does. I've made the mistake of thinking sometimes it's just about the brain.
+> that is to put too much of a weighting on somebody's talent and not enough on
+> their personality... It actually matters whether someone has a good heart, it
+> really does. I've made the mistake of thinking sometimes it's just about the
+> brain.
 
 The reason why I love this quote so much is that it completely embodies the way
 I approach the world. I have always argued that if one cares enough and works
