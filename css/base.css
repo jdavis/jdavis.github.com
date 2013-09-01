@@ -276,3 +276,58 @@ div.logo .josh:hover {
 div.end {
     margin: 54px 0;
 }
+
+/*
+ * Responsive CSS
+ *
+ * Inspiration:
+ * https://github.com/dhg/Skeleton/blob/master/stylesheets/layout.css
+ */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) {
+    div.container {
+        width: 100%;
+    }
+
+    div.side {
+        text-align: center;
+        width: 100%;
+        float: none;
+        margin: 0;
+        padding: 10px 0;
+    }
+
+    div.side .paragraphs {
+        display: none;
+    }
+
+    div.side ul {
+        margin: 10px 40px;
+        text-shadow: 0 1px 0 #fff;
+        background-color: #f7f5fa;
+        border-radius: 5px;
+    }
+
+    div.wrap {
+        width: 100%;
+        margin: 0;
+        border-left: none;
+    }
+
+    div.content {
+        padding: 10px 40px;
+    }
+}
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) {}
