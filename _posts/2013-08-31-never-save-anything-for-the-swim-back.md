@@ -74,8 +74,8 @@ challenge one last time. This time things were different as Vincent describes:
 
 ## The Quote
 
-Near the end of the movie, Vincent is asked how he did it all. His answer is
-simple but profound:
+Near the end of the movie, Vincent is asked how he has done all that he has. His
+answer is simple but profound:
 
 > You want to know how I did it? This is how I did it: **I never saved anything
 > for the swim back.**
