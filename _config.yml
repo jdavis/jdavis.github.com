@@ -14,4 +14,4 @@ contact: hello@joshldavis.com
 css:
     - /css/base.css
     - /lib/font-awesome/css/font-awesome.min.css
-    - http://fonts.googleapis.com/css?family=Droid+Sans
+    - http://fonts.googleapis.com/css?family=Droid+Sans:400,700
