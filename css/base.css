@@ -9,28 +9,28 @@ body {
     line-height: 22px;
 }
 
+ul {
+    margin: 4px 0 18px 0;
+}
+
 ul.pretty {
     list-style: disc;
     margin: 4px 0 18px 40px;
 }
 
-ul.layer {
-    float: left;
-}
-
-ul.layer li {
+ul.pretty li {
     float: left;
     width: 180px;
     margin: 4px 0;
 }
 
-ul.layer:before, ul.layer:after {
+ul.pretty:before, ul.pretty:after {
     display: table;
     line-height: 0;
     content: "";
 }
 
-ul.layer:after {
+ul.pretty:after {
     clear:both;
 }
 
@@ -138,6 +138,10 @@ div.content h1, div.content h2, div.content h3, div.content h4, div.content h5 {
     padding-bottom: 6px;
 }
 
+div.content h1 {
+    line-height: 1em;
+}
+
 div.content h2 {
     border-bottom: 1px solid #dededc;
 }
@@ -156,20 +160,32 @@ div.content .gallery {
     margin-bottom: 18px;
 }
 
-div.content .gallery.one {
-    width: 380px;
+div.content .gallery.xxsmall {
+    width: 160px;
 }
 
-div.content .gallery.one img {
-    width: 380px;
+div.content .gallery.xsmall {
+    width: 320px;
 }
 
-div.content .gallery.two {
+div.content .gallery.small {
+    width: 480px;
+}
+
+div.content .gallery.medium {
+    width: 640px;
+}
+
+div.content .gallery.large {
     width: 800px;
 }
 
-div.content .gallery.two img {
-    width: 380px;
+div.content .gallery.xlarge {
+    width: 960px;
+}
+
+div.content .gallery.xxlarge {
+    width: 1120px;
 }
 
 div.content .gallery:before, div.content .gallery:after {
@@ -183,10 +199,10 @@ div.content .gallery:after {
 }
 
 div.content .gallery a, div.content .gallery figure {
+    text-align: center;
     margin-left: 10px;
     float: left;
     display: block;
-    width: 380px;
     padding: 4px;
     background-color: #fff;
     background-repeat: no-repeat;
@@ -199,6 +215,7 @@ div.content .gallery a, div.content .gallery figure {
 }
 
 div.content .gallery a > span, div.content .gallery figure > figcaption {
+    text-align: left;
     color: #505050;
     padding: 4px;
     background-color: #f0f0f0;
@@ -211,15 +228,16 @@ div.content blockquote {
     border-left: 5px solid #eeeeee;
 }
 
-div.me {
+div.logo {
     margin: 0 auto;
     position: relative;
     width: 150px;
     height: 150px;
     border-radius: 10px;
+    text-align: center;
 }
 
-div.me .josh {
+div.logo .josh {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -233,7 +251,7 @@ div.me .josh {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.me .rocket {
+div.logo .rocket {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -247,10 +265,14 @@ div.me .rocket {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.me:hover .rocket{
+div.logo:hover .rocket{
     opacity: 1;
 }
 
-div.me .josh:hover {
+div.logo .josh:hover {
     opacity: 0;
+}
+
+div.end {
+    margin: 54px 0;
 }

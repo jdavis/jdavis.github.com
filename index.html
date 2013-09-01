@@ -2,10 +2,30 @@
 id: home
 layout: default
 title: Home
+description: The personal website for Josh Davis, contains about info, contact links, list of projects, and various articles.
 ---
 
 <h2>Latest Post <i class="icon-double-angle-right"></i></h2>
 
-<h4>{{ site.posts.first.date | date: "%d %B %Y" }}</h4>
+<h4>
+    <a href="{{ site.posts.first.url }}">
+        {{ site.posts.first.date | date: "%d %B %Y" }}
+    </a>
+</h4>
 
 {{ site.posts.first.content }}
+
+<div class="end">
+    <hr/>
+</div>
+
+<p>
+    You're awesome for reading this. You should follow me on
+    <a href="https://twitter.com/HopefulJosh">Twitter</a>
+    and
+    <a href="https://plus.google.com/118212955073202247374/">Google+</a>.
+    I'm also available on
+    <a href="https://github.com/jdavis">GitHub</a>
+    and
+    <a href="http://linkedin.com/in/joshualeedavis">LinkedIn</a>.
+</p>

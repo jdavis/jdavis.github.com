@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Difference Between TDD and BDD
+description: Explanation of the difference between TDD and BDD using an example in JavaScript.
 css:
     - /css/code.css
 ---
@@ -34,13 +35,13 @@ usually broken up into five different stages:
 5. The developer can then refactor his code, add comments, clean it up, as
    he wishes because the developer knows that if the new code breaks something,
    then the tests will alert him by failing.
-    
+
 The cycle can just continue as long as the developer has more features to add. A
 flowchart is given below of this cycle:
 
-<div class="gallery one">
+<div class="gallery small">
     <figure>
-        <img src="/img/tdd-vs-bdd/tdd-flowchart.png">
+        <img src="/img/tdd-vs-bdd/tdd-flowchart.png" width="460">
         <figcaption>Test-driven development flowchart.</figcaption>
     </figure>
 </div>

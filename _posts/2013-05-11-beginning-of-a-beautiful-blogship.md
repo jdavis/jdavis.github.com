@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Beginning of a Beautiful Blogship
+description: How I went from trying to hide on the internet to fully embracing it.
 ---
 
 {{ page.title }}
@@ -8,7 +9,7 @@ title: The Beginning of a Beautiful Blogship
 
 I have been a fan of [Nathan Marz][nmarz] ever since I came across his blog post
 on his [experience working at a startup][experience]. I was pretty young at the
-time (my first summer after starting university in 2010) and was pretty influenced by
+time (my first summer in 2010 after starting university) and was pretty influenced by
 what he said. Just this past month I saw a new post by him on [HackerNews][hn].
 The post was about [creating opportunities in Silicon Valley with a
 blog][breaking]. I've always considered creating a place for me to post some

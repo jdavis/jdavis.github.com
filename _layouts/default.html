@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 
 <html>
-    <head>
+    <head prefix="og: http://ogp.me/ns#">
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-        <meta name="description" content="{{ site.description }}" />
+        <meta name="description" content="{{ page.description }}" />
         <meta name="author" content="Josh Davis" />
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <meta property="og:image" content="http://joshldavis.com/img/me.png">
         <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ site.feed }}">
     {% for css in site.css %}
         <link href="{{ css }}" rel="stylesheet" type="text/css">
@@ -24,7 +25,7 @@
 	<body>
         <div class="container">
             <div class="side">
-                <div class="me">
+                <div class="logo">
                     <img src="/img/rocket.png" class="rocket" alt="My cat, Rocket"/>
                     <img src="/img/me.png" class="josh" alt="Josh Davis"/>
                 </div>
@@ -32,7 +33,7 @@
                 <h2>Josh Davis</h2>
 
                 <p>
-                    I'm a Computer Science major that is interning at <a href="http://amazon.com">Amazon</a> in Seattle.
+                    I'm a Computer Science major that just finished interning at <a href="http://amazon.com">Amazon</a> in Seattle.
                 </p>
                 <p>
                     I like to learn, pet kittens, and wear fluffy socks.
@@ -45,17 +46,18 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="/posts/">Posts</a></li>
                     <li><a href="/learning/">Learning</a></li>
+                    <li><a href="/projects/">Projects</a></li>
                     <li><a href="/about/">About</a></li>
                     <li><a href="/about/#contact">Contact</a></li>
                     <li><a href="{{ site.feed }}">RSS <i class="icon-rss"></i></a></li>
                 </ul>
 
                 <p class="profiles">
-                    <a title="Josh Davis on GitHub" href="https://github.com/jdavis"><i class="icon-github-sign"></i></a>
-                    <a title="Josh Davis on Twitter" href="https://twitter.com/HopefulJosh"><i class="icon-twitter-sign"></i></a>
-                    <a title="Josh Davis on Facebook" href="https://facebook.com/joshd"><i class="icon-facebook-sign"></i></a>
-                    <a title="Josh Davis on Google+" href="https://plus.google.com/118212955073202247374/about"><i class="icon-google-plus-sign"></i></a>
-                    <a title="Josh Davis on LinkedIn" href="https://linkedin.com/in/joshualeedavis"><i class="icon-linkedin-sign"></i></a>
+                    <a title="GitHub" href="https://github.com/jdavis"><i class="icon-github-sign"></i></a>
+                    <a title="Twitter" href="https://twitter.com/HopefulJosh"><i class="icon-twitter-sign"></i></a>
+                    <a title="Facebook" href="https://facebook.com/joshd"><i class="icon-facebook-sign"></i></a>
+                    <a title="Google+" href="https://plus.google.com/118212955073202247374/about"><i class="icon-google-plus-sign"></i></a>
+                    <a title="LinkedIn" href="https://linkedin.com/in/joshualeedavis"><i class="icon-linkedin-sign"></i></a>
                 </p>
             </div>
 
