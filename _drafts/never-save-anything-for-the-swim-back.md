@@ -7,6 +7,13 @@ description: I put my mantra, "I never save anything for the swim back", everywh
 {{ page.title }}
 ================
 
+I put the quote "I never save anything for the swim back" everywhere. I have it
+on almost every profile that I have on the internet. Some of you might have
+heard it before but I'm finally going to explain where I got it from and why it
+means so much to me.
+
+## The Movie
+
 [Gattaca][gattaca] is a science fiction move that came out in 1997. Although I
 was 7 the year it was released, I didn't watch it until ~10 years later when I
 was in high school.
@@ -16,7 +23,7 @@ early on in the film. However, if you haven't seen it, I really, *really*
 suggest that you do so. It has been the single most influential thing that I
 have experienced.
 
-## The Plot
+### The Plot
 
 *Gattaca* takes place in the future where genetics is completely understood and
 rocket launches take place daily. Instead of discrimination based on social
