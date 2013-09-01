@@ -284,8 +284,31 @@ div.end {
  * https://github.com/dhg/Skeleton/blob/master/stylesheets/layout.css
  */
 
+@media only screen and (max-width: 1199px) {
+    div.container {
+        width: 100%;
+    }
+
+    div.side {
+        padding-left: 10px;
+        padding-right: 20px;
+        border-right: 1px solid #dededc;
+    }
+
+    div.wrap {
+        width: auto;
+        margin-left: 160px;
+        float: none;
+        border-left: none;
+    }
+
+    div.content {
+        margin: 0 40px;
+    }
+}
+
 /* Smaller than standard 960 (devices and browsers) */
-@media only screen and (max-width: 959px) {
+@media only screen and (max-width: 767px) {
     div.container {
         width: 100%;
     }
@@ -305,7 +328,7 @@ div.end {
     div.side ul {
         margin: 10px 40px;
         text-shadow: 0 1px 0 #fff;
-        background-color: #f7f5fa;
+        background-color: #f5f7fa;
         border-radius: 5px;
     }
 
@@ -321,10 +344,8 @@ div.end {
 }
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
-@media only screen and (min-width: 768px) and (max-width: 959px) {}
 
 /* All Mobile Sizes (devices and browser) */
-@media only screen and (max-width: 767px) {}
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {}
