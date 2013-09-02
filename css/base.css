@@ -61,6 +61,10 @@ div.container a {
     text-decoration: none;
 }
 
+div.nav-button {
+    display: none;
+}
+
 div.side {
     text-align: right;
     font-size: .9em;
@@ -305,6 +309,17 @@ div.end {
     div.content {
         margin: 0 40px;
     }
+
+    div.content .gallery.xxsmall,
+    div.content .gallery.xsmall,
+    div.content .gallery.small,
+    div.content .gallery.medium,
+    div.content .gallery.large,
+    div.content .gallery.xlarge,
+    div.content .gallery.xxlarge {
+        max-width: 100%;
+        height: auto;
+    }
 }
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
@@ -312,6 +327,21 @@ div.end {
 @media only screen and (min-width: 480px) and (max-width: 767px), screen and (max-width: 479px) {
     div.container {
         width: 100%;
+    }
+
+    div.nav-button {
+        display: inline;
+    }
+
+    div.nav-button i {
+        float: right;
+        padding: 9px 10px;
+        margin-top: 8px;
+        margin-right: 15px;
+        margin-bottom: 8px;
+        background-color: transparent;
+        border: 1px solid transparent;
+        border-radius: 4px;
     }
 
     div.side {
