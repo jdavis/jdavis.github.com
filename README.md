@@ -17,3 +17,5 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Where Do I Sign Up to Change the World?](http://joshldavis.com/2013/07/17/where-do-i-sign-up-to-change-the-world/)
 - [C: A Minute to Learn... A Lifetime to Master](http://joshldavis.com/2013/07/24/c-a-minute-to-learn-a-lifetime-to-master/)
 - [My Favorite Elon Musk Quote](http://joshldavis.com/2013/08/11/my-favorite-elon-musk-quote/)
+- [Never Save Anything for the Swim Back.
+  Ever](http://joshldavis.com/2013/08/31/never-save-anything-for-the-swim-back/)
