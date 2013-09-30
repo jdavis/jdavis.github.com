@@ -1,9 +1,7 @@
 ---
 layout: post
-title: The Differences Between Imperative and Functional Programming
-description: An explanation of imperative and functional programming paradigms using Python for imperative and Racket/Scheme for the functional language.
-css:
-    - /css/code.css
+title: The Differences Between Imperative and Functional Programming. Part 1.
+description: An explanation of imperative and functional programming paradigms.  Part 2 will include pros and cons and example code.
 ---
 
 {{ page.title }}
@@ -73,11 +71,32 @@ This sequence of state changes is often called a [side effect][effect]. The
 reason it is called a side effect is because it has the potential to modify
 the state, thus changing the flow of the program.
 
-If the state of a program is sufficiently complex (lots of variables, scopes),
-it can be hard to debug and understand. If the current code relies on the
-previous state, which then relies on more previous state, it then is obvious
-that the whole history of the program may need to be considered. However, proper
-organization of code should prevent this.
+## Functional Programming
+
+Functional programming is used in languages like Lisp, Haskell, and Scala.
+
+The main difference between imperative and functional languages is that
+functions that are evaluated are the main way of gaining and transforming data,
+functional programming is stateless. Rather than assigning values which can then
+be mutated like what happens in imperative languages, the value returned by a
+function is only dependent on its input.
+
+The lack of state allows a functional language to be reasoned just by looking at
+a function's input and output.
+
+Instead of `for` and `while` loops, [recursion][recursion] is used instead. Most
+people are exposed to recursion in imperative languages, but functional
+languages can have special support for recursion (such as [tail call][tail]).
+Recursion is just the idea of one's own definition to define itself. It may seem
+counterintuitive, but it actually is more prevalent than you might expect.
+
+## Coming Soon...
+
+Now that you at least know the definitions of imperative and functional
+programming, be watching for the second part to this article. It'll include
+pros and cons and examples of each to illustrate the difference.
+
+When I finish it, I'll link it here.
 
 [eopl]: http://www.eopl3.com/
 [schemer]: http://mitpress.mit.edu/sicp/
@@ -87,3 +106,5 @@ organization of code should prevent this.
 [scheme]: http://en.wikipedia.org/wiki/Scheme_(programming_language)
 [goto]: http://www.cs.utexas.edu/users/EWD/ewd02xx/EWD215.PDF
 [effect]: http://en.wikipedia.org/wiki/Side_effect_(computer_science)
+[tail]: http://en.wikipedia.org/wiki/Tail_call
+[recursion]: http://en.wikipedia.org/wiki/Recursion_(computer_science)
