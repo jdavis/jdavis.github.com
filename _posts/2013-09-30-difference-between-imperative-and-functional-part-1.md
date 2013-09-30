@@ -99,7 +99,7 @@ pros and cons and examples of each to illustrate the difference.
 When I finish it, I'll link it here.
 
 [eopl]: http://www.eopl3.com/
-[schemer]: http://mitpress.mit.edu/sicp/
+[schemer]: http://www.ccs.neu.edu/home/matthias/BTLS/
 [sicp]: http://mitpress.mit.edu/sicp/
 [lectures]: http://www.youtube.com/watch?v=2Op3QLzMgSY
 [racket]: http://racket-lang.org/
