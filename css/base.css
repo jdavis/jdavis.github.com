@@ -119,7 +119,6 @@ div.wrap {
     height: auto !important;
     width: 1000px;
     float: left;
-    border-left: 1px solid #dededc;
     margin: 0 9px 0 10px;
 }
 
@@ -135,6 +134,7 @@ div.wrap:after {
 
 div.content {
     padding: 30px 40px;
+    border-left: 1px solid #dededc;
 }
 
 div.content h1, div.content h2, div.content h3, div.content h4, div.content h5 {
@@ -296,7 +296,6 @@ div.end {
     div.side {
         padding-left: 10px;
         padding-right: 20px;
-        border-right: 1px solid #dededc;
         position: absolute;
     }
 
@@ -304,7 +303,6 @@ div.end {
         width: auto;
         margin-left: 160px;
         float: none;
-        border-left: none;
     }
 
     div.content {
@@ -368,11 +366,11 @@ div.end {
     div.wrap {
         width: 100%;
         margin: 0;
-        border-left: none;
     }
 
     div.content {
         margin: 0;
         padding: 10px 20px;
+        border-left: none;
     }
 }
