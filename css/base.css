@@ -297,6 +297,7 @@ div.end {
         padding-left: 10px;
         padding-right: 20px;
         border-right: 1px solid #dededc;
+        position: absolute;
     }
 
     div.wrap {
@@ -350,6 +351,7 @@ div.end {
         float: none;
         margin: 0;
         padding: 10px 0;
+        position: inherit;
     }
 
     div.side .paragraphs {
