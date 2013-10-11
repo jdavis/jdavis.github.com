@@ -19,3 +19,4 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [My Favorite Elon Musk Quote](http://joshldavis.com/2013/08/11/my-favorite-elon-musk-quote/)
 - [Never Save Anything for the Swim Back.
   Ever](http://joshldavis.com/2013/08/31/never-save-anything-for-the-swim-back/)
+- [The Differences Between Imperative and Functional Programming. Part 1.](http://joshldavis.com/2013/09/30/difference-between-imperative-and-functional-part-1/)
