@@ -115,8 +115,7 @@ div.side .profiles a {
 
 div.wrap {
     height: 100%;
-    min-height: 100%;
-    height: auto !important;
+    min-height: 752px;
     width: 1000px;
     float: left;
     margin: 0 9px 0 10px;
