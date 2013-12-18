@@ -1,5 +1,8 @@
-# TODO
+Todo
+====
 
-- Update 404 so the look is a little more specific to my web page.
+A list of things to make my web page more awesomer. A ✓ indicates done.
+
+- ✓ Update 404.
 - Collapase navigation when in responsive mode.
 - Fix up scrolling and what not, blah.
