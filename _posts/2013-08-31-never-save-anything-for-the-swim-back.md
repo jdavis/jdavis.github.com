@@ -27,11 +27,10 @@ have experienced.
 
 *Gattaca* takes place in the future where genetics is completely understood and
 rocket launches take place daily. Instead of discrimination based on social
-status or the color of one's skin, discrimination is based on genes. Those with superior genes
-rule the
-world and get all the opportunities.
+status or the color of one's skin, discrimination is based on genes. Those with
+superior genes rule the world and get all the opportunities.
 
-The main character, Vincent Freeman, is born a "natural" birth. This isn't
+The main character, Vincent Freeman, is not born a "natural" birth. This isn't
 common practice because of how advanced genetics has become. Instead, parents
 select the best possible child of any desired gender based on the genes of the
 parents.
