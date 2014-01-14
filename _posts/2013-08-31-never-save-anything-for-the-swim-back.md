@@ -14,7 +14,7 @@ means so much to me.
 
 ## The Movie
 
-[Gattaca][gattaca] is a science fiction move that came out in 1997. Although I
+[Gattaca][gattaca] is a science fiction movie that came out in 1997. Although I
 was 7 the year it was released, I didn't watch it until ~10 years later when I
 was in high school.
 
