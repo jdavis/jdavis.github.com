@@ -1,7 +1,10 @@
 ---
 layout: post
 title: My Favorite Elon Musk Quote
-description: Elon Musk, the visionary behind Tesla Motors and SpaceX, has a cool quote at SXSW 13, he said he tries to put someone's heart above their brain when evaluating someone.
+description:
+    Elon Musk, the visionary behind Tesla Motors and SpaceX, has a cool quote at
+    SXSW 13, he said he tries to put someone's heart above their brain when
+    evaluating someone.
 ---
 
 {{ page.title }}

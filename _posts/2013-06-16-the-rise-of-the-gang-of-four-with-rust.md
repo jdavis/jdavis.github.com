@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Rise of the Gang of Four with Rust
-description: How a classic book on OOP is being brought back to life with the Rust programming language.
+description:
+    How a classic book on OOP is being brought back to life with the Rust
+    programming language.
 css:
     - /css/code.css
 ---

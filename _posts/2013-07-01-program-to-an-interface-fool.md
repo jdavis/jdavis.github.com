@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Program to an Interface, Fool
-description: Explanation of the classic saying of "program to an interface" with an example in the Rust programming language.
+description:
+    Explanation of the classic saying of "program to an interface" with an
+    example in the Rust programming language.
 css:
     - /css/code.css
 ---

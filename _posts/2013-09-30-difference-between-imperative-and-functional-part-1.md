@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Differences Between Imperative and Functional Programming. Part 1.
-description: An explanation of imperative and functional programming paradigms.  Part 2 will include pros and cons and example code.
+description:
+    An explanation of imperative and functional programming paradigms.  Part 2
+    will include pros and cons and example code.
 ---
 
 {{ page.title }}

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: C&#58; A Minute to Learn... A Lifetime to Master
-description: The C syntax can be deceptively simple at first. Yet it has features (such as pointers) that create complexity. We explore that a bit and uncover some resources that help "master" C.
+description:
+    The C syntax can be deceptively simple at first. Yet it has features (such
+    as pointers) that create complexity. We explore that a bit and uncover some
+    resources that help "master" C.
 css:
     - /css/code.css
 ---

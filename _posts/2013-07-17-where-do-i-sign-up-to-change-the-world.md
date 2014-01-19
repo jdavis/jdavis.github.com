@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Where Do I Sign Up to Change the World?
-description: If there's only one thing I'm certain about in my life, it's that I want to leave this world having made it a better place than when I came into it.
+description:
+    If there's only one thing I'm certain about in my life, it's that I want to
+    leave this world having made it a better place than when I came into it.
 ---
 
 {{ page.title }}

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: The Difference Between TDD and BDD
-description: Explanation of the difference between TDD and BDD using an example in JavaScript.
+description:
+    Explanation of the difference between TDD and BDD using an example in
+    JavaScript.
 css:
     - /css/code.css
 ---

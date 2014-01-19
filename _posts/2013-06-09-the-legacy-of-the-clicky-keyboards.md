@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Legacy of the Clicky Keyboards
-description: How I started to love clicky keyboards and ended up buying one of my own.
+description:
+    How I started to love clicky keyboards and ended up buying one of my own.
 ---
 
 {{ page.title }}

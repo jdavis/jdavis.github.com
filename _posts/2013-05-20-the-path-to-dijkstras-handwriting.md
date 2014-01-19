@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Path to Dijkstra's Handwriting
-description: How I used Edsger W. Dijkstra's handwriting as a model to improve mine.
+description:
+    How I used Edsger W. Dijkstra's handwriting as a model to improve mine.
 css:
     - /lib/lightbox/css/lightbox.css
 js:

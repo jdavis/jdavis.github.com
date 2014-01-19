@@ -1,7 +1,8 @@
 ---
 layout: post
 title: The Beginning of a Beautiful Blogship
-description: How I went from trying to hide on the internet to fully embracing it.
+description:
+    How I went from trying to hide on the internet to fully embracing it.
 ---
 
 {{ page.title }}

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Verification is Often Easier than Creation
-description: A quote in a textbook chapter talking about P vs NP got me thinking about what it means for something to work well.
+description:
+    A quote in a textbook chapter talking about P vs NP got me thinking about
+    what it means for something to work well.
 ---
 
 {{ page.title }}
