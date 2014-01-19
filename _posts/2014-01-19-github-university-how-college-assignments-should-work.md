@@ -124,10 +124,10 @@ within the repositories Issue Tracker. This is replacing the discussion boards
 of the past.
 
 The bulk of our repository usage (roughly 50) is each student's repository to
-contain their answer sheets. These are essentially [Forks][forks] of the main
-homework repository from the previous paragraph. The students are responsible
-for [syncing][sync] their repositories with the official homework repository to
-bring in new homeworks as they are released.
+contain their answer sheets. These are essentially manual [Forks][forks] of the
+main homework repository from the previous paragraph. The students are
+responsible for [syncing][sync] their repositories with the official homework
+repository to bring in new homeworks as they are released.
 
 There are a few other repositories like one for the code that I've created for
 the course and the grading infrastructure the other TA has created. We also have
