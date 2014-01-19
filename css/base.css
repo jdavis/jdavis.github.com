@@ -278,7 +278,9 @@ div.logo .josh:hover {
 }
 
 div.end {
-    margin: 27px 0;
+    font-style: italic;
+    border-top: 1px solid #dededc;
+    padding-top: 18px;
     padding-bottom: 20px;
 }
 
