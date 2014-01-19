@@ -46,10 +46,10 @@ There are many different issues with this.
 
 ## GitHub to the Rescue
 
-One of the other TA's and I both came to the conclusion that using [GitHub][gh]
-would be an interesting experiment. We were both very experienced with using Git
-as well as GitHub so we wanted to brainstorm how we could get a class of
-considerable size to do this.
+[Lorand][lorand], one of the other TA's, and I both came to the conclusion that
+using [GitHub][gh] would be an interesting experiment. We were both very
+experienced with using Git as well as GitHub so we wanted to brainstorm how we
+could get a class of considerable size to do this.
 
 The great part is that GitHub provides plenty of opportunities for students and
 teachers to get free access to normally pay-only features though the [GitHub
@@ -109,6 +109,30 @@ automatically remind them that they need to register as soon as possible.
 
 After the class is finished, I'll make the code to this little bot available on
 my [GitHub][jdavis].
+
+### How We Are Using the Repos
+
+We have a few different repositories that we are using. The first repo is the
+only public one and it is the [course-info][course-info] repo. It contains the
+syllabus information as well as some basic guides to help the students set
+everything up.
+
+The second repository is private but available for all the students to see. This
+is where we will release homeworks and publish solutions as they become
+available. This is also the repository that students are encouraged to discuss
+within the repositories Issue Tracker. This is replacing the discussion boards
+of the past.
+
+The bulk of our repository usage (roughly 50) is each student's repository to
+contain their answer sheets. These are essentially [Forks][forks] of the main
+homework repository from the previous paragraph. The students are responsible
+for [syncing][sync] their repositories with the official homework repository to
+bring in new homeworks as they are released.
+
+There are a few other repositories like one for the code that I've created for
+the course and the grading infrastructure the other TA has created. We also have
+an internal homework repository that we use to organize all the future homeworks
+and to collaborate.
 
 ## Grading & Feedback
 
@@ -185,3 +209,7 @@ out. I really hope that things go well \^\_\^.
 [api]: http://developer.github.com/v3/
 [travis]: https://travis-ci.org/
 [jdavis]: https://github.com/jdavis
+[course-info]: https://github.com/ComS342-ISU/course-info
+[forks]: https://help.github.com/articles/fork-a-repo
+[sync]: https://help.github.com/articles/syncing-a-fork
+[lorand]: http://www.cs.iastate.edu/~lorand/
