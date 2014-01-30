@@ -2,7 +2,7 @@
 layout: post
 title: Never Save Anything for the Swim Back. Ever.
 description:
-    I put my mantra, "I never save anything for the swim back", everywhere. I
+    I put my mantra, 'I never save anything for the swim back', everywhere. I
     finally explain where it came from and why it means so much to me.
 ---
 
