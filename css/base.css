@@ -204,7 +204,7 @@ div.content .gallery:after {
 
 div.content .gallery a, div.content .gallery figure {
     text-align: center;
-    margin-left: 10px;
+    margin: 5px 0 5px 10px;
     float: left;
     display: block;
     padding: 4px;
