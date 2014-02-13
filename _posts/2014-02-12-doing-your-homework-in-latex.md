@@ -62,7 +62,7 @@ I can summarize the benefits like so:
 2. **You can see your homework materialize in front of you.**
    Seeing the results and the equations in their complete LaTeX-glory is a very
    powerful way to conceptualize things. There's just something different about
-   seeing the everything perfectly that makes the subject easier to understand.
+   the way things look so perfect that makes the subject easier to understand.
 
 3. **It's *very* neat & tidy.**
    Although my [handwriting has improved][handwriting] quite a bit, I still find
