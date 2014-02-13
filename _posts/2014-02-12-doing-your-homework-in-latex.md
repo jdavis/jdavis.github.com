@@ -125,6 +125,22 @@ With the output looking like below:
     </a>
 </div>
 
+## Using the Template
+
+I've created a GitHub repository, [latex-homework-template][repo], just for my
+homework template that I've been using ever since I started. I found it online
+and used it as a base to start my template. I can't find the original source now
+so I apologize if I didn't credit you.
+
+To use it, just download the [homework.tex][homework.tex] file and start
+editing. Once you need to typeset it, you'll need LaTeX [here][install].
+
+After that, you just need to compile it and you'll get your output. There are
+tons of different resources that I've found useful in learning LaTeX:
+
+- [TeX StackExchange][stackexchange]
+- [TeX Wikibook][wikibook]
+
 ## Affect on Performance
 
 I have a solid set of anecdotal evidence in favor of using LaTeX for writing up
@@ -179,3 +195,7 @@ fun for me =]
 [knuth]: http://en.wikipedia.org/wiki/Donald_Knuth
 [tex]: http://en.wikipedia.org/wiki/TeX
 [textbooks]: https://www.goodreads.com/review/list/6593701?shelf=favorites-textbooks
+[install]: http://latex-project.org/ftp.html
+[homework.tex]: https://github.com/jdavis/latex-homework-template/blob/master/homework.tex
+[wikibook]: http://en.wikibooks.org/wiki/LaTeX
+[stackexchange]: http://tex.stackexchange.com/
