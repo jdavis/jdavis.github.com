@@ -138,8 +138,9 @@ editing. Once you need to typeset it, you'll need LaTeX [here][install].
 After that, you just need to compile it and you'll get your output. There are
 tons of different resources that I've found useful in learning LaTeX:
 
-- [TeX StackExchange][stackexchange]
-- [TeX Wikibook][wikibook]
+1. [TeX StackExchange][stackexchange]
+
+2. [TeX Wikibook][wikibook]
 
 ## Affect on Performance
 
