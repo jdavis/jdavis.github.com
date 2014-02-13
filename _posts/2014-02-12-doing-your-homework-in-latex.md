@@ -4,7 +4,6 @@ title: Doing Your Homework in LaTeX
 description:
     Using LaTeX to write up your homework for university isn't as hard as some
     people think. In fact it has quite a few benefits, I discuss them here.
-    service.
 css:
     - /css/code.css
     - /lib/lightbox/css/lightbox.css
