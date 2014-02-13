@@ -20,3 +20,5 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Never Save Anything for the Swim Back.
   Ever](http://joshldavis.com/2013/08/31/never-save-anything-for-the-swim-back/)
 - [The Differences Between Imperative and Functional Programming. Part 1.](http://joshldavis.com/2013/09/30/difference-between-imperative-and-functional-part-1/)
+- [GitHub + University: How College Coding Assignments Should Work](http://joshldavis.com/2014/01/19/github-university-how-college-assignments-should-work/)
+- [Doing Your Homework in LaTeX](http://joshldavis.com/2014/02/12/doing-your-homework-in-latex/)
