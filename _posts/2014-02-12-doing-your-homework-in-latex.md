@@ -140,7 +140,7 @@ tons of different resources that I've found useful in learning LaTeX:
 
 1. [TeX StackExchange][stackexchange]
 
-2. [TeX Wikibook][wikibook]
+2. [LaTeX Wikibook][wikibook]
 
 ## Affect on Performance
 
