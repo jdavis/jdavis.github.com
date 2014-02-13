@@ -64,6 +64,11 @@ I can summarize the benefits like so:
    powerful way to conceptualize things. There's just something different about
    the way things look so perfect that makes the subject easier to understand.
 
+3. **You'll do better in your classes.** This one goes with the previous point,
+   but having the ability to see your homework helps you understand it. By
+   understanding it well, you'll do better on tests. You will maximize how much
+   you can learn as well as maximize your grade (if that matters to you).
+
 3. **It's *very* neat & tidy.**
    Although my [handwriting has improved][handwriting] quite a bit, I still find
    myself slipping back into a rushed, messy script from the past. LaTeX gives
