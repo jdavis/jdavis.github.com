@@ -133,9 +133,8 @@ With the output looking like below:
 ## Using the Template
 
 I've created a GitHub repository, [latex-homework-template][repo], just for my
-homework template that I've been using ever since I started. I found it online
-and used it as a base to start my template. I can't find the original source now
-so I apologize if I didn't credit you.
+homework template that I've been using ever since I started. I found it
+[online][template] and used it as a base to start my template.
 
 To use it, just download the [homework.tex][homework.tex] file and start
 editing. Once you need to typeset it, you'll need LaTeX [here][install].
@@ -205,3 +204,4 @@ fun for me =]
 [homework.tex]: https://github.com/jdavis/latex-homework-template/blob/master/homework.tex
 [wikibook]: http://en.wikibooks.org/wiki/LaTeX
 [stackexchange]: http://tex.stackexchange.com/
+[template]: http://www.latextemplates.com/template/programming-coding-assignment
