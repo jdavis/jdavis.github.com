@@ -5,11 +5,11 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 
 ## Posts
 
-- [The Beginning of a Beautiful Blogship](http://joshldavis.com/2013/05/11/beginning-of-a-beautiful-blogship/)
-- [The Path to Dijkstra's Handwriting](http://joshldavis.com/2013/05/20/the-path-to-dijkstras-handwriting/)
-- [The Difference Between TDD and BDD](http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/)
-- [The New Google Map's User Experience](http://joshldavis.com/2013/06/02/google-maps-new-user-experience/)
-- [The Legacy of the Clicky Keyboards](http://joshldavis.com/2013/06/09/the-legacy-of-the-clicky-keyboards/)
+- [The Beginning of a Beautiful Blogship][post1]
+- [The Path to Dijkstra's Handwriting][post2]
+- [The Difference Between TDD and BDD][post3]
+- [The New Google Map's User Experience][post4]
+- [The Legacy of the Clicky Keyboards][post5]
 - [The Rise of the Gang of Four with Rust](http://joshldavis.com/2013/06/16/the-rise-of-the-gang-of-four-with-rust/)
 - [Phil Zimmermann, Creator of PGP, Quote on Government & Crypto from 1996](http://joshldavis.com/2013/06/22/phil-zimmerman-creator-of-pgp-quote-on-government-and-crypto-from-1996/)
 - [Program to an Interface, Fool](http://joshldavis.com/2013/07/01/program-to-an-interface-fool/)
@@ -22,3 +22,9 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [The Differences Between Imperative and Functional Programming. Part 1.](http://joshldavis.com/2013/09/30/difference-between-imperative-and-functional-part-1/)
 - [GitHub + University: How College Coding Assignments Should Work](http://joshldavis.com/2014/01/19/github-university-how-college-assignments-should-work/)
 - [Doing Your Homework in LaTeX](http://joshldavis.com/2014/02/12/doing-your-homework-in-latex/)
+
+[post1]: http://joshldavis.com/2013/05/11/beginning-of-a-beautiful-blogship/
+[post2]: http://joshldavis.com/2013/05/20/the-path-to-dijkstras-handwriting/
+[post3]: http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/
+[post4]: http://joshldavis.com/2013/06/02/google-maps-new-user-experience/
+[post5]: http://joshldavis.com/2013/06/09/the-legacy-of-the-clicky-keyboards/
