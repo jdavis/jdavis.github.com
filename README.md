@@ -10,9 +10,9 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [The Difference Between TDD and BDD][post3]
 - [The New Google Map's User Experience][post4]
 - [The Legacy of the Clicky Keyboards][post5]
-- [The Rise of the Gang of Four with Rust](http://joshldavis.com/2013/06/16/the-rise-of-the-gang-of-four-with-rust/)
-- [Phil Zimmermann, Creator of PGP, Quote on Government & Crypto from 1996](http://joshldavis.com/2013/06/22/phil-zimmerman-creator-of-pgp-quote-on-government-and-crypto-from-1996/)
-- [Program to an Interface, Fool](http://joshldavis.com/2013/07/01/program-to-an-interface-fool/)
+- [The Rise of the Gang of Four with Rust][post6]
+- [Phil Zimmermann, Creator of PGP, Quote on Government & Crypto from 1996][post7]
+- [Program to an Interface, Fool][post8]
 - [Verification is Often Easier than Creation](http://joshldavis.com/2013/07/07/verification-is-often-easier-than-creation/)
 - [Where Do I Sign Up to Change the World?](http://joshldavis.com/2013/07/17/where-do-i-sign-up-to-change-the-world/)
 - [C: A Minute to Learn... A Lifetime to Master](http://joshldavis.com/2013/07/24/c-a-minute-to-learn-a-lifetime-to-master/)
@@ -28,3 +28,6 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 [post3]: http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/
 [post4]: http://joshldavis.com/2013/06/02/google-maps-new-user-experience/
 [post5]: http://joshldavis.com/2013/06/09/the-legacy-of-the-clicky-keyboards/
+[post6]: http://joshldavis.com/2013/06/16/the-rise-of-the-gang-of-four-with-rust/
+[post7]: http://joshldavis.com/2013/06/22/phil-zimmerman-creator-of-pgp-quote-on-government-and-crypto-from-1996/
+[post8]: http://joshldavis.com/2013/07/01/program-to-an-interface-fool/
