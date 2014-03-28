@@ -20,8 +20,8 @@ registrar to transfer my domains to. My number one criteria was a secure
 registrar.
 
 Although I don't own a [rare Twitter handle][@N], it was scary to think about
-how the extortion of Naoki Hiroshima was possible just because of of a lost
-domain name.
+how the extortion of Naoki Hiroshima was possible just because of a lost domain
+name.
 
 Although GoDaddy does support two factor auth, if Naoki hadn't been using it for
 PayPal, his PayPal account would have been compromised as well.
@@ -49,10 +49,10 @@ security.
 
 First, check it out here: [TwoFactorAuth.org][2fa]
 
-In the 24 hours, I've spent the time creating a very simple website that has a
-list of all the most common categories of websites like social media, finance,
-email, etc. Then under each category there is a list of the most common websites
-and whether or not they support two factor auth.
+In the last 24 hours, I've spent the time creating a very simple website that
+has a list of all the most common categories of websites like social media,
+finance, email, etc. Then under each category there is a list of the most common
+websites and whether or not they support two factor auth.
 
 <div class="gallery medium">
     <a href="/img/2fa/twofactorauth.png" rel="lightbox[2fa]" title="TwoFactorAuth.org">
@@ -65,10 +65,23 @@ to the companies to demand that they support two factor auth. While it may be a
 bit passive aggressive, it is a simplified version of the late Aaron Swartz'
 idea for his website, [DemandProgress][demand].
 
+## My Goal
+
+I am a strong proponent for individual security and awareness. I hope that this
+website will give a single place to go when determining alternative services
+based on the care and engineering they have in place for their customers.
+
+If every website that ends up on TwoFactorAuth.org ends up in the green and my
+website becomes pointless, then that is only a success in my vision.
+
+Here's to hoping that more sites will put the security of their customers first
+and invest in two factor auth.
+
 ## Open Source (of course)
 
-The best part is that it is open source so you can add any website to it you
-want. Just head over to the [GitHub repo][github] and make a pull request.
+Oh and lastly, the best part is that it is open source so you can add any
+website to it you want. Just head over to the [GitHub repo][github] and make a
+pull request.
 
 [swartz]: http://en.wikipedia.org/wiki/Aaron_Swartz
 [demand]: http://www.demandprogress.org/
