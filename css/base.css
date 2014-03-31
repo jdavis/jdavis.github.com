@@ -164,6 +164,10 @@ div.content .gallery {
     margin-bottom: 18px;
 }
 
+div.content img {
+    max-width: 100%;
+}
+
 div.content .gallery.xxsmall {
     width: 160px;
 }
