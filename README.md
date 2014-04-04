@@ -30,8 +30,7 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 The following directories and their contents are Copyright Josh Davis. You may
 not reuse anything therein without my permission:
 
-- \_posts
-- images/
+- [\_posts](_posts/)
 
 All other directories and files are [MIT Licensed](LICENSE). Feel free to use
 the HTML and CSS as you please. If you do use them, a link back to
