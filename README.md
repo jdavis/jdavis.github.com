@@ -23,6 +23,7 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
   1.][post14]
 - [GitHub + University: How College Coding Assignments Should Work][post15]
 - [Doing Your Homework in LaTeX][post16]
+- [My New Site to Demand Two Factor Auth Support][post17]
 
 [post1]: http://joshldavis.com/2013/05/11/beginning-of-a-beautiful-blogship/
 [post2]: http://joshldavis.com/2013/05/20/the-path-to-dijkstras-handwriting/
@@ -40,3 +41,4 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 [post14]: http://joshldavis.com/2013/09/30/difference-between-imperative-and-functional-part-1/
 [post15]: http://joshldavis.com/2014/01/19/github-university-how-college-assignments-should-work/
 [post16]: http://joshldavis.com/2014/02/12/doing-your-homework-in-latex/
+[post17]: http://joshldavis.com/2014/03/15/demand-two-factor-auth-support/
