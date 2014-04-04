@@ -25,6 +25,19 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Doing Your Homework in LaTeX][post16]
 - [My New Site to Demand Two Factor Auth Support][post17]
 
+## License
+
+The following directories and their contents are Copyright Josh Davis. You may
+not reuse anything therein without my permission:
+
+- \_posts
+- images/
+
+All other directories and files are [MIT Licensed](LICENSE). Feel free to use
+the HTML and CSS as you please. If you do use them, a link back to
+[http://github.com/jdavis/jdavis.github.com](http://github.com/jdavis/jdavis.github.com)
+would be appreciated, but is not required.
+
 [post1]: http://joshldavis.com/2013/05/11/beginning-of-a-beautiful-blogship/
 [post2]: http://joshldavis.com/2013/05/20/the-path-to-dijkstras-handwriting/
 [post3]: http://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/
