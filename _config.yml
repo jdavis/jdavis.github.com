@@ -15,3 +15,7 @@ css:
     - /css/base.css
     - /lib/font-awesome/css/font-awesome.min.css
     - http://fonts.googleapis.com/css?family=Droid+Sans:400,700
+
+exclude:
+    - README.md
+    - TODO.md
