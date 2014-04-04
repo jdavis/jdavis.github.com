@@ -19,3 +19,4 @@ css:
 exclude:
     - README.md
     - TODO.md
+    - LICENSE
