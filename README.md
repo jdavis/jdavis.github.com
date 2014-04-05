@@ -17,10 +17,8 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Where Do I Sign Up to Change the World?][post10]
 - [C: A Minute to Learn... A Lifetime to Master][post11]
 - [My Favorite Elon Musk Quote][post12]
-- [Never Save Anything for the Swim Back.
-  Ever][post13]
-- [The Differences Between Imperative and Functional Programming. Part
-  1.][post14]
+- [Never Save Anything for the Swim Back. Ever][post13]
+- [The Differences Between Imperative and Functional Programming. Part 1.][post14]
 - [GitHub + University: How College Coding Assignments Should Work][post15]
 - [Doing Your Homework in LaTeX][post16]
 - [My New Site to Demand Two Factor Auth Support][post17]
