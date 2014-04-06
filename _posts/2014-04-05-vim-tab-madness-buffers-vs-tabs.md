@@ -262,7 +262,7 @@ trying to use tabs unnaturally.
 If you have any suggestions on this article or using Vim in general, feel free
 to [contact][contact] me, I love talking with people =]
 
-[contact]: /#contact
+[contact]: /about/#contact
 [buf-plugins]: http://vim.wikia.com/wiki/Easier_buffer_switching#Scripts
 [airline]: https://github.com/bling/vim-airline
 [airline-install]: https://github.com/bling/vim-airline#installation
