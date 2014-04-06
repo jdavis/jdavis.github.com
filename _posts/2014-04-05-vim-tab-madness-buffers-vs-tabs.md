@@ -53,7 +53,7 @@ this command:
 
 {% highlight bash %}
 $ vim .vimrc .zshrc
-# In Vim run these:
+# In Vim run this:
 #   :bnext
 {% endhighlight %}
 
