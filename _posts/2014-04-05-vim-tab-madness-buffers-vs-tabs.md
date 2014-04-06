@@ -2,9 +2,10 @@
 layout: post
 title: Vim Tab Madness. Buffers vs Tabs
 description:
-    Vim's idea of what a tab is leads to a lot of confusion and is actually
-    really limiting. Using buffers correctly is far more powerful. I explore
-    that in this post as I was confused for a long time by it.
+    Vim's buffers vs tabs is a hot topic. Vim's idea of what a tab is leads to
+    a lot of confusion and is actually really limiting. Using buffers correctly
+    is far more powerful. I explore that in this post as I was confused for a
+    long time by it.
 css:
     - /css/code.css
 ---
