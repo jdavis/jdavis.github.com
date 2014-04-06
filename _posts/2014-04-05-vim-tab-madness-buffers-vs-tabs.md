@@ -53,6 +53,8 @@ this command:
 
 {% highlight bash %}
 $ vim .vimrc .zshrc
+# In Vim run these:
+#   :bnext
 {% endhighlight %}
 
 Vim does what it did before, but instead of just 1 buffer, it opens another
@@ -170,14 +172,17 @@ The first thing I did was install a plugin that allows me to visualize all the
 buffers open across the top. There are multiple different [plugins][buf-plugins]
 for this.
 
-I was already using [vim-airline][vim-airline], so I just turned on its feature
-to list buffers across the top. To add airline and the buffer list, just add
-this to your `.vimrc`:
+I was already using [vim-airline][airline], so I just turned on its feature to
+[list buffers][airline-buffers] across the top. To add airline and the buffer
+list, [install airline][airline-install], and then just add this to your
+`.vimrc`:
 
 {% highlight vim %}
-Bundle 'bling/vim-airline'
-
+" Enable the list of buffers
 let g:airline#extensions#tabline#enabled = 1
+
+" Show just the filename
+let g:airline#extensions#tabline#fnamemod = ':t'
 {% endhighlight %}
 
 This is the result:
@@ -259,6 +264,8 @@ to [contact][contact] me, I love talking with people =]
 
 [contact]: /#contact
 [buf-plugins]: http://vim.wikia.com/wiki/Easier_buffer_switching#Scripts
-[vim-airline]: https://github.com/bling/vim-airline#smarter-tab-line
+[airline]: https://github.com/bling/vim-airline
+[airline-install]: https://github.com/bling/vim-airline#installation
+[airline-buffers]: https://github.com/bling/vim-airline#smarter-tab-line
 [vim-layout]: http://stackoverflow.com/a/103590
 [vimrc]: https://github.com/jdavis/dotfiles/blob/master/.vimrc
