@@ -36,8 +36,9 @@ well as a few other basic things.
 
 ## Buffers
 
-A buffer is nothing more than a file that you are editing that is loaded into
-Vim. So when you issue this command:
+A buffer is nothing more text that you are editing. For example, when you open a
+file, the content of the file is loaded into a buffer. So when you issue this
+command:
 
 {% highlight bash %}
 $ vim .vimrc
@@ -80,7 +81,7 @@ documentation.
 The important thing to note is that a window can view any buffer it wishes; it
 isn't forced to look at the same buffer. And we've all noticed this. When
 editing a file, if we type `:vsplit`, we will get a vertical split and in the
-other window, we will see the current file we are editing!
+other window, we will see the current buffer we are editing!
 
 That should no longer be confusing because a window lets us look at *any*
 buffer. It just so happens that when creating a new split: `:split` or
@@ -91,7 +92,7 @@ buffer a window is *viewing*.
 
 For an example of this, by running the following commands, we will start
 editing two files in Vim, open a new window by horizontally splitting, and then
-view the second file in the original window.
+view the second buffer in the original window.
 
 {% highlight bash %}
 $ vim .vimrc .zshrc
@@ -147,10 +148,11 @@ This brings us to the basic problem of tabs within Vim.
 ## The Tab Problem
 
 Tabs were only designed to let us have different layouts of windows. They aren't
-intended to be where an open file lives; an open file is instead a buffer.
+intended to be where an open file lives; an open file is instead loaded into a
+buffer.
 
-The previous gif illustrates this problem. If you can view the same file across
-all tabs, how is this like a normal tab in most other editors?
+The previous gif illustrates this problem. If you can view the same buffer
+across all tabs, how is this like a normal tab in most other editors?
 
 If you try to foce a single tab to point to a single buffer, that is just
 futile. Vim just wasn't meant to work like this.
