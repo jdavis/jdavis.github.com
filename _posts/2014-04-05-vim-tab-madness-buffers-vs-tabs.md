@@ -159,7 +159,7 @@ buffer.
 The previous gif illustrates this problem. If you can view the same buffer
 across all tabs, how is this like a normal tab in most other editors?
 
-If you try to foce a single tab to point to a single buffer, that is just
+If you try to force a single tab to point to a single buffer, that is just
 futile. Vim just wasn't meant to work like this.
 
 ## The Buffer Solution
