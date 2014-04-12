@@ -35,6 +35,8 @@ more sense if they were called *layouts*.
 Before I explain that, let's be sure we understand what a *buffer* is in Vim as
 well as a few other basic things.
 
+After that, I'll explain the *correct* way to use tabs within Vim.
+
 ## Buffers
 
 A buffer is nothing more text that you are editing. For example, when you open a
@@ -157,7 +159,7 @@ buffer.
 The previous gif illustrates this problem. If you can view the same buffer
 across all tabs, how is this like a normal tab in most other editors?
 
-If you try to foce a single tab to point to a single buffer, that is just
+If you try to force a single tab to point to a single buffer, that is just
 futile. Vim just wasn't meant to work like this.
 
 ## The Buffer Solution
@@ -206,10 +208,10 @@ set hidden
 nmap <leader>T :enew<cr>
 
 " Move to the next buffer
-nmap gt :bnext<CR>
+nmap <leader>l :bnext<CR>
 
 " Move to the previous buffer
-nmap gT :bprevious<CR>
+nmap <leader>h :bprevious<CR>
 
 " Close the current buffer and move to the previous one
 " This replicates the idea of closing a tab
@@ -218,6 +220,26 @@ nmap <leader>bq :bp <BAR> bd #<CR>
 " Show all open buffers and their status
 nmap <leader>bl :ls<CR>
 {% endhighlight %}
+
+These settings gave me a hybrid approach to how I expected tabs to
+work in Vim yet it still gave me the same power that comes from
+understanding and using buffers.
+
+### Using Tabs Correctly
+
+This doesn't mean you should stop using tabs altogether. You should
+just use them how Vim intended you to use them.
+
+Instead you should use them to change the layout among windows. Imagine
+you are working on a C project. It might be helpful to have one tab dedicated
+to normal editing, but another tab for using a vertical split for the `file.h`
+and `file.c` files to make editing between them easier.
+
+Tabs also work really well to divide up what you are working on. You could
+be working on one project in one tab and another project in another tab.
+
+Just remember though, if you are using a single tab for each file, that isn't
+how tabs in Vim were designed to be used.
 
 ## Example of Using Buffers
 
