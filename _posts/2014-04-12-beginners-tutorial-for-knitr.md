@@ -152,6 +152,9 @@ The mean of \(Y\) is \(\Sexpr{mean.y}\).
 The output is in the image below. This makes it really, really easy to keep
 info up to date and not have to worry about re-computing values.
 
+You can put any R code in the `\Sexpr{}`. More info about that can be found
+under the **Inline output** section on the [knitr Output][output] page.
+
 <div class="gallery medium">
     <a href="/img/knitr/knitr3.png" rel="lightbox[knitr]">
         <img src="/img/knitr/knitr3.png" >
@@ -295,6 +298,7 @@ to learn more or talk.
 [knitr-script]: https://github.com/jdavis/dotfiles/blob/master/bin/knitr
 [knitr]: http://yihui.name/knitr/
 [latexmkrc]: https://github.com/jdavis/dotfiles/blob/master/.latexmkrc
+[output]: http://yihui.name/knitr/demo/output/
 [sweave]: http://www.stat.uni-muenchen.de/~leisch/Sweave/
 [twitter]: https://twitter.com/
 [wickham]: http://had.co.nz/
