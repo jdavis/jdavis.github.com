@@ -61,10 +61,6 @@ div.container a {
     text-decoration: none;
 }
 
-div.nav-button {
-    display: none;
-}
-
 div.side {
     text-align: right;
     font-size: .9em;
@@ -102,6 +98,10 @@ div.side ul li a {
 div.side ul li a:hover {
     display: block;
     color: #505050;
+}
+
+div.side ul li.menu {
+    display: none;
 }
 
 div.side .profiles {
@@ -357,19 +357,8 @@ div.end {
         width: 100%;
     }
 
-    div.nav-button {
+    div.side ul li.menu {
         display: inline;
-    }
-
-    div.nav-button i {
-        float: right;
-        padding: 9px 10px;
-        margin-top: 8px;
-        margin-right: 15px;
-        margin-bottom: 8px;
-        background-color: transparent;
-        border: 1px solid transparent;
-        border-radius: 4px;
     }
 
     div.side {
