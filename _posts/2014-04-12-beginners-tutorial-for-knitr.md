@@ -129,6 +129,36 @@ This will hide the code but still evaluate it.
 There are a ton of other [chunk options][chunk] that allow you to completely
 fine tune how to handle the R code in your documents.
 
+### Referencing R Variables
+
+Since the R code is evaluated as you compile your document, you can include
+variables in your normal LaTeX.
+
+Let's say you wanted to compute the `mean()` of `y`, store it in a variable and
+then include it in output below it. It would look like this:
+
+{% highlight tex %}
+<<>>=
+# Our Linear Model from before
+y <- 2 + (2 * x1) + (.3 * x2) + rnorm(100)
+
+# Calculate the mean
+mean.y <- mean(y)
+@
+
+The mean of \(Y\) is \(\Sexpr{mean.y}\).
+{% endhighlight %}
+
+The output is in the image below. This makes it really, really easy to keep
+info up to date and not have to worry about re-computing values.
+
+<div class="gallery medium">
+    <a href="/img/knitr/knitr3.png" rel="lightbox[knitr]">
+        <img src="/img/knitr/knitr3.png" >
+        <span>Values from R in LaTeX</span>
+    </a>
+</div>
+
 ### Figures
 
 This is the most indespensible feature of knitr. It is capable of automatically
