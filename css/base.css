@@ -9,14 +9,6 @@ body {
     line-height: 22px;
 }
 
-.js {
-    display: none;
-}
-
-.no-js {
-    /* Show when JS is enabled */
-}
-
 ul {
     margin: 4px 0 18px 0;
 }
@@ -373,6 +365,14 @@ div.end {
 @media only screen and (min-width: 480px) and (max-width: 767px), screen and (max-width: 479px) {
     div.container {
         width: 100%;
+    }
+
+    .js-mobile {
+        display: none;
+    }
+
+    .no-js-mobile {
+        /* Show when JS is enabled */
     }
 
     button.nav {
