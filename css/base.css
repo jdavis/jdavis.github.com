@@ -9,6 +9,14 @@ body {
     line-height: 22px;
 }
 
+.js {
+    display: none;
+}
+
+.no-js {
+    /* Show when JS is enabled */
+}
+
 ul {
     margin: 4px 0 18px 0;
 }
@@ -61,8 +69,18 @@ div.container a {
     text-decoration: none;
 }
 
-div.nav-button {
+button.nav {
     display: none;
+    float: right;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    background-color: #f0f0f0;
+    border-color: #f0f0f0;
 }
 
 div.side {
@@ -357,19 +375,8 @@ div.end {
         width: 100%;
     }
 
-    div.nav-button {
+    button.nav {
         display: inline;
-    }
-
-    div.nav-button i {
-        float: right;
-        padding: 9px 10px;
-        margin-top: 8px;
-        margin-right: 15px;
-        margin-bottom: 8px;
-        background-color: transparent;
-        border: 1px solid transparent;
-        border-radius: 4px;
     }
 
     div.side {
