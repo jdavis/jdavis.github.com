@@ -83,6 +83,10 @@ Oh and lastly, the best part is that it is open source so you can add any
 website to it you want. Just head over to the [GitHub repo][github] and make a
 pull request.
 
+<div class="buttons">
+    <a class="button" href="http://www.github.com/jdavis/twofactorauth"><i class="icon-github"></i> View on GitHub</a>
+</div>
+
 [swartz]: http://en.wikipedia.org/wiki/Aaron_Swartz
 [demand]: http://www.demandprogress.org/
 [2fa]: http://twofactorauth.org
