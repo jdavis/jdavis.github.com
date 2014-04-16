@@ -18,9 +18,16 @@ js:
 It is a common occurrence for other students to comment on my homework whenever
 I turn it in for one of my classes.
 
-Below are a few screenshots of problems that I've done in the past. The complete
+The complete
 [LaTeX][latex] file (and the pdf output) can be found in my repository,
-[latex-homework-template][repo]:
+[latex-homework-template][repo].
+
+
+<div class="buttons">
+    <a class="button" href="http://www.github.com/jdavis/latex-homework-template"><i class="icon-github"></i> View on GitHub</a>
+</div>
+
+Below are a few screenshots of problems that I've done in the past:
 
 <div class="gallery large">
     <a href="/img/latex/latex1.png" rel="lightbox[latex]" title="Cover page">
@@ -194,14 +201,14 @@ In the meantime, hopefully if you start using LaTeX for your homework, you won't
 be able to resist doing it early because of how fun it is. Well, at least it was
 fun for me =]
 
-[latex]: http://en.wikipedia.org/wiki/LaTeX
 [handwriting]: http://joshldavis.com/2013/05/20/the-path-to-dijkstras-handwriting/
-[repo]: https://github.com/jdavis/latex-homework-template
-[knuth]: http://en.wikipedia.org/wiki/Donald_Knuth
-[tex]: http://en.wikipedia.org/wiki/TeX
-[textbooks]: https://www.goodreads.com/review/list/6593701?shelf=favorites-textbooks
-[install]: http://latex-project.org/ftp.html
 [homework.tex]: https://github.com/jdavis/latex-homework-template/blob/master/homework.tex
-[wikibook]: http://en.wikibooks.org/wiki/LaTeX
+[install]: http://latex-project.org/ftp.html
+[knuth]: http://en.wikipedia.org/wiki/Donald_Knuth
+[latex]: http://en.wikipedia.org/wiki/LaTeX
+[repo]: https://github.com/jdavis/latex-homework-template
 [stackexchange]: http://tex.stackexchange.com/
 [template]: http://www.latextemplates.com/template/programming-coding-assignment
+[tex]: http://en.wikipedia.org/wiki/TeX
+[textbooks]: https://www.goodreads.com/review/list/6593701?shelf=favorites-textbooks
+[wikibook]: http://en.wikibooks.org/wiki/LaTeX
