@@ -34,6 +34,36 @@ ul.pretty:after {
     clear:both;
 }
 
+div.buttons {
+    text-align: center;
+}
+
+div.container a.button {
+    margin-bottom: 20px;
+    height: 25px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    display: inline-block;
+    background-color: #599Bdc;
+    border-radius: 4px;
+    padding: 6px 6px;
+    border-color: #295c8c;
+    border-width: 1px;
+    border-style: solid;
+    color: #FFFFFF;
+}
+
+div.container a.button:hover {
+    background-color: #3072B3;
+    color: white;
+}
+
+div.container a.button:active {
+    background-color: #5ea3e0;
+    color: white;
+}
+
 div.container {
     width: 1200px;
     min-height: 100%;
