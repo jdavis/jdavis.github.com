@@ -2,8 +2,8 @@
     var $button = $('button.nav'),
         $nav = $('.side ul');
 
-    $('.js-mobile').show();
-    $('.no-js-mobile').hide();
+    $('.js').show();
+    $('.no-js').hide();
 
     $button.on('click', function () {
         $nav.slideToggle();
