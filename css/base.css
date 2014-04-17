@@ -397,14 +397,6 @@ div.end {
         width: 100%;
     }
 
-    .js-mobile {
-        display: none;
-    }
-
-    .no-js-mobile {
-        /* Show when JS is enabled */
-    }
-
     button.nav {
         display: inline;
     }
@@ -423,6 +415,7 @@ div.end {
     }
 
     div.side ul {
+        display: none;
         margin: 10px 20px;
         text-shadow: 0 1px 0 #fff;
         background-color: #f5f7fa;
