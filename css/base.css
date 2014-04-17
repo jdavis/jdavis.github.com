@@ -172,7 +172,7 @@ div.wrap:after {
 }
 
 div.content {
-    height: 100%;
+    min-height: 100%;
     padding: 30px 40px;
     border-left: 1px solid #dededc;
 }
