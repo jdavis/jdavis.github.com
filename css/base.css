@@ -378,6 +378,11 @@ div.end {
         margin: 0 40px;
     }
 
+    div.content .gallery a,
+    div.content .gallery figure {
+        max-width: 100%;
+    }
+
     div.content .gallery.xxsmall,
     div.content .gallery.xsmall,
     div.content .gallery.small,
