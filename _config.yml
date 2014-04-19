@@ -9,7 +9,13 @@ url: http://joshldavis.com
 feed: /atom.xml
 
 author: Josh Davis
-contact: hello@joshldavis.com
+contact:
+    email: hello@joshldavis.com
+    facebook: https://www.facebook.com/joshd
+    github: https://github.com/jdavis
+    google: https://www.google.com/+JoshDavis9
+    linkedin: https://www.linkedin.com/in/joshualeedavis
+    twitter: https://twitter.com/HopefulJosh
 
 css:
     - /css/base.css
