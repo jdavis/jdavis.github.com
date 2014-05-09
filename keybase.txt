@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/davis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joshldavis.com
+  * I am davis (https://keybase.io/davis) on keybase.
+  * I have a public key with fingerprint 8D70 8112 A032 BDDD 88EE  3F65 5D25 1D92 1B07 85F7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "8d708112a032bddd88ee3f655d251d921b0785f7",
+            "host": "keybase.io",
+            "key_id": "5D251D921B0785F7",
+            "uid": "e9ea2a36abcbd31c5f87d295d1263c00",
+            "username": "davis"
+        },
+        "merkle_root": {
+            "ctime": 1399668501,
+            "hash": "b12cbad555fad7a112485e8bc0dbf843996b79dc45842cbcafed64fb80a438e3a2dd332cc71c47911c266f60491fe45c0c4c687b73a10f6e0e428254ea5dc8e7",
+            "seqno": 6385
+        },
+        "service": {
+            "hostname": "joshldavis.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399668548,
+    "expire_in": 157680000,
+    "prev": "a660ee53116f247c144e811da1ebbd1972b1cbd1a9b12e2803d6d0009d337a10",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFdkltoFFcYx3dzsTcVsUppjcUODVhI1nNm5pw5swpSCQ0IRktCsYSwnMs32Ymb
+mc3MJM2lC0WbgpjVtqbSy1OpVgkVXC3VPgolWPvSQu2LUMRYQRoModS0bz0npPQy
+TzPz/b7/+f7/77y7oTnXlB9o3/7+tsemV/LfPRC53uG9XVOWiNWEVZyyZCWEKDNv
+ER8Gq2gdgQnBUyiE8Y4oVlAYSnesMR3WGCRpGEeaQgWnYFu1DoOb5iCMBiGpJqHR
+spjyEMPY5sixhVKKMQAnoIQom2Dl21ggj5HA05LlOM3+c6q1qlkKlf5LujTfpfl9
+hn/F8KOrBfCB29yhXEihHCxJwDxl+0RhmzoSIQOmkKxZUnwsTM2ww5AcqUApieNV
+xzILTR07vk8pIwjrcXha1h0C21JwRQgJuPK4tuIyAkxIpETAXNMgPF9JlzBXk5IH
+oKgbCIa46zBwuK2U49hSeli6no+xtCkNKHJ9HIBLJJKupMwTnsMxCiggcG1mExc4
+UZKBMZrCSBRbReowUjNfyVgowUxtElszNhSn5cqqu4KMh3VTNYmzWMYVXStnWbVo
+TGcTVcO+AaKkVeaMTEmEkdIb+/dKsUb/F4jLOiwYr4YJlEJDEI8ypB9zDoxpTU4p
+AiAOxjSwXU9i1wW9d8UxCKGw79kC6wVh7utAwWbIUVRpAV+Ho1NF/9h09Zx8UEum
+4WDEs9EErNrxfFtLLt+UW9faZO5s7sknNv19kXf9+njuBBl57sCP52d+Wtz60TeN
+leVb432jh/HpYPPHp6+0/Pbqtp5Ln++cPLj+q/Kn7XNntn92pnt6ofcGearp2PWR
+RtbVv+XbUutKfOjZY8nSvYrX9/LGQ7X2tgunbs1NQ4ReGroyeTw9WagvLyztufbn
+zjvrP3lr8v48vH230dZ9uc6WXj+10HfznavzzT23l8qL+3+2mvsvnkh/mT/86MDu
+s8uPnv86D7t2ez2zT+cb9S0zxfcunbw5cLDw8GLnw+/XnX9xoDP44vY9Wtq3t/WZ
+mZaRrXcmLx99M7127sbRH+5/sJj0/7H5S9Lcd7VWb3S3Pzg7S/ZMzd594cPX9vde
+P9c5/vuGeq1708YLfwE=
+=dbdg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davis
+
+==================================================================
