@@ -1,0 +1,48 @@
+profiles:
+  - name: Adagio
+    site: "http://www.adagio.com/pages/customer_profile.html?userId=349628JD&SID=6e0c41dec217c656026ebd206454e619"
+
+  - name: Amazon
+    site: "https://www.amazon.com/gp/pdp/profile/AYOIM6S23UDAH"
+
+  - name: App.net
+    site: https://alpha.app.net/jdavis
+
+  - name: Coursera
+    site: https://www.coursera.org/user/i/304760a07e77c7a51b7d322b83af7872
+
+  - name: Facebook
+    site: {{ site.contact.facebook }}
+
+  - name: GitHub
+    site: {{ site.contact.github }}
+
+  - name: Goodreads
+    site: http://goodreads.com/joshuad
+
+  - name: Google+
+    site: {{ site.contact.google }}
+
+  - name: HackerNews
+    site: https://news.ycombinator.com/user?id=davis
+
+  - name: Kickstarter
+    site: https://kickstarter.com/profile/joshd
+
+  - name: Last.fm
+    site: http://last.fm/user/joshldavis
+
+  - name: LinkedIn
+    site: {{ site.contact.linkedin }}
+
+  - name: NPM
+    site: http://npmjs.org/~jdavis
+
+  - name: Reddit
+    site: http://www.reddit.com/user/passingby/
+
+  - name: Strava
+    site: http://strava.com/athletes/joshdavis
+
+  - name: Twitter
+    site: {{ site.contact.twitter }}
