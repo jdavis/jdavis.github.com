@@ -1,48 +1,68 @@
-profiles:
-  - name: Adagio
+adagio:
+    name: Adagio
     site: "http://www.adagio.com/pages/customer_profile.html?userId=349628JD&SID=6e0c41dec217c656026ebd206454e619"
 
-  - name: Amazon
+amazon:
+    name: Amazon
     site: "https://www.amazon.com/gp/pdp/profile/AYOIM6S23UDAH"
 
-  - name: App.net
-    site: https://alpha.app.net/jdavis
+appnet:
+    name: App.net
+    site: "https://alpha.app.net/jdavis"
 
-  - name: Coursera
-    site: https://www.coursera.org/user/i/304760a07e77c7a51b7d322b83af7872
+coursera:
+    name: Coursera
+    site: "https://www.coursera.org/user/i/304760a07e77c7a51b7d322b83af7872"
 
-  - name: Facebook
-    site: {{ site.contact.facebook }}
+facebook:
+    name: Facebook
+    site: "https://www.facebook.com/joshd"
 
-  - name: GitHub
-    site: {{ site.contact.github }}
+github:
+    name: GitHub
+    site: "https://github.com/jdavis"
 
-  - name: Goodreads
-    site: http://goodreads.com/joshuad
+goodreads:
+    name: Goodreads
+    site: "http://goodreads.com/joshuad"
 
-  - name: Google+
-    site: {{ site.contact.google }}
+google:
+    name: Google+
+    site: "https://www.google.com/+JoshDavis9"
 
-  - name: HackerNews
-    site: https://news.ycombinator.com/user?id=davis
+hn:
+    name: HackerNews
+    site: "https://news.ycombinator.com/user?id=davis"
 
-  - name: Kickstarter
-    site: https://kickstarter.com/profile/joshd
+keybase:
+    name: Keybase.io
+    site: "https://keybase.io/davis"
+    key: "https://keybase.io/davis/key.asc"
 
-  - name: Last.fm
-    site: http://last.fm/user/joshldavis
+kickstarter:
+    name: Kickstarter
+    site: "https://kickstarter.com/profile/joshd"
 
-  - name: LinkedIn
-    site: {{ site.contact.linkedin }}
+lastfm:
+    name: Last.fm
+    site: "http://last.fm/user/joshldavis"
 
-  - name: NPM
-    site: http://npmjs.org/~jdavis
+linkedin:
+    name: LinkedIn
+    site: "https://www.linkedin.com/in/joshualeedavis"
 
-  - name: Reddit
-    site: http://www.reddit.com/user/passingby/
+npm:
+    name: NPM
+    site: "http://npmjs.org/~jdavis"
 
-  - name: Strava
-    site: http://strava.com/athletes/joshdavis
+reddit:
+    name: Reddit
+    site: "http://www.reddit.com/user/passingby/"
 
-  - name: Twitter
-    site: {{ site.contact.twitter }}
+strava:
+    name: Strava
+    site: "http://strava.com/athletes/joshdavis"
+
+twitter:
+    name: Twitter
+    site: "https://twitter.com/HopefulJosh"

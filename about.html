@@ -12,7 +12,7 @@ description:
 
 <p>
     I'm a
-    <a href="https://github.com/jdavis/">software engineer</a>
+    <a href="{{ site.data.accounts.github.site }}">software engineer</a>
     and Computer Scientist studying at
     <a href="http://iastate.edu">Iowa State University</a>
     until May 2014.
@@ -28,48 +28,35 @@ description:
 <p>
     When I'm not trying to change the world through code, I can often be found
     reading and collecting
-    <a href="http://goodreads.com/joshuad">books</a>,
-    <a href="http://strava.com/athletes/joshdavis">road biking</a>,
+    <a href="{{ site.data.accounts.goodreads.site }}">books</a>,
+    <a href="{{ site.data.accounts.strava.site }}">road biking</a>,
     listening to
-    <a href="http://last.fm/user/joshldavis">music</a>,
+    <a href="{{ site.data.accounts.lastfm.site }}">music</a>,
     watching baseball, and drinking
-    <a href="http://www.adagio.com/pages/customer_profile.html?userId=349628JD&SID=6e0c41dec217c656026ebd206454e619">tea</a>.
+    <a href="{{ site.data.accounts.adagio.site }}">tea</a>.
 </p>
 
 <h2 id="contact">All Profiles <i class="icon-double-angle-right"></i></h2>
 <ul class="pretty">
-    <li><a title="Adagio" href="http://www.adagio.com/pages/customer_profile.html?userId=349628JD&SID=6e0c41dec217c656026ebd206454e619">Adagio</a></li>
-    <li><a title="Amazon" href="https://www.amazon.com/gp/pdp/profile/AYOIM6S23UDAH">Amazon</a></li>
-    <li><a title="App.net" href="https://alpha.app.net/jdavis">App.net</a></li>
-    <li><a title="Coursera.org" href="https://www.coursera.org/user/i/304760a07e77c7a51b7d322b83af7872">Coursera</a></li>
-    <li><a title="Facebook" href="{{ site.contact.facebook }}">Facebook</a></li>
-    <li><a title="GitHub" href="{{ site.contact.github }}">GitHub</a></li>
-    <li><a title="Goodreads" href="http://goodreads.com/joshuad">Goodreads</a></li>
-    <li><a title="Google+" href="{{ site.contact.google }}">Google+</a></li>
-    <li><a title="HackerNews" href="https://news.ycombinator.com/user?id=davis">HackerNews</a></li>
-    <li><a title="Kickstarter" href="https://kickstarter.com/profile/joshd">Kickstarter</a></li>
-    <li><a title="Last.fm" href="http://last.fm/user/joshldavis">Last.fm</a></li>
-    <li><a title="LinkedIn" href="{{ site.contact.linkedin }}">LinkedIn</a></li>
-    <li><a title="NPM" href="http://npmjs.org/~jdavis">NPM</a></li>
-    <li><a title="Reddit" href="http://www.reddit.com/user/passingby/">Reddit</a></li>
-    <li><a title="Strava" href="http://strava.com/athletes/joshdavis">Strava</a></li>
-    <li><a title="Twitter" href="{{ site.contact.twitter }}">Twitter</a></li>
+{% for account in site.data.accounts %}
+    <li><a href="{{ account[1].site }}">{{ account[1].name }}</a></li>
+{% endfor %}
 </ul>
 
 <h2 id="contact">Contact <i class="icon-double-angle-right"></i></h2>
 <p>
     Feel free to contact me through
     <a href="mailto:{{ site.contact.email }}">email</a>,
-    <a href="{{ site.contact.twitter }}">Twitter</a>,
-    <a href="{{ site.contact.facebook }}">Facebook</a>,
+    <a href="{{ site.data.accounts.twitter.site }}">Twitter</a>,
+    <a href="{{ site.data.accounts.facebook.site }}">Facebook</a>,
     or
-    <a href="{{ site.contact.google }}">Google+</a>.
+    <a href="{{ site.data.accounts.profiles.google.site }}">Google+</a>.
     I like to talk with people.
 </p>
 <p>
     If you'd like to contact me <strong>securely</strong>, feel free to verify
     my identity on
-    <a href="https://keybase.io/davis">Keybase.io</a>.
+    <a href="{{ site.data.accounts.keybase.site }}">Keybase.io</a>.
     and encrypt your communications using my
-    <a href="https://keybase.io/davis/key.asc">public key</a>.
+    <a href="{{ site.data.accounts.keybase.key }}">public key</a>.
 </p>
