@@ -212,4 +212,4 @@ out. I really hope that things go well \^\_\^.
 [course-info]: https://github.com/ComS342-ISU/course-info
 [forks]: https://help.github.com/articles/fork-a-repo
 [sync]: https://help.github.com/articles/syncing-a-fork
-[lorand]: http://www.cs.iastate.edu/~lorand/
+[lorand]: http://lorandszakacs.com/
