@@ -22,6 +22,9 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [GitHub + University: How College Coding Assignments Should Work][post15]
 - [Doing Your Homework in LaTeX][post16]
 - [My New Site to Demand Two Factor Auth Support][post17]
+- [Vim Tab Madness. Buffers vs Tabs][post18]
+- [A Beginner's Tutorial for knitr][post19]
+- [Josh Uses This][post20]
 
 ## License
 
@@ -52,3 +55,6 @@ would be appreciated, but is not required.
 [post15]: http://joshldavis.com/2014/01/19/github-university-how-college-assignments-should-work/
 [post16]: http://joshldavis.com/2014/02/12/doing-your-homework-in-latex/
 [post17]: http://joshldavis.com/2014/03/15/demand-two-factor-auth-support/
+[post18]: http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/
+[post19]: http://joshldavis.com/2014/04/12/beginners-tutorial-for-knitr/
+[post20]: http://joshldavis.com/2014/05/15/uses-this/
