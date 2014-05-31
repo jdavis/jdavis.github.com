@@ -3,6 +3,10 @@ html, body { height: 100%; }
 img { border: none; }
 ul { list-style: none; }
 
+/*
+ * Global Style
+ */
+
 body {
     font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #505050;
@@ -105,6 +109,10 @@ button.nav {
     border-color: #f0f0f0;
 }
 
+/*
+ * Sidebar
+ */
+
 div.side {
     text-align: right;
     font-size: .9em;
@@ -171,6 +179,10 @@ div.wrap:after {
     clear:both;
 }
 
+/*
+ * Basic Content
+ */
+
 div.content {
     min-height: 100%;
     padding: 30px 40px;
@@ -199,6 +211,10 @@ div.content ol {
 div.content ol li {
     margin-bottom: 10px;
 }
+
+/*
+ * Images in my posts
+ */
 
 div.content .gallery {
     margin: 0 auto;
@@ -298,6 +314,10 @@ div.content blockquote {
     margin-bottom: 20px;
     border-left: 5px solid #eeeeee;
 }
+
+/*
+ * Logo of me & my cat
+ */
 
 div.logo {
     margin: 0 auto;
