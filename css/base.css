@@ -344,6 +344,51 @@ div.logo .josh:hover {
     opacity: 0;
 }
 
+/*
+ * Bitcoin Donation
+ */
+
+.donate {
+    display: table;
+    font-size: 17px;
+    margin-bottom: 18px;
+}
+
+.donate > .icon {
+    background-color: #FAFAFA;
+    background-image: -moz-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.05));
+    background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(0,0,0,0)),to(rgba(0,0,0,.05)));
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.05));
+    background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,.05));
+    border-radius: 8px;
+    border-bottom-right-radius: 0;
+    border-top-right-radius: 0;
+    border: 1px solid rgba(0,0,0,.15);
+    display: table-cell;
+    padding: 0 1em;
+    vertical-align: middle;
+}
+
+.donate > .icon img {
+    display: inline;
+    vertical-align: top;
+}
+
+.donate > input {
+    margin: 0;
+    background-color: #efefef;
+    border-left: none;
+    border-radius: 8px;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    border: 1px solid rgba(0,0,0,.15);
+    color: #d72929;
+    font-family: monospace, monospace;
+    padding: .65em 1em;
+    white-space: nowrap;
+    width: 20em;
+}
+
 div.end {
     font-style: italic;
     border-top: 1px solid #dededc;
