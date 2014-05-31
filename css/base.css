@@ -397,11 +397,11 @@ div.logo .josh:hover {
 .donate > input {
     margin: 0;
     background-color: #efefef;
-    border-left: none;
     border-radius: 8px;
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
     border: 1px solid rgba(0,0,0,.15);
+    border-left: none;
     color: #d72929;
     font-family: monospace, monospace;
     padding: .65em 1em;
