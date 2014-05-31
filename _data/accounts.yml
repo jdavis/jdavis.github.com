@@ -10,6 +10,10 @@ appnet:
     name: App.net
     site: "https://alpha.app.net/jdavis"
 
+coinbase:
+    name: Coinbase
+    site: "https://coinbase.com/jdavis"
+
 coursera:
     name: Coursera
     site: "https://www.coursera.org/user/i/304760a07e77c7a51b7d322b83af7872"
