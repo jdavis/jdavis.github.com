@@ -221,7 +221,8 @@ div.content .gallery {
     margin-bottom: 18px;
 }
 
-div.content img {
+div.content img,
+div.content iframe {
     max-width: 100%;
 }
 
