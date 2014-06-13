@@ -135,8 +135,8 @@ college classes that have stumbled upon my post about [using GitHub for
 university assignments][github-college], to people that are now [using LaTeX for
 homework][homework].
 
-The feeling of changing how someone's brain thinks and changing how someone
-follows where their heart is leading them is far beyond great.
+Changing someone's heart and their mind to want to become better and to learn
+more is an incredible feeling.
 
 ### Open Source Opportunities
 
