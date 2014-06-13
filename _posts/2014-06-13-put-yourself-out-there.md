@@ -16,7 +16,7 @@ js:
 {{ page.title }}
 ================
 
-Just barely over a month ago, I started my blog with my very [first
+Just barely over a year ago, I started my blog with my very [first
 post][first]. In it, I talked about how I was afraid to put myself out there and
 how I slowly overcame it.
 
