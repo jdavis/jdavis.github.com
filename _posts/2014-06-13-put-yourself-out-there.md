@@ -3,7 +3,8 @@ layout: post
 title: Put Yourself Out There&#58; The Myth of the Genius Programmer
 description:
     A year ago I decided to put myself out there and face my fear of being
-    vulnerable by starting a blog.
+    vulnerable by starting a blog. I look at what has happened since then and
+    how great of an experience it has been.
 css:
     - /css/code.css
     - /lib/lightbox/css/lightbox.css
