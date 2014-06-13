@@ -131,8 +131,9 @@ rather than to judge you is so incredibly meaningful & exquisite.
 ### A Tale of Many Tales
 
 That is just one example but there have been many others. From people teaching
-college classes that have stumbled upon my post about using GitHub for
-university assignments, to people that are now using LaTeX for homework.
+college classes that have stumbled upon my post about [using GitHub for
+university assignments][github-college], to people that are now [using LaTeX for
+homework][homework].
 
 The feeling of changing how someone's brain thinks and changing how someone
 follows where their heart is leading them is far beyond great.
@@ -181,3 +182,5 @@ Don't let the myth hold you back. Follow the words of Michael Scott:
 [swim-back]: /2013/08/31/never-save-anything-for-the-swim-back
 [tfa]: http://twofactorauth.org/
 [neovim]: http://neovim.org
+[homework]: /2014/02/12/doing-your-homework-in-latex/
+[github-college]: /2014/01/19/github-university-how-college-assignments-should-work/
