@@ -25,6 +25,7 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Vim Tab Madness. Buffers vs Tabs][post18]
 - [A Beginner's Tutorial for knitr][post19]
 - [Josh Uses This][post20]
+- [Put Yourself Out There: The Myth of the Genius Programmer][post21]
 
 ## License
 
@@ -58,3 +59,4 @@ would be appreciated, but is not required.
 [post18]: http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/
 [post19]: http://joshldavis.com/2014/04/12/beginners-tutorial-for-knitr/
 [post20]: http://joshldavis.com/2014/05/15/uses-this/
+[post21]: http://joshldavis.com/2014/06/13/put-yourself-out-there/
