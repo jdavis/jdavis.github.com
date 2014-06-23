@@ -7,5 +7,5 @@ A list of things to make my web page more awesomer. A ✓ indicates done.
 - ✓ Collapase navigation when in responsive mode.
 - ✓ Fix up scrolling and what not, blah.
 - ~~Fix strange 4 image shrinking hanging thing (see LaTeX post)~~
-- Use `_data/` YAML files for Contact info & additional info
+- ✓ Use `_data/` YAML files for Contact info & additional info
 - ✓ Add Keybase.io info
