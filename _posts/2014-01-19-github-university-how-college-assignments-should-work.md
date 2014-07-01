@@ -14,6 +14,11 @@ js:
 {{ page.title }}
 ================
 
+###### Update on June 30, 2014
+
+> You can find the follow up post here as well as source code:
+> [GitHub + Univeristy: A Follow Up][follow-up]
+
 This semester (Spring 2014), I'm a Teaching Assistant (TA) for a course that I
 took last semester called "Principles of Programming Languages." It was a very
 enjoyable class and I have always been interested in programming languages. I
@@ -200,16 +205,17 @@ now:
 Once the semester is finished, I will revisit the topic to see how things turned
 out. I really hope that things go well \^\_\^.
 
+[api]: http://developer.github.com/v3/
 [bb]: http://www.blackboard.com/
+[coms342]: https://github.com/ComS342-ISU
+[course-info]: https://github.com/ComS342-ISU/course-info
+[edu]: https://education.github.com/
+[follow-up]: TODO
+[forks]: https://help.github.com/articles/fork-a-repo
 [gh]: https://github.com/
 [hl]: http://en.wikipedia.org/wiki/Half-Life_(video_game)
-[coms342]: https://github.com/ComS342-ISU
-[edu]: https://education.github.com/
-[node]: http://nodejs.org/
-[api]: http://developer.github.com/v3/
-[travis]: https://travis-ci.org/
 [jdavis]: https://github.com/jdavis
-[course-info]: https://github.com/ComS342-ISU/course-info
-[forks]: https://help.github.com/articles/fork-a-repo
-[sync]: https://help.github.com/articles/syncing-a-fork
 [lorand]: http://lorandszakacs.com/
+[node]: http://nodejs.org/
+[sync]: https://help.github.com/articles/syncing-a-fork
+[travis]: https://travis-ci.org/
