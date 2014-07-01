@@ -175,7 +175,7 @@ trivial to troubleshoot a student's code. There were a handful of occasions when
 a student was having a strange error that I couldn't debug over email.
 
 I'd email the student back, telling them to commit what they have so far and I
-would be able to debug it then. I'd then either run pull the repository locally
+would be able to debug it then. I'd then either  pull the repository locally
 and run it, or I would just debug by looking at it in GitHub.
 
 ### New Homeworks & Solutions
