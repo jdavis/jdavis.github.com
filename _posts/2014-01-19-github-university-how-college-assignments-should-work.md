@@ -210,7 +210,7 @@ out. I really hope that things go well \^\_\^.
 [coms342]: https://github.com/ComS342-ISU
 [course-info]: https://github.com/ComS342-ISU/course-info
 [edu]: https://education.github.com/
-[follow-up]: TODO
+[follow-up]: /2014/06/30/github-university-follow-up/
 [forks]: https://help.github.com/articles/fork-a-repo
 [gh]: https://github.com/
 [hl]: http://en.wikipedia.org/wiki/Half-Life_(video_game)
