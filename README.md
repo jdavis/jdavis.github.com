@@ -26,6 +26,7 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [A Beginner's Tutorial for knitr][post19]
 - [Josh Uses This][post20]
 - [Put Yourself Out There: The Myth of the Genius Programmer][post21]
+- [GitHub + University: A Follow Up][post22]
 
 ## License
 
@@ -60,3 +61,4 @@ would be appreciated, but is not required.
 [post19]: http://joshldavis.com/2014/04/12/beginners-tutorial-for-knitr/
 [post20]: http://joshldavis.com/2014/05/15/uses-this/
 [post21]: http://joshldavis.com/2014/06/13/put-yourself-out-there/
+[post22]: http://joshldavis.com/2014/06/30/github-university-follow-up/
