@@ -39,7 +39,7 @@ After that, I'll explain the *correct* way to use tabs within Vim.
 
 ## Buffers
 
-A buffer is nothing more text that you are editing. For example, when you open a
+A buffer is nothing more than text that you are editing. For example, when you open a
 file, the content of the file is loaded into a buffer. So when you issue this
 command:
 
