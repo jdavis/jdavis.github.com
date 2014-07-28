@@ -204,7 +204,7 @@ Antigen isn't perfect however. There are a few idiosyncrasies that are a bit
 annoying. Here's what I think could be improved based off of the current
 version.
 
-### Error Checking
+### Dependency Errors
 
 Antigen relies on Git and when Git isn't installed, you are greeted with some
 pretty errors every single time a shell is opened.
@@ -213,23 +213,26 @@ Obviously the fix would be to check if all the required tools are installed
 before blindly proceeding. It is a simple fix but would make the user experience
 a bit nicer.
 
-Also, if a repository is private, which is what I do to manage sensitive
-information like IP's of my servers and other private things, it will try to
-download it every time a shell is opened up.
-
-A more sane alternative is to check if permissions are required and instead of
-trying to download it every single time, just keep a list of ones that aren't
-accessible due to permission. Then once the user is ready (say after they have
-setup their GitHub private keys and loaded ssh-agent), the user could then try
-to reinstall all the plugins that failed.
-
 ### Automatic Downloading is a Mess
 
 In addition to the errors that you get when Git isn't installed, every time you
 open a new shell, it will automatically try to download any missing plugins.
 
-This goes with the above points but it would be great to turn this off. I'd
-argue it should be off by default as well.
+This goes with the above point but it would be great to turn this off. I'd argue
+it should be off by default as well.
+
+Also, if a repository is private, which is what I do to manage sensitive
+information like IP's of my servers and other private things, it will try to
+download it every time a shell is opened up.
+
+This happens on new machines until I get a SSH key in place. The constant errors
+popping up is quite frustrating.
+
+A more sane alternative is to check if permissions are required and instead of
+trying to download it every single time, just keep a list of ones that aren't
+accessible due to permission. Then the user can download them when they are
+ready (say after they have setup their GitHub private keys and loaded
+ssh-agent) instead of the constant errors.
 
 ### Version Locking
 
