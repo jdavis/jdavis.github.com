@@ -20,8 +20,8 @@ It features "120+ optional plugins" and just as many themes for your beloved
 shell. It has a great [default library][omz-lib] that turns on a lot of great
 zsh features that make it better for new users.
 
-However, I think that oh-my-zsh has actually become a bit harmful to goal that
-it is trying to achieve.
+However, I think that oh-my-zsh has actually become a bit harmful to the goal
+that it is trying to achieve.
 
 ## The Problem
 
