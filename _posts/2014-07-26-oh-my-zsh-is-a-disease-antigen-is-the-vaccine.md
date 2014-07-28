@@ -14,7 +14,7 @@ css:
 
 [oh-my-zsh][omz] is one of the [most popular repositories][stars] on GitHub with
 17,500+ stars. If you use zsh as your main shell, you likely have heard of
-oh-my-zsh or at least use it.
+oh-my-zsh or even use it.
 
 It features "120+ optional plugins" and just as many themes for your beloved
 shell. It has a great [default library][omz-lib] that turns on a lot of great
