@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New Google Map's User Experience
+title: The New Google Maps User Experience
 description:
     Some thoughts and musings about the new Google Maps interface.
 css:
