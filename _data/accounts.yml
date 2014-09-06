@@ -63,6 +63,10 @@ reddit:
     name: Reddit
     site: "http://www.reddit.com/user/passingby/"
 
+stackoverflow:
+    name: StackOverflow
+    site: "http://stackoverflow.com/users/2337627/josh-davis"
+
 strava:
     name: Strava
     site: "http://strava.com/athletes/joshdavis"
