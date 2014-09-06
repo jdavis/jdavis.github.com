@@ -1,4 +1,4 @@
-html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td { margin: 0; padding: 0; }
+html, body, . h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td { margin: 0; padding: 0; }
 html, body { height: 100%; }
 img { border: none; }
 ul { list-style: none; }
@@ -38,11 +38,11 @@ ul.pretty:after {
     clear:both;
 }
 
-div.buttons {
+.buttons {
     text-align: center;
 }
 
-div.container a.button {
+.container a.button {
     margin-bottom: 20px;
     height: 25px;
     text-align: center;
@@ -58,24 +58,24 @@ div.container a.button {
     color: #FFFFFF;
 }
 
-div.container a.button:hover {
+.container a.button:hover {
     background-color: #3072B3;
     color: white;
 }
 
-div.container a.button:active {
+.container a.button:active {
     background-color: #5ea3e0;
     color: white;
 }
 
-div.container {
+.container {
     width: 1200px;
     min-height: 100%;
     height: 100%;
     margin: 0 auto;
 }
 
-.clear:before, div.clear:after {
+.clear:before, .clear:after {
     display: table;
     line-height: 0;
     content: "";
@@ -85,11 +85,11 @@ div.container {
     clear: both;
 }
 
-div.container p {
+.container p {
     margin-bottom: 18px;
 }
 
-div.container a {
+.container a {
     color: #08C;
     border-bottom: 1px dashed #dededc;
     text-decoration: none;
@@ -113,7 +113,7 @@ button.nav {
  * Sidebar
  */
 
-div.side {
+.side {
     text-align: right;
     font-size: .9em;
     width: 160px;
@@ -122,46 +122,46 @@ div.side {
     padding: 30px 0;
 }
 
-div.side h2 {
+.side h2 {
     margin: 4px 0 18px;
     text-align: center;
 }
 
-div.side ul {
+.side ul {
     border-bottom: 1px solid #dededc;
     margin-bottom: 18px;
 }
 
-div.side ul li {
+.side ul li {
     padding: 6px;
     border-top: 1px solid #dededc;
 }
 
-div.side ul li:first-child {
+.side ul li:first-child {
     border-top: none;
 }
 
-div.side ul li a {
+.side ul li a {
     font-weight: bold;
     display: block;
     border-bottom: none;
 }
 
-div.side ul li a:hover {
+.side ul li a:hover {
     display: block;
     color: #505050;
 }
 
-div.side .profiles {
+.side .profiles {
     margin: 8px 0;
 }
 
-div.side .profiles a {
+.side .profiles a {
     font-size: 1.6em;
     border-bottom: none;
 }
 
-div.wrap {
+.wrap {
     height: 100%;
     min-height: 752px;
     width: 1000px;
@@ -169,13 +169,13 @@ div.wrap {
     margin: 0 9px 0 10px;
 }
 
-div.wrap:before, div.wrap:after {
+.wrap:before, .wrap:after {
     display: table;
     line-height: 0;
     content: "";
 }
 
-div.wrap:after {
+.wrap:after {
     clear:both;
 }
 
@@ -183,32 +183,32 @@ div.wrap:after {
  * Basic Content
  */
 
-div.content {
+.content {
     min-height: 100%;
     padding: 30px 40px;
     border-left: 1px solid #dededc;
 }
 
-div.content h1, div.content h2, div.content h3, div.content h4, div.content h5 {
+.content h1, .content h2, .content h3, .content h4, .content h5 {
     margin-bottom: 18px;
     padding-bottom: 6px;
     clear: both;
 }
 
-div.content h1 {
+.content h1 {
     line-height: 1em;
 }
 
-div.content h2 {
+.content h2 {
     border-bottom: 1px solid #dededc;
 }
 
-div.content ol {
+.content ol {
     padding-left: 40px;
     margin-bottom: 20px;
 }
 
-div.content ol li {
+.content ol li {
     margin-bottom: 10px;
 }
 
@@ -216,17 +216,17 @@ div.content ol li {
  * Images in my posts
  */
 
-div.content .gallery {
+.content .gallery {
     margin: 0 auto;
     margin-bottom: 18px;
 }
 
-div.content img,
-div.content iframe {
+.content img,
+.content iframe {
     max-width: 100%;
 }
 
-div.content .figure {
+.content .figure {
     text-align: center;
     margin: 5px 0 5px 10px;
     float: left;
@@ -242,49 +242,49 @@ div.content .figure {
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
-div.content .figure.right {
+.content .figure.right {
     float: right;
 }
 
-div.content .gallery.xxsmall {
+.content .gallery.xxsmall {
     width: 160px;
 }
 
-div.content .gallery.xsmall {
+.content .gallery.xsmall {
     width: 320px;
 }
 
-div.content .gallery.small {
+.content .gallery.small {
     width: 480px;
 }
 
-div.content .gallery.medium {
+.content .gallery.medium {
     width: 640px;
 }
 
-div.content .gallery.large {
+.content .gallery.large {
     width: 800px;
 }
 
-div.content .gallery.xlarge {
+.content .gallery.xlarge {
     width: 960px;
 }
 
-div.content .gallery.xxlarge {
+.content .gallery.xxlarge {
     width: 1120px;
 }
 
-div.content .gallery:before, div.content .gallery:after {
+.content .gallery:before, .content .gallery:after {
     display: table;
     line-height: 0;
     content: "";
 }
 
-div.content .gallery:after {
-    clear:both;
+.content .gallery:after {
+    clear: both;
 }
 
-div.content .gallery a, div.content .gallery figure {
+.content .gallery a, .content .gallery figure {
     text-align: center;
     margin: 5px 0 5px 10px;
     float: left;
@@ -300,9 +300,13 @@ div.content .gallery a, div.content .gallery figure {
             box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
-div.content .figure > span,
-div.content .gallery a > span,
-div.content .gallery figure > figcaption {
+.content .figure a {
+    border-bottom: none;
+}
+
+.content .figure span,
+.content .gallery a span,
+.content .gallery figure figcaption {
     text-align: left;
     color: #505050;
     padding: 4px;
@@ -310,7 +314,7 @@ div.content .gallery figure > figcaption {
     display: block;
 }
 
-div.content blockquote {
+.content blockquote {
     padding-left: 20px;
     margin-bottom: 20px;
     border-left: 5px solid #eeeeee;
@@ -320,7 +324,7 @@ div.content blockquote {
  * Logo of me & my cat
  */
 
-div.logo {
+.logo {
     margin: 0 auto;
     position: relative;
     width: 150px;
@@ -329,7 +333,7 @@ div.logo {
     text-align: center;
 }
 
-div.logo .josh {
+.logo .josh {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -343,7 +347,7 @@ div.logo .josh {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.logo .rocket {
+.logo .rocket {
     position: absolute;
     top: 0px;
     left: 0px;
@@ -357,11 +361,11 @@ div.logo .rocket {
             transition: opacity 0.2s ease-in-out;
 }
 
-div.logo:hover .rocket{
+.logo:hover .rocket{
     opacity: 1;
 }
 
-div.logo .josh:hover {
+.logo .josh:hover {
     opacity: 0;
 }
 
@@ -410,7 +414,7 @@ div.logo .josh:hover {
     width: 20em;
 }
 
-div.end {
+.end {
     font-style: italic;
     border-top: 1px solid #dededc;
     padding: 20px 0;
@@ -424,38 +428,38 @@ div.end {
  */
 
 @media only screen and (max-width: 1199px) {
-    div.container {
+    .container {
         width: 100%;
     }
 
-    div.side {
+    .side {
         padding-left: 10px;
         padding-right: 20px;
         position: absolute;
     }
 
-    div.wrap {
+    .wrap {
         width: auto;
         margin-left: 160px;
         float: none;
     }
 
-    div.content {
+    .content {
         margin: 0 40px;
     }
 
-    div.content .gallery a,
-    div.content .gallery figure {
+    .content .gallery a,
+    .content .gallery figure {
         max-width: 100%;
     }
 
-    div.content .gallery.xxsmall,
-    div.content .gallery.xsmall,
-    div.content .gallery.small,
-    div.content .gallery.medium,
-    div.content .gallery.large,
-    div.content .gallery.xlarge,
-    div.content .gallery.xxlarge {
+    .content .gallery.xxsmall,
+    .content .gallery.xsmall,
+    .content .gallery.small,
+    .content .gallery.medium,
+    .content .gallery.large,
+    .content .gallery.xlarge,
+    .content .gallery.xxlarge {
         max-width: 100%;
         height: auto;
     }
@@ -464,7 +468,7 @@ div.end {
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px), screen and (max-width: 479px) {
-    div.container {
+    .container {
         width: 100%;
     }
 
@@ -472,7 +476,7 @@ div.end {
         display: inline;
     }
 
-    div.side {
+    .side {
         text-align: center;
         width: 100%;
         float: none;
@@ -481,11 +485,11 @@ div.end {
         position: inherit;
     }
 
-    div.side .paragraphs {
+    .side .paragraphs {
         display: none;
     }
 
-    div.side ul {
+    .side ul {
         display: none;
         margin: 10px 20px;
         text-shadow: 0 1px 0 #fff;
@@ -493,14 +497,25 @@ div.end {
         border-radius: 5px;
     }
 
-    div.wrap {
+    .wrap {
         width: 100%;
         margin: 0;
     }
 
-    div.content {
+    .content {
         margin: 0;
         padding: 10px 20px;
         border-left: none;
     }
+}
+
+table.pretty {
+    text-align: left;
+}
+
+table.pretty thead tr th {
+    margin: 0;
+    padding: 8px;
+    line-height: 1.42857143;
+    border-bottom: 1px solid #ddd;
 }
