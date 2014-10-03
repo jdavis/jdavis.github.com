@@ -24,6 +24,8 @@ hand.
 The title of the submission should be *Heavy-handed HackerNews: This Title
 Should Differ from the Article*.
 
+Here is the submission: [https://news.ycombinator.com/item?id=8405771][hn]
+
 ## URL Hot Swapping
 
 In particular, [dang][dang] has a habit of hot swapping out URL submissions from
@@ -82,3 +84,4 @@ and *change* the original submissions needs to stop.
 [neovim-hn]: https://news.ycombinator.com/item?id=8290283
 [comment]: https://news.ycombinator.com/item?id=8292175
 [jekyll]: https://github.com/neovim/neovim.github.io/blob/master/_layouts/default.html#L9
+[hn]: https://news.ycombinator.com/item?id=8405771
