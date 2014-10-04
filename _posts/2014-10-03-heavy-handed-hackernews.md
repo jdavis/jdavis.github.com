@@ -12,6 +12,11 @@ description:
 
 # {{ page.title }}
 
+###### Note
+
+> This post didn't make the frontpage thus the experiment didn't work. Still,
+> the content is still valid.
+
 I have been less than thrilled about the increase in administrative "duties"
 that have been going on with HackerNews since pg stepped down administrating the
 site.
