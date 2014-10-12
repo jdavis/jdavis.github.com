@@ -209,7 +209,7 @@ forever changed.
 
 <div class="gallery xsmall">
     <figure>
-        <img src="/img/mind-blown.gif" width="300">
+        <img src="/img/gof/mind-blown.gif" width="300">
         <figcaption>This really did happen to my brain.</figcaption>
     </figure>
 </div>

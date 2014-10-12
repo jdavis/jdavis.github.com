@@ -29,7 +29,7 @@ I'd definitely recommend watching the whole thing. It's an excellent interview,
 like always.
 
 <div class="gallery medium">
-    <iframe width="560" height="315" src="//www.youtube.com/embed/1sumVEEAZ_w?rel=0&start=3131&end=&autoplay=0" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="//www.youtube.com/embed/EORFe_zbZO8?rel=0&start=3131&end=&autoplay=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 I figured he would mention something about building a business or possibly a
