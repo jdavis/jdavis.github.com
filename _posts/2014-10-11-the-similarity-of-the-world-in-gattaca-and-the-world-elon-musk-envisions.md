@@ -1,9 +1,12 @@
 ---
 layout: post
 title:
-    The World in Gattaca is The World Elon Musk Envisions
+    The Similarity of the World in Gattaca and the World Elon Musk Envisions
 description:
-    TODO
+    I explore some of the interesting similarities between the world in Gattaca
+    and the world that Elon Musk dreams of.
+redirect_from:
+    - /2014/10/11/the-world-of-gattaca-is-the-world-elon-musk-envisions/
 css:
     - /lib/lightbox/css/lightbox.css
 js:
