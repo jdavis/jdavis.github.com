@@ -27,8 +27,8 @@ Even though genetics is a big part of the movie, there isn't a direct analogy to
 today thus I won't address it. And as the movie illustrates, let's hope there
 never is a time when that is the case.
 
-Let's take a look at the world that Elon Musk dreams. This world will be based
-on what he has said and what he spends his time working on.
+Let's take a look at the world that Elon Musk dreams of. This world will be
+based on what he has said and what he spends his time working on.
 
 ## Elon's World
 
