@@ -168,7 +168,13 @@ To reconcile all of this and learn how to use Vim's buffers/windows effectively,
 it might be useful to stop using tabs altogether until you understand how to
 edit with just using buffers/windows.
 
-The way I did this was to change my Vim setup a bit.
+I'm going to present two different ways to use buffers. The first is to
+use buffers to replicate how tabs work in other editors.
+
+The second is a more natural way to the Vim editor that yields a lot of
+power.
+
+### Solution #1: Replicating Tabs with Buffers
 
 The first thing I did was install a plugin that allows me to visualize all the
 buffers open across the top. There are multiple different [plugins][buf-plugins]
@@ -200,7 +206,8 @@ Next I needed to replace the tab shortcuts that I'd no longer be using. I did
 this by adding these to my [.vimrc][vimrc] as well:
 
 {% highlight vim %}
-" My preference with using buffers. See `:h hidden` for more details
+" This allows buffers to be hidden if you've modified a buffer.
+" This is almost a must if you wish to use buffers in this way.
 set hidden
 
 " To open a new empty buffer
@@ -225,6 +232,84 @@ These settings gave me a hybrid approach to how I expected tabs to
 work in Vim yet it still gave me the same power that comes from
 understanding and using buffers.
 
+### Solution #2: Crouching Tiger, Hidden Buffer
+
+Instead of replicating tabs across the top like we did in the previous solution,
+we are instead going to use the power of being able to open many buffers
+simultaneously without worrying about which ones are open.
+
+In my experience, there are two plugins that I like that help a lot with this.
+The first is [Buffergator][buffergator] which gives a great way to manage
+buffers. The second is [CtrlP][ctrlp] which is a favorite among many Vim users.
+It gives a powerful fuzzy finder within Vim for files.
+
+Instead of worrying about closing buffers and managing your pseudo-tabs that was
+mentioned in the previous solution, you just open files that you want to edit
+using CtrlP and don't worry about closing buffers or how many you have opened.
+
+When you are done editing a file, you just save it and then open CtrlP and
+continue onto the next file.
+
+CtrlP offers a few different ways to fuzzy find. You can use the following
+fuzziness:
+
+1. Find in your current directory.
+2. Find within all your open buffers.
+3. Find within all your open buffers sorted by Most Recently Used (MRU).
+4. Find with a mix of all the above.
+
+Here are the settings that I use for working well with CtrlP:
+
+{% highlight vim %}
+" Setup some default ignores
+let g:ctrlp_custom_ignore = {
+  \ 'dir':  '\v[\/](\.(git|hg|svn)|\_site)$',
+  \ 'file': '\v\.(exe|so|dll|class|png|jpg|jpeg)$',
+\}
+
+" Use the nearest .git directory as the cwd
+" This makes a lot of sense if you are working on a project that is in version
+" control. It also supports works with .svn, .hg, .bzr.
+let g:ctrlp_working_path_mode = 'r'
+
+" Use a leader instead of the actual named binding
+nmap <leader>p :CtrlP<cr>
+
+" Easy bindings for its various modes
+nmap <leader>bb :CtrlPBuffer<cr>
+nmap <leader>bm :CtrlPMixed<cr>
+nmap <leader>bs :CtrlPMRU<cr>
+{% endhighlight %}
+
+The way I use Buffergator is to clean up buffers when I need them and to easily
+view what files I have edited in case I have edited one and forgot to save it.
+
+Here are the settings and the keybindings I use for Buffergator:
+
+{% highlight vim %}
+" Use the right side of the screen
+let g:buffergator_viewport_split_policy = 'R'
+
+" I want my own keymappings...
+let g:buffergator_suppress_keymaps = 1
+
+" Looper buffers
+"let g:buffergator_mru_cycle_loop = 1
+
+" Go to the previous buffer open
+nmap <leader>jj :BuffergatorMruCyclePrev<cr>
+
+" Go to the next buffer open
+nmap <leader>kk :BuffergatorMruCycleNext<cr>
+
+" View the entire list of buffers open
+nmap <leader>bl :BuffergatorOpen<cr>
+
+" Shared bindings from Solution #1 from earlier
+nmap <leader>T :enew<cr>
+nmap <leader>bq :bp <BAR> bd #<cr>
+{% endhighlight %}
+
 ### Using Tabs Correctly
 
 This doesn't mean you should stop using tabs altogether. You should
@@ -236,7 +321,8 @@ to normal editing, but another tab for using a vertical split for the `file.h`
 and `file.c` files to make editing between them easier.
 
 Tabs also work really well to divide up what you are working on. You could
-be working on one project in one tab and another project in another tab.
+be working on one part of the project in one tab and another part of the project
+in another tab.
 
 Just remember though, if you are using a single tab for each file, that isn't
 how tabs in Vim were designed to be used.
@@ -254,7 +340,7 @@ To illustrate this let's use an example. Here's what you do as you edit:
 
 2. Then let's say you have to make a change to your homepage, instead of opening
    up a new tab (which is the old way of thinking), you just open up a
-   different buffer, `index.html`.
+   different buffer, `index.html` using CtrlP.
 
 3. This will just switch the buffer you are *viewing* in the window to point to
    the `index.html`. All your other windows stay intact and you can still use
@@ -284,6 +370,12 @@ trying to use tabs unnaturally.
 If you have any suggestions on this article or using Vim in general, feel free
 to [contact][contact] me, I love talking with people =]
 
+#### Updated on Oct 25
+
+I've updated it to present my latest solution (called Solution #2) of managing
+buffers in in addition to the pseudo-tab bar with buffers that now is called
+"Solution #1".
+
 [contact]: /about/#contact
 [buf-plugins]: http://vim.wikia.com/wiki/Easier_buffer_switching#Scripts
 [airline]: https://github.com/bling/vim-airline
@@ -291,3 +383,5 @@ to [contact][contact] me, I love talking with people =]
 [airline-buffers]: https://github.com/bling/vim-airline#smarter-tab-line
 [vim-layout]: http://stackoverflow.com/a/103590
 [vimrc]: https://github.com/jdavis/dotfiles/blob/master/.vimrc
+[buffergator]: https://github.com/jeetsukumaran/vim-buffergator
+[ctrlp]: https://github.com/kien/ctrlp.vim
