@@ -6,10 +6,6 @@ amazon:
     name: Amazon
     site: "https://www.amazon.com/gp/pdp/profile/AYOIM6S23UDAH"
 
-appnet:
-    name: App.net
-    site: "https://alpha.app.net/jdavis"
-
 coinbase:
     name: Coinbase
     site: "https://coinbase.com/jdavis"
