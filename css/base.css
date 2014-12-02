@@ -420,6 +420,14 @@ button.nav {
     padding: 20px 0;
 }
 
+.posts span {
+    font-weight: bold;
+}
+
+.posts p {
+    padding-left: 2em;
+}
+
 /*
  * Responsive CSS
  *
