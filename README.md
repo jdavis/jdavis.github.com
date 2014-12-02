@@ -27,6 +27,9 @@ My personal web page: [joshldavis.com](http://joshldavis.com).
 - [Josh Uses This][post20]
 - [Put Yourself Out There: The Myth of the Genius Programmer][post21]
 - [GitHub + University: A Follow Up][post22]
+- [Oh-my-zsh is the Disease and Antigen is the Vaccine][post23]
+- [Heavy-handed HackerNews: Mods are Unnecessarily Editing Titles and Swapping URLs][post24]
+- [The Similarity of the World in Gattaca and the World Elon Musk Envisions][post25]
 
 ## License
 
@@ -62,3 +65,6 @@ would be appreciated, but is not required.
 [post20]: http://joshldavis.com/2014/05/15/uses-this/
 [post21]: http://joshldavis.com/2014/06/13/put-yourself-out-there/
 [post22]: http://joshldavis.com/2014/06/30/github-university-follow-up/
+[post23]: https://joshldavis.com/2014/07/26/oh-my-zsh-is-a-disease-antigen-is-the-vaccine/
+[post24]: https://joshldavis.com/2014/10/03/heavy-handed-hackernews/
+[post25]: https://joshldavis.com/2014/10/11/the-similarity-of-the-world-in-gattaca-and-the-world-elon-musk-envisions/
