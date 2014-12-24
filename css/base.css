@@ -128,7 +128,6 @@ button.nav {
 }
 
 .side ul {
-    border-bottom: 1px solid #dededc;
     margin-bottom: 18px;
 }
 
@@ -139,6 +138,10 @@ button.nav {
 
 .side ul li:first-child {
     border-top: none;
+}
+
+.side ul li:last-child {
+    border-bottom: 1px solid #dededc;
 }
 
 .side ul li a {
@@ -503,6 +506,11 @@ button.nav {
         text-shadow: 0 1px 0 #fff;
         background-color: #f5f7fa;
         border-radius: 5px;
+        padding-left: 0;
+    }
+
+    .side ul li:last-child {
+        border-bottom: none;
     }
 
     .wrap {
