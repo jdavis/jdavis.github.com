@@ -31,22 +31,22 @@ Below are a few screenshots of problems that I've done in the past:
 
 <div class="gallery large">
     <a href="/img/latex/latex1.png" rel="lightbox[latex]" title="Cover page">
-        <img src="/img/latex/latex1.png" width="180">
+        <img src="/img/latex/latex1.png" alt="Cover page" width="180">
         <span>Cover page</span>
     </a>
 
     <a href="/img/latex/latex2.png" rel="lightbox[latex]" title="Example problem 2">
-        <img src="/img/latex/latex2.png" width="180">
+        <img src="/img/latex/latex2.png" alt="Algorithm problem" width="180">
         <span>Algorithm problems</span>
     </a>
 
     <a href="/img/latex/latex3.png" rel="lightbox[latex]" title="Example problem 3">
-        <img src="/img/latex/latex3.png" width="180">
+        <img src="/img/latex/latex3.png" alt="Complexity problem" width="180">
         <span>Complexity problems</span>
     </a>
 
     <a href="/img/latex/latex4.png" rel="lightbox[latex]" title="Example problem 4">
-        <img src="/img/latex/latex4.png" width="180">
+        <img src="/img/latex/latex4.png" alt="Stats problem" width="180">
         <span>Statistics problem</span>
     </a>
 </div>
@@ -132,7 +132,7 @@ With the output looking like below:
 
 <div class="gallery large">
     <a href="/img/latex/example.png" rel="lightbox[latex]" title="Example output">
-        <img src="/img/latex/example.png" width="480">
+        <img src="/img/latex/example.png" alt="Example output" width="480">
         <span>Result of above code</span>
     </a>
 </div>

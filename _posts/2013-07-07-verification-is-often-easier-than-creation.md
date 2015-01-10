@@ -49,6 +49,6 @@ In a way, it is a very strong reminder that some great things take time. There's
 no way to fake that. While it is possible to create great things in a short
 amount of time, some things might **only** take hard work and persistence.
 
-[tzhang]: http://www.cs.iastate.edu/~tingz/
+[tzhang]: http://theory.stanford.edu/~tingz/index.html-
 [sipser]: http://amzn.com/113318779X
 [ccbook]: http://amzn.com/0521424267

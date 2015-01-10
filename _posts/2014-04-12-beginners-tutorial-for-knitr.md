@@ -104,7 +104,7 @@ Which will end up being rendered like this:
 
 <div class="gallery medium">
     <a href="/img/knitr/knitr1.png" rel="lightbox[knitr]">
-        <img src="/img/knitr/knitr1.png" >
+        <img src="/img/knitr/knitr1.png" alt="Basic chunk in knitr">
         <span>Basic chunk example</span>
     </a>
 </div>
@@ -157,7 +157,7 @@ under the **Inline output** section on the [knitr Output][output] page.
 
 <div class="gallery medium">
     <a href="/img/knitr/knitr3.png" rel="lightbox[knitr]">
-        <img src="/img/knitr/knitr3.png" >
+        <img src="/img/knitr/knitr3.png" alt="Values in knitr">
         <span>Values from R in LaTeX</span>
     </a>
 </div>
@@ -185,7 +185,7 @@ Then we get this as the output:
 
 <div class="gallery medium">
     <a href="/img/knitr/knitr2.png" rel="lightbox[knitr]">
-        <img src="/img/knitr/knitr2.png" >
+        <img src="/img/knitr/knitr2.png" alt="Figures in knitr">
         <span>Simple figure</span>
     </a>
 </div>
@@ -283,7 +283,7 @@ knitr makes working on Statistics and Machine Learning a breeze. I can't imagine
 trying to work without it.
 
 Do you use knitr and have some feedback? Feel free to [send me an
-email][contact] me or Tweet at me on Twitter: [@HopefulJosh][twitter]. I'd love
+email][contact] me or Tweet at me on Twitter: [\@HopefulJosh][twitter]. I'd love
 to learn more or talk.
 
 [book]: http://smile.amazon.com/dp/B00F2MPD9O
