@@ -21,8 +21,11 @@ gems:
     - jekyll-mentions
 
 exclude:
-    - README.md
-    - TODO.md
-    - LICENSE
+    - CNAME
     - Gemfile
     - Gemfile.lock
+    - LICENSE
+    - README.md
+    - Rakefile
+    - TODO.md
+    - vendor

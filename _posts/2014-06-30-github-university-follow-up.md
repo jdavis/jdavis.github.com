@@ -232,7 +232,7 @@ Here's one student's response in particular that I liked:
 
 <div class="gallery medium">
     <a href="/img/cs342/git.png" rel="lightbox[git]" title="One student's response.">
-        <img src="/img/cs342/git.png" >
+        <img src="/img/cs342/git.png" alt="A student's git love.">
     </a>
 </div>
 

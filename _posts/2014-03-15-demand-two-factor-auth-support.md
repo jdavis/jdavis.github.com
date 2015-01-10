@@ -56,7 +56,7 @@ websites and whether or not they support two factor auth.
 
 <div class="gallery medium">
     <a href="/img/2fa/twofactorauth.png" rel="lightbox[2fa]" title="TwoFactorAuth.org">
-        <img src="/img/2fa/twofactorauth.png" width="640">
+        <img src="/img/2fa/twofactorauth.png" alt="TwoFactorAuth.org screenshot" width="640">
         <span>TwoFactorAuth.org</span>
     </a>
 </div>

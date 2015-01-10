@@ -86,17 +86,17 @@ through GitHub's OAuth.
 
 <div class="gallery xlarge">
     <a href="/img/cs342/app0.png" rel="lightbox[bad]" title="Step one of the app">
-        <img src="/img/cs342/app0.png" height="250">
+        <img src="/img/cs342/app0.png" alt="Signing in on the app" height="250">
         <span>Signing in with GitHub</span>
     </a>
 
     <a href="/img/cs342/app1.png" rel="lightbox[bad]" title="Step two of the app">
-        <img src="/img/cs342/app1.png" height="250">
+        <img src="/img/cs342/app1.png" alt="Joining the class" height="250">
         <span>Joining the Class</span>
     </a>
 
     <a href="/img/cs342/app2.png" rel="lightbox[bad]" title="Step three of the app">
-        <img src="/img/cs342/app2.png" height="250">
+        <img src="/img/cs342/app2.png" alt="Enrolling" height="250">
         <span>Successfully enrolling</span>
     </a>
 </div>

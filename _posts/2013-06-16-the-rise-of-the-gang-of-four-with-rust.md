@@ -26,7 +26,7 @@ programming languages as I took up learning [Rust][rust].
 
 Before I read this book, when I thought of [object-oriented programming
 (OOP)][oop], the languages that I thought of were usually Java, C++, Python, and
-Ruby (and according to [GitHub][popular], they are the four most popular OOP
+Ruby (and according to GitHub, they are the four most popular OOP
 languages, besides PHP) The interesting part is that all four of these languages
 use the same notion of OOP with little twists added on.
 
@@ -209,7 +209,7 @@ forever changed.
 
 <div class="gallery xsmall">
     <figure>
-        <img src="/img/gof/mind-blown.gif" width="300">
+        <img src="/img/gof/mind-blown.gif" alt="Mind blown" width="300">
         <figcaption>This really did happen to my brain.</figcaption>
     </figure>
 </div>
@@ -379,9 +379,8 @@ follows the same cyclic pattern.
 [rust]: http://www.rust-lang.org
 [go]: http://www.go-lang.org
 [oop]: https://en.wikipedia.org/wiki/Object-oriented_programming
-[popular]: https://github.com/languages
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
 [err]: http://docs.python.org/2/library/exceptions.html#exceptions.NotImplementedError
 [ruby-errors]: http://metabates.com/2011/02/07/building-interfaces-and-abstract-classes-in-ruby/
-[tut]: http://static.rust-lang.org/doc/tutorial.html
+[tut]: http://doc.rust-lang.org/
 [classless]: https://lwn.net/Articles/548560/

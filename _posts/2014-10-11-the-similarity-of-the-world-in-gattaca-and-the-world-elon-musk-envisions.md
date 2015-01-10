@@ -75,7 +75,7 @@ ever since he could read.
 
 <div class="gallery medium">
     <a href="/img/gattaca/spaceship.png" rel="lightbox[spaceship]">
-        <img src="/img/gattaca/spaceship.png" >
+        <img src="/img/gattaca/spaceship.png" alt="Rocket launch in Gattaca">
         <span>One of the 12 daily rocket launches in Gattaca.</span>
     </a>
 </div>
@@ -101,7 +101,7 @@ the cars after classics from the 1960's such as the [Rover P6][rover] and
 
 <div class="gallery medium">
     <a href="/img/gattaca/electric-car.png" rel="lightbox[car]">
-        <img src="/img/gattaca/electric-car.png" >
+        <img src="/img/gattaca/electric-car.png" alt="Electric car in Gattaca">
         <span>An electric car from Gattaca.</span>
     </a>
 </div>
@@ -125,7 +125,7 @@ their panel installation.
 
 <div class="gallery medium">
     <a href="/img/gattaca/solar-farm.png" rel="lightbox[solar]">
-        <img src="/img/gattaca/solar-farm.png" >
+        <img src="/img/gattaca/solar-farm.png" alt="CSP in Gattaca">
         <span>Concentrated solar complex from Gattaca</span>
     </a>
 </div>

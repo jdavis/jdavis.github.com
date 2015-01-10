@@ -43,7 +43,7 @@ flowchart is given below of this cycle:
 
 <div class="gallery small">
     <figure>
-        <img src="/img/tdd-vs-bdd/tdd-flowchart.png" width="460">
+        <img src="/img/tdd-vs-bdd/tdd-flowchart.png" alt="TDD flowchart" width="460">
         <figcaption>Test-driven development flowchart.</figcaption>
     </figure>
 </div>
@@ -60,7 +60,7 @@ the difference between TDD and BDD). The normal approach that TDD dictates is to
 use the function and then assert that the result satisfies a certain value.
 
 In this example, we're going to use a JavaScript testing framework called
-[Mocha](http://visionmedia.github.io/mocha/). The tests might look something
+[Mocha][mocha]. The tests might look something
 like this:
 
 {% highlight javascript %}
@@ -213,3 +213,4 @@ you just plain out disagree, I'd love to hear it all! Feel free to [contact
 me](/about#contact). Thanks for reading! ^\_^
 
 [repo]: https://github.com/jdavis/tdd-vs-bdd
+[mocha]: http://mochajs.org/

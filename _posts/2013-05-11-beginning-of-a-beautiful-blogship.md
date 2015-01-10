@@ -96,7 +96,7 @@ things you can do.
 
 [nmarz]: https://twitter.com/nathanmarz
 [experience]: http://nathanmarz.com/blog/my-experience-as-the-first-employee-of-a-y-combinator-startu.html
-[hn]: http://news.ycombinator.com
+[hn]: https://news.ycombinator.com
 [breaking]: http://nathanmarz.com/blog/break-into-silicon-valley-with-a-blog-1.html
 [youshould]: http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html
 [ewds]: http://www.cs.utexas.edu/users/EWD/

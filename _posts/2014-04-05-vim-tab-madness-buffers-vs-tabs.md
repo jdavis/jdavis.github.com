@@ -71,7 +71,7 @@ Here's a gif of what that looks like:
 
 <div class="gallery medium">
     <figure>
-        <img src="/img/vim/buffers.gif" width="600">
+        <img src="/img/vim/buffers.gif" alt="Editing two buffers" width="600">
         <figcaption>Editing two buffers</figcaption>
     </figure>
 </div>
@@ -110,7 +110,7 @@ Here's a gif of these commands:
 
 <div class="gallery medium">
     <figure>
-        <img src="/img/vim/windows.gif" width="600">
+        <img src="/img/vim/windows.gif" alt="Editing two buffers with windows" width="600">
         <figcaption>Editing two buffers with windows</figcaption>
     </figure>
 </div>
@@ -137,7 +137,7 @@ new tab with a different **layout** of windows:
 
 <div class="gallery medium">
     <figure>
-        <img src="/img/vim/tabs.gif" width="600">
+        <img src="/img/vim/tabs.gif" alt="Two tabs with window layouts" width="600">
         <figcaption>Two tabs, both with different window layouts</figcaption>
     </figure>
 </div>
@@ -197,7 +197,7 @@ This is the result:
 
 <div class="gallery medium">
     <figure>
-        <img src="/img/vim/airline.gif" width="600">
+        <img src="/img/vim/airline.gif" alt="All open buffers" width="600">
         <figcaption>A plugin that shows all open buffers</figcaption>
     </figure>
 </div>
@@ -353,7 +353,7 @@ Here's what it looks like:
 
 <div class="gallery medium">
     <figure>
-        <img src="/img/vim/example.gif" width="600">
+        <img src="/img/vim/example.gif" alt="Buffer benefits" width="600">
         <figcaption>An example of buffer benefits</figcaption>
     </figure>
 </div>

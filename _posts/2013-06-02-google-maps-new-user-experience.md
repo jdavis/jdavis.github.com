@@ -31,7 +31,7 @@ left, and then the map with those markers are on the right:
 
 <div class="gallery medium">
     <a href="/img/maps/old-google-maps-search.png" rel="lightbox[maps1]" title="The old interface for Google Maps search results.">
-        <img src="/img/maps/old-google-maps-search.png" width="620">
+        <img src="/img/maps/old-google-maps-search.png" alt="Old Google Maps" width="620">
         <span>The old interface for Google Maps search results.</span>
     </a>
 </div>
@@ -54,7 +54,7 @@ intuitive.
 
 <div class="gallery medium">
     <a href="/img/maps/new-google-maps-search.png" rel="lightbox[maps2]" title="The new interface for Google Maps search results.">
-        <img src="/img/maps/new-google-maps-search.png" width="620">
+        <img src="/img/maps/new-google-maps-search.png" alt="New Google Maps" width="620">
         <span>The new interface for Google Maps search results.</span>
     </a>
 </div>

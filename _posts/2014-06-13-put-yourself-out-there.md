@@ -169,7 +169,7 @@ Don't let the myth hold you back. Follow the words of Michael Scott:
 
 <div class="gallery small">
     <a href="/img/put/michael-scott.png" rel="lightbox[michael]" title="Michael Scott">
-        <img src="/img/put/michael-scott.png" width="350">
+        <img src="/img/put/michael-scott.png" alt="Wise Michael Scott quote" width="350">
         <span>Michael Scott and his infinite wisdom.</span>
     </a>
 </div>
