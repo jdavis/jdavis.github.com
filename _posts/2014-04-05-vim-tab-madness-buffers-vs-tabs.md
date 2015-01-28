@@ -145,7 +145,7 @@ new tab with a different **layout** of windows:
 The first tab is just split horizontally while the second tab is split
 horizontally and vertically.
 
-As you can see, the first and second tabs have have different layouts yet they
+As you can see, the first and second tabs have different layouts yet they
 are only *viewing* the same two buffers: `.vimrc` and `.zshrc`.
 
 This brings us to the basic problem of tabs within Vim.
