@@ -29,7 +29,7 @@ really need to check out [knitr][knitr] (GitHub [Source][github]).
 Also, if you don't [do your homework in LaTeX][homework-latex], you're really
 missing out.
 
-## Foreward
+## Foreword
 
 <div class="figure right">
     <img src="/img/knitr/book.png" alt="knitr book">
