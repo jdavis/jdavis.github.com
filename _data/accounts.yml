@@ -59,6 +59,10 @@ reddit:
     name: Reddit
     site: "http://www.reddit.com/user/passingby/"
 
+smashrun:
+    name: Smashrun
+    site: "http://smashrun.com/josh.davis"
+
 stackoverflow:
     name: StackOverflow
     site: "http://stackoverflow.com/users/2337627/josh-davis"
