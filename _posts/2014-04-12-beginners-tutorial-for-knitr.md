@@ -283,7 +283,7 @@ knitr makes working on Statistics and Machine Learning a breeze. I can't imagine
 trying to work without it.
 
 Do you use knitr and have some feedback? Feel free to [send me an
-email][contact] me or Tweet at me on Twitter: [\@HopefulJosh][twitter]. I'd love
+email][contact] me or Tweet at me on Twitter: [&#64;HopefulJosh][twitter]. I'd love
 to learn more or talk.
 
 [book]: http://smile.amazon.com/dp/B00F2MPD9O
