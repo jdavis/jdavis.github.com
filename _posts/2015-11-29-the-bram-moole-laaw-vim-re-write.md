@@ -47,10 +47,11 @@ wasn't true until its 2.0 release in 1993. Before being called Vi iMproved, it
 was called Vi iMitation. Do you see a pattern?
 
 The reason for this is because [Bram Moolenaar][bram-wiki], the original creator
-of Vim, had an Amiga computer at the time but Vi wasn't available for it. So he
-started out with a different text editor and eventually built it up to add Vi
-functionality. In fact, Vim still has Amiga code and might still work with [some
-versions][vim-amiga].
+of Vim (and apparently a big fan of German beer as dictated by his Wikipedia
+picture?), had an Amiga computer at the time but Vi wasn't available for it. So
+he started out with a different text editor and eventually built it up to add Vi
+functionality.  In fact, Vim still has Amiga code and might still work with
+[some versions][vim-amiga].
 
 This was the first Vi rewrite (albeit in the same language, C) and a very large
 success by Bram. To this day, if you run `vi` on most systems, it is just
