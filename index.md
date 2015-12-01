@@ -3,8 +3,8 @@ id: home
 layout: default
 title: Home
 description:
-    The personal website for Josh Davis, contains about info, contact links,
-    list of projects, and various articles.
+    Writings by Josh Davis, a software engineer based out of Seattle, on software,
+    science, and engineering.
 ---
 
 <h2>Latest Post <i class="icon-double-angle-right"></i></h2>
