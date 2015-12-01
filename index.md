@@ -3,7 +3,7 @@ id: home
 layout: default
 title: Home
 description:
-    Writings by Josh Davis, a software engineer based out of Seattle, on software,
+    Writings by Josh Davis, a software engineer based out of Seattle, on programming,
     science, and engineering.
 ---
 
