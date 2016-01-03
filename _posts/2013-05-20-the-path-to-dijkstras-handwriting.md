@@ -142,6 +142,19 @@ handwriting and Dijkstra's.
 Like I said, it isn't perfect and I can still tidy it up a bit but it certainly
 is better than where I started.
 
+I rewrote the sample that I provided above in my own handwriting to compare it
+with Dijkstra's. My script doesn't flow as well as his and mine is a bit sharper
+in the lines. Still though, it is a lot better than what it was before.
+
+<div class="gallery small">
+    <a href="/img/handwriting/comparison.png" rel="lightbox" title="Comparison of the sample paper from above">
+        <img src="/img/handwriting/comparison.png" alt="Comparison" width="460">
+        <span>Comparison of my rewrite from the paper sample above</span>
+    </a>
+</div>
+
+## Conclusion
+
 The thing that I learned is that often someone's handwriting isn't exactly
 "bad", usually the person just doesn't take the time to slow down and write
 things nicely. There are still sometimes when my handwriting becomes a bit
