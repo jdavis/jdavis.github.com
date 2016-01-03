@@ -66,9 +66,9 @@ symlinked to `vim` as you can see from El Capitan's `/usr/bin/`.
 
 ## The Law
 
-This finally brings me to The Law which will from now on will be called The Bram
-Moole-Laaw. This is because Bram is currently the [BDFL][bram-bdfl] of Vim and
-was the first (and so far the last?) person to every successfully rewrite
+This finally brings me to The Law which will from now on will be called **The Bram
+Moole-Laaw**. This is because Bram is currently the [BDFL][bram-bdfl] of Vim and
+was the first (and so far the last?) person to ever successfully rewrite
 Vi/Vim.
 
 Here is The Law:
