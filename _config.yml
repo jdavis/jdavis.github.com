@@ -1,4 +1,4 @@
-highlighter: rogue
+highlighter: rouge
 permalink: pretty
 markdown: kramdown
 
