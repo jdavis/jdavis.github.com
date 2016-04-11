@@ -32,11 +32,11 @@ usually broken up into five different stages:
 2. The developer then runs those tests and (obviously) they fail because none of
    those features are actually implemented.
 3. Next the developer actually implements those tests in code.
-4. If the developer writes his code well, then the in next stage he will see his
-   tests pass.
-5. The developer can then refactor his code, add comments, clean it up, as
-   he wishes because the developer knows that if the new code breaks something,
-   then the tests will alert him by failing.
+4. If the developer writes their code well, then the in next stage they will see
+   that their tests pass.
+5. The developer can then refactor their code, add comments and clean it up, as
+   they wish because the developer knows that if the new code breaks something,
+   then the tests will be an alert by failing.
 
 The cycle can just continue as long as the developer has more features to add. A
 flowchart is given below of this cycle:
