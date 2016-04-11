@@ -102,5 +102,5 @@ in the future. Sometimes the most intuitive and easiest way to interact with
 something might still present issues because of the user's past experiences and
 knowledge.
 
-[io2013]: https://developers.google.com/events/io/
+[io2013]: https://developers.google.com/events/io/2013/
 [video]: http://www.youtube.com/watch?v=9pmPa_KxsAM&t=2h25m50s

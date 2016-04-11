@@ -30,10 +30,6 @@ hn:
     name: HackerNews
     site: "https://news.ycombinator.com/user?id=davis"
 
-instagram:
-    name: Instagram
-    site: "http://instagram.com/hopefuljosh"
-
 keybase:
     name: Keybase.io
     site: "https://keybase.io/davis"
@@ -42,10 +38,6 @@ keybase:
 kickstarter:
     name: Kickstarter
     site: "https://kickstarter.com/profile/joshd"
-
-lastfm:
-    name: Last.fm
-    site: "http://last.fm/user/joshldavis"
 
 linkedin:
     name: LinkedIn

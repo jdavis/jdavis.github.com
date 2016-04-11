@@ -295,7 +295,7 @@ to learn more or talk.
 [github]: https://github.com/yihui/knitr
 [homework-latex]: http://joshldavis.com/2014/02/12/doing-your-homework-in-latex/
 [kicker]: https://github.com/alloy/kicker
-[knitr-script]: https://github.com/jdavis/dotfiles/blob/master/bin/knitr
+[knitr-script]: https://github.com/jdavis/dotfiles/blob/d4551c015b1ac4c8438b5e590661ed3dddf63928/bin/knitr
 [knitr]: http://yihui.name/knitr/
 [latexmkrc]: https://github.com/jdavis/dotfiles/blob/master/.latexmkrc
 [output]: http://yihui.name/knitr/demo/output/
