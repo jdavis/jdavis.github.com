@@ -87,10 +87,11 @@ stuck out at me because it is so Iowan, yet ties together two completely
 different parts of American history: the agrarian one and the current
 technological one.
 
-It's probably safe to say that if Robert Noyce hadn't gone to MIT, then to work
-with [William Shockley][shockley] with the knowledge and expertise that he had
-in transistors, that Silicon Valley either would have been delayed or at least
-it would look different than it does today.
+It's probably safe to say that if Robert Noyce hadn't graduated from Grinnell
+College, went to graduate school at MIT, then to work with [William
+Shockley][shockley] with the knowledge and expertise that he had in transistors,
+that Silicon Valley either would have been delayed or at least it would look
+different than it does today.
 
 I loved this story and the implication it could have had on the future if a grumpy
 mayor had gotten his way. It's a quirky little part of history that reminded me
