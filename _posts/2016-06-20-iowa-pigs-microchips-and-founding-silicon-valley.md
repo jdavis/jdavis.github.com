@@ -65,7 +65,7 @@ Here's the story which starts on page 21:
 > line Noyce had skirted throughout his high school years, for as the letter the
 > dean sent home to Ralph and Harriet Noyce explained, "In the agricultural
 > state of Iowa, stealing a domestic animal is a felony which carries a minimum
-> penalty of a year in prison and a fin of one thousand dollars." A prize pig
+> penalty of a year in prison and a fine of one thousand dollars." A prize pig
 > could easily sell for $1,000, nearly three times Noyce's annual college
 > tuition.
 >
