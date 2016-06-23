@@ -286,7 +286,7 @@ Do you use knitr and have some feedback? Feel free to [send me an
 email][contact] me or Tweet at me on Twitter: [&#64;HopefulJosh][twitter]. I'd love
 to learn more or talk.
 
-[book]: http://smile.amazon.com/dp/B00F2MPD9O
+[book]: https://www.amazon.com/gp/product/B00F2MPD9O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00F2MPD9O&linkCode=as2&tag=jld07-20&linkId=7c4c4862760278bd1051cc45224aaf2b
 [chunk]: http://yihui.name/knitr/options#chunk_options
 [contact]: /about/#contact
 [cran]: http://cran.r-project.org/web/packages/knitr/index.html
