@@ -248,7 +248,7 @@ to the community =]
 [go]: http://golang.org/
 [rise]: http://joshldavis.com/2013/06/16/the-rise-of-the-gang-of-four-with-rust/
 [rdp]: https://github.com/jdavis/rust-design-patterns
-[gof]: http://amzn.com/0201633612
+[gof]: http://amzn.to/28RLKFI
 [451]: http://en.wikipedia.org/wiki/Fahrenheit_451
 [rprog]: http://www.reddit.com/r/programming/
 [rrust]: http://www.reddit.com/r/rust/
