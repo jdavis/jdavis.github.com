@@ -189,7 +189,7 @@ precision and a direct test of your knowledge of C and the computer.
 It's certainly more magical and beautiful this way.
 
 
-[deepc]: http://amzn.com/0131774298
+[deepc]: http://amzn.to/28WuEEA
 [adas]: http://seattletechnicalbooks.com/
 [k&r]: http://en.wikipedia.org/wiki/The_C_Programming_Language
 [c]: http://en.wikipedia.org/wiki/C_(programming_language)
