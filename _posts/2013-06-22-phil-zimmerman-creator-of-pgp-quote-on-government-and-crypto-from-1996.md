@@ -45,7 +45,7 @@ Here's the quote:
 > call, everything could be filtered and scanned and automatically recognized by
 > voice recognition technology and transcribed.
 
-[singh]: http://amzn.com/0385495323
+[singh]: http://amzn.to/28NxpbQ
 [pgp]: http://en.wikipedia.org/wiki/Pretty_Good_Privacy
 [zimm]: http://www.philzimmermann.com/EN/background/index.html
 [radio]: http://www.animatedsoftware.com/hightech/hightech.htm
