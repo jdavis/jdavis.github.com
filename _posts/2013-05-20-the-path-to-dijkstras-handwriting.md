@@ -13,6 +13,11 @@ js:
 {{ page.title }}
 ================
 
+#### Follow Up
+
+> Read my follow up blog post from Oct 2017 about how I [received an email from
+> Edsger Dijkstra's son][email].
+
 My handwriting used to be terrible. I think I got to a point in fourth grade
 where it just stopped getting better unlike most people. It didn't bother me
 either. It was still semi-legible to others and perfectly readable to myself.
@@ -167,3 +172,4 @@ write the way I learned to.
 [ewd]: http://www.cs.utexas.edu/~EWD/ewd10xx/EWD1036.PDF
 [font]: http://www.fonts101.com/fonts/view/Uncategorized/34398/Dijkstra
 [handwriting]: http://www.paperpenalia.com/handwriting.html
+[email]: {% post_url 2017-10-11-an-email-from-edsger-dijkstras-son %}
