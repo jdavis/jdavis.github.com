@@ -20,7 +20,7 @@ members.
 In January 2016, I received an email from Marcus Dijkstra, Edsger's son. It was
 a surreal moment and an one of my favorite emails to date.
 
-I want to share it with everyone because of extra details it has about how
+I want to share it with everyone because of the extra details it has about how
 Dijkstra improved upon his handwriting.
 
 ## The Email
