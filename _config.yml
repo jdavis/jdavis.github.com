@@ -16,7 +16,7 @@ css:
     - /lib/font-awesome/css/font-awesome.min.css
     - //fonts.googleapis.com/css?family=Droid+Sans:400,700
 
-gems:
+plugins:
     - jekyll-redirect-from
     - jekyll-mentions
 
