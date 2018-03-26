@@ -12,6 +12,10 @@
     padding-bottom: 1em;
 }
 
+.poem p {
+    margin-bottom: 1.5em;
+}
+
 .poem span {
     text-indent: -1.5em;
     margin-left: 1.5em;
