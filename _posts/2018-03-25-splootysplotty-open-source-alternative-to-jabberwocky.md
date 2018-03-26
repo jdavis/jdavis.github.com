@@ -4,7 +4,9 @@ title: Splootysplotty&#58; Open Source Alternative to Jabberwocky
 css:
     - /css/poetry.css
 description:
-    TODO
+    A trend in the open source community is to use cute naming of well known
+    concepts for a project. This is a satire of that based on Lewis Carroll's
+    famous work.
 ---
 
 {{ page.title }}
