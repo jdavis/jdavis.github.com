@@ -1,15 +1,3 @@
-adagio:
-    name: Adagio
-    site: "http://www.adagio.com/pages/customer_profile.html?userId=349628JD&SID=6e0c41dec217c656026ebd206454e619"
-
-amazon:
-    name: Amazon
-    site: "https://www.amazon.com/gp/pdp/profile/AYOIM6S23UDAH"
-
-coinbase:
-    name: Coinbase
-    site: "https://coinbase.com/jdavis"
-
 facebook:
     name: Facebook
     site: "https://www.facebook.com/joshd"
@@ -22,10 +10,6 @@ goodreads:
     name: Goodreads
     site: "http://goodreads.com/joshuad"
 
-google:
-    name: Google+
-    site: "https://www.google.com/+JoshDavis9"
-
 hn:
     name: HackerNews
     site: "https://news.ycombinator.com/user?id=davis"
@@ -35,10 +19,6 @@ keybase:
     site: "https://keybase.io/davis"
     key: "https://keybase.io/davis/key.asc"
 
-kickstarter:
-    name: Kickstarter
-    site: "https://kickstarter.com/profile/joshd"
-
 linkedin:
     name: LinkedIn
     site: "https://www.linkedin.com/in/joshualeedavis"
@@ -46,10 +26,6 @@ linkedin:
 npm:
     name: NPM
     site: "http://npmjs.org/~jdavis"
-
-reddit:
-    name: Reddit
-    site: "http://www.reddit.com/user/passingby/"
 
 smashrun:
     name: Smashrun
