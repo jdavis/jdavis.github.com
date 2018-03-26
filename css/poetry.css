@@ -7,13 +7,12 @@
 .poem {
     color: #000;
     font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.5;
-    padding-left: 2em;
     padding-bottom: 1em;
 }
 
 .poem span {
-    text-indent: -2em;
-    margin-left: 2em;
+    text-indent: -1.5em;
+    margin-left: 1.5em;
 }

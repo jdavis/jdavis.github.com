@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Splootysplotty&#58; Open Source Alternative to Jabberwocky
+title: Splootysplotty&#58; Open Source Alternative to Lewis Carroll's Jabberwocky
 meta: splootysplotty_meta.html
 css:
     - /css/poetry.css
