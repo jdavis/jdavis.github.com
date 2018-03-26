@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Splootysplotty&#58; Open Source Alternative to Jabberwocky
+meta: splootysplotty_meta.html
 css:
     - /css/poetry.css
 description:
@@ -9,8 +10,13 @@ description:
     famous work.
 ---
 
-{{ page.title }}
-================
+
+<div class="sploot-logo">
+    <img src="/img/splootysplotty/logo.png" alt="Logo of Splootysplotty" />
+</div>
+
+
+## {{page.title}}
 
 Welcome to my fantastic open source project named Splootysplotty. It is easier
 now than ever to Sploot the Splott.
@@ -46,7 +52,7 @@ project.
 </p>
 
 <p>
-    "Just Sploot and Splott!” I say a geel.
+    "Just Sploot and Splott!” I say ageel.
     <br/>
     <span>Frispy code, interface that’s sweeze.</span>
     <br/>

@@ -1,3 +1,9 @@
+.sploot-logo {
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
 .poem {
     color: #000;
     font-family: Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif;
