@@ -18,6 +18,9 @@ description:
 
 ## {{page.title}}
 
+(This is a satire article that is critiquing the common naming
+scheme in some open source projects. See [this section below](#lets-have-a-talk-open-source) for more details.)
+
 Welcome to my fantastic open source project named Splootysplotty. It is easier
 now than ever to Sploot the Splott.
 
