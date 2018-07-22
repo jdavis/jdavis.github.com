@@ -11,7 +11,7 @@ description:
 > The unknown Leadership Principle.
 
 It’s well known that Amazon gives every new employee a door as a desk on their
-first day. As Ben Horowitz says in [The Hard Things About Hard
+first day. As Ben Horowitz says in [The Hard Thing About Hard
 Things][hard-things], this is a way to set the tone of the culture.
 
 It reminds employees the tenants of the culture and breaks previous habits. It
