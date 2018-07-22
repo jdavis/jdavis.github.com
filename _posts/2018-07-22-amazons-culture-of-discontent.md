@@ -2,7 +2,8 @@
 layout: post
 title: Amazon's Culture of Discomfort
 description:
-    TODO
+    The door desk is a well known part of Amazon's culture but there is an
+    unknown part that has a larger impact on how the company operates.
 ---
 
 # Amazon’s Culture of Discomfort
