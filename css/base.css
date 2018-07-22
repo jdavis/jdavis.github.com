@@ -9,7 +9,6 @@ ul { list-style: none; }
 
 body {
     font-family: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #505050;
     line-height: 22px;
 }
 
@@ -74,7 +73,7 @@ ul.pretty:after {
 }
 
 .container {
-    width: 1200px;
+    width: 960px;
     min-height: 100%;
     height: 100%;
     margin: 0 auto;
@@ -172,7 +171,7 @@ button.nav {
 .wrap {
     height: 100%;
     min-height: 752px;
-    width: 1000px;
+    width: 660px;
     float: left;
     margin: 0 9px 0 10px;
 }
@@ -200,6 +199,7 @@ button.nav {
 .content h1, .content h2, .content h3, .content h4, .content h5 {
     margin-bottom: 18px;
     padding-bottom: 6px;
+    line-height: 1.2em;
     clear: both;
 }
 
@@ -267,19 +267,19 @@ button.nav {
 }
 
 .content .gallery.medium {
-    width: 640px;
+    width: 600px;
 }
 
 .content .gallery.large {
-    width: 800px;
+    width: 600px;
 }
 
 .content .gallery.xlarge {
-    width: 960px;
+    width: 600px;
 }
 
 .content .gallery.xxlarge {
-    width: 1120px;
+    width: 600px;
 }
 
 .content .gallery:before, .content .gallery:after {
