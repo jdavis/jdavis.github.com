@@ -540,3 +540,19 @@ table.pretty thead tr th {
     line-height: 1.42857143;
     border-bottom: 1px solid #ddd;
 }
+
+/*
+ * Recompiled banner
+ */
+
+.recompiled {
+    padding: 8px 14px;
+    border-radius: 4px;
+    background-color: #f5f5f5;
+}
+
+.recompiled h4 {
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0;
+}
