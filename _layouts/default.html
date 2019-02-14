@@ -15,12 +15,11 @@
         <meta property="og:type" content="website">
     {% if page.meta %}
         {% include {{ page.meta }} %}
-    {% else %}
-        <meta property="og:image" content="{{ site.url }}/img/misc/me.png">
     {% endif %}
 
         <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
+        <link rel="icon" href="http://www.yourwebsite.com/favicon.png">
         <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}{{ site.feed }}">
     {% for css in site.css %}
         <link href="{{ css }}" rel="stylesheet" type="text/css">
@@ -38,36 +37,7 @@
 
     <body>
         <div class="container">
-            <button class="nav js-mobile">
-                <i class="icon-reorder"></i>
-            </button>
-            <div class="side">
-                <div class="logo">
-                    <img src="/img/misc/rocket.png" class="rocket" alt="My cat, Rocket"/>
-                    <img src="/img/misc/me.png" class="josh" alt="Josh Davis"/>
-                </div>
-
-                <h2>Josh Davis</h2>
-
-                <div class="paragraphs">
-                    {% include sidebar.html %}
-                </div>
-
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/posts/">Posts</a></li>
-                    <li><a href="/about/">About</a></li>
-                    <li><a href="/about/#contact">Contact</a></li>
-                    <li><a href="{{ site.feed }}">RSS <i class="icon-rss"></i></a></li>
-                </ul>
-
-                <p class="profiles">
-                    <a title="GitHub" href="{{ site.data.accounts.github.site }}"><i class="icon-github-sign"></i></a>
-                    <a title="Twitter" href="{{ site.data.accounts.twitter.site }}"><i class="icon-twitter-sign"></i></a>
-                    <a title="Facebook" href="{{ site.data.accounts.facebook.site }}"><i class="icon-facebook-sign"></i></a>
-                    <a title="LinkedIn" href="{{ site.data.accounts.linkedin.site }}"><i class="icon-linkedin-sign"></i></a>
-                </p>
-            </div>
+            {% include header.html %}
 
             <div class="wrap">
                 <div class="content">

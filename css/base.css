@@ -168,12 +168,54 @@ button.nav {
     border-bottom: none;
 }
 
+/*
+ * Header
+ */
+
+.header {
+    padding-top: 12px;
+}
+
+.header .name {
+    text-align: center;
+}
+
+.header .name a {
+    color: black;
+}
+
+.header a {
+    font-weight: bold;
+    border-bottom: none;
+}
+
+.header .profiles {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.header .profiles a {
+    font-size: 1.3em;
+    padding: 0 5px;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    padding: 0 10px;
+}
+
 .wrap {
     height: 100%;
     min-height: 752px;
     width: 660px;
-    float: left;
-    margin: 0 9px 0 10px;
+    margin: 0 auto;
 }
 
 .wrap:before, .wrap:after {
@@ -192,8 +234,7 @@ button.nav {
 
 .content {
     min-height: 100%;
-    padding: 30px 40px;
-    border-left: 1px solid #dededc;
+    padding: 0 40px 10px 40px;
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5 {
@@ -456,7 +497,6 @@ button.nav {
 
     .wrap {
         width: auto;
-        margin-left: 160px;
         float: none;
     }
 
@@ -546,6 +586,7 @@ table.pretty thead tr th {
  */
 
 .recompiled {
+    margin-top: 14px;
     padding: 8px 14px;
     border-radius: 4px;
     background-color: #f5f5f5;

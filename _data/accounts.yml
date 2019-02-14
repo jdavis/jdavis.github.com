@@ -23,10 +23,6 @@ linkedin:
     name: LinkedIn
     site: "https://www.linkedin.com/in/joshualeedavis"
 
-npm:
-    name: NPM
-    site: "http://npmjs.org/~jdavis"
-
 smashrun:
     name: Smashrun
     site: "http://smashrun.com/josh.davis"
@@ -34,10 +30,6 @@ smashrun:
 stackoverflow:
     name: StackOverflow
     site: "http://stackoverflow.com/users/2337627/josh-davis"
-
-strava:
-    name: Strava
-    site: "http://strava.com/athletes/joshdavis"
 
 twitter:
     name: Twitter
