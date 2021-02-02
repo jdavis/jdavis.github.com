@@ -7,8 +7,6 @@ description:
     science, and engineering.
 ---
 
-{% include recompiled.html %}
-
 <h2>Latest Post <i class="icon-double-angle-right"></i></h2>
 
 <h4>
