@@ -153,7 +153,7 @@ tons of different resources that I've found useful in learning LaTeX:
 
 2. [LaTeX Wikibook][wikibook]
 
-## Affect on Performance
+## Effect on Performance
 
 I have a solid set of anecdotal evidence in favor of using LaTeX for writing up
 my homework.
